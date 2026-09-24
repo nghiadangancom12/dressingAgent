@@ -1,0 +1,31 @@
+services:
+  server:
+    build: ./server
+    restart: unless-stopped
+    # DASHSCOPE_API_KEY, DASHSCOPE_BASE_URL, AI_MODEL, optional SERPER_API_KEY
+    env_file: ./server/.env
+    environment:
+      # Fixed inside the network; nginx proxies to server:3001 regardless of .env
+      PORT: 3001
+    volumes:
+      # Scraped catalog + lookbook cache survive restarts and rebuilds
+      - server-data:/app/data
+    # Not published: only reachable through the client's /api proxy.
+    # Uncomment to call the API directly from the host (host port 3001 may be taken).
+    # ports:
+    #   - "3002:3001"
+
+  client:
+    build:
+      context: ./client
+      args:
+        VITE_API_URL: ""
+    restart: unless-stopped
+    ports:
+      - "${CLIENT_PORT:-8080}:80"
+    depends_on:
+      server:
+        condition: service_healthy
+
+volumes:
+  server-data:

@@ -1,0 +1,3495 @@
+{
+  "brand": "cocosin",
+  "scrapedAt": "2026-09-24T08:51:49.983Z",
+  "totalProducts": 113,
+  "products": [
+    {
+      "id": "cocosin-1076698806",
+      "brand": "Coco Sin",
+      "name": "Túi Canvas Đỏ Đậm",
+      "price": 850000,
+      "originalPrice": 850000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/tui-canvas-do-dam",
+      "images": [],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "female",
+      "colors": [
+        "red"
+      ],
+      "sizes": [],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-24T08:51:47.578Z"
+    },
+    {
+      "id": "cocosin-1076692380",
+      "brand": "Coco Sin",
+      "name": "Áo Thun Đen Lệch Vai",
+      "price": 1500000,
+      "originalPrice": 1500000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/ao-thun-den-lech-vai-1",
+      "images": [],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-24T08:51:47.578Z"
+    },
+    {
+      "id": "cocosin-1076692291",
+      "brand": "Coco Sin",
+      "name": "Áo Thun Đen Sát Nách Cột Dây",
+      "price": 1200000,
+      "originalPrice": 1200000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/ao-thun-den-sat-nach-cot-day",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/394cdba2d5c1482399f5681c882b9c57_50e5c6a22c634adfa65d47febcb54425.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-24T08:51:47.578Z"
+    },
+    {
+      "id": "cocosin-1076692184",
+      "brand": "Coco Sin",
+      "name": "Áo Thun Xanh Rêu Sát Nách Cột Dây",
+      "price": 1200000,
+      "originalPrice": 1200000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/ao-thun-xanh-reu-sat-nach-cot-day",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/256c51dbd6ae4545b8a3d0e3655ca40e_b0f21cba45bf42f58aad6d4116822107.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "female",
+      "colors": [
+        "green"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-24T08:51:47.578Z"
+    },
+    {
+      "id": "cocosin-1076692109",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Trắng Body Tay Choàng",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-trang-body-tay-choang",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/003cf902cecf4b3ebb298708dbad2a1b_ce2ca719636e4a3daf6c5cefd99464bd.jpg"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-24T08:51:47.578Z"
+    },
+    {
+      "id": "cocosin-1075225672",
+      "brand": "Coco Sin",
+      "name": "Khăn Phối Tua Rua",
+      "price": 650000,
+      "originalPrice": 650000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/khan-phoi-tua-rua",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/7_4d902dd0ed1c435288d736bad09dbef1.png"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "female",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [],
+      "material": "Polyester",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.579Z"
+    },
+    {
+      "id": "cocosin-1075187394",
+      "brand": "Coco Sin",
+      "name": "Đầm Trắng Hở Vai Xếp Nhún Một Bên",
+      "price": 1750000,
+      "originalPrice": 1750000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-trang-ho-vai-xep-nhun-mot-ben",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/27_f3ebe5be50eb4d349018a08063c9e9bc.png",
+        "https://cdn.hstatic.net/products/200000036162/28_b911376459d24ac6a886210e0de65220.png",
+        "https://cdn.hstatic.net/products/200000036162/29_075d8534fcec42c4826c72fda53b6c8f.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "polyester",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.579Z"
+    },
+    {
+      "id": "cocosin-1075187367",
+      "brand": "Coco Sin",
+      "name": "Đầm Sát Nách Lụa Trắng Phối Tơ Đen",
+      "price": 1750000,
+      "originalPrice": 1750000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-sat-nach-lua-trang-phoi-to-den",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/5_9f9c7129ef7e436e9579052b567db9c6.png",
+        "https://cdn.hstatic.net/products/200000036162/6_aac18e74b00a4bcb8cca57f5e63e815e.png",
+        "https://cdn.hstatic.net/products/200000036162/7_7042e518804e40d9bf4aab6dbec5ce53.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.579Z"
+    },
+    {
+      "id": "cocosin-1075187262",
+      "brand": "Coco Sin",
+      "name": "Áo Ống Thun Trắng Bodysuit",
+      "price": 790000,
+      "originalPrice": 790000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/ao-ong-thun-trang-bodysuit",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/18_06d8b3aaa22f4aec9ecaf62d45ec4377.png",
+        "https://cdn.hstatic.net/products/200000036162/16_4fd41328de584872b1262dba20d98768.png",
+        "https://cdn.hstatic.net/products/200000036162/19_961bbfba3be541d69be1e3974572181a.png"
+      ],
+      "category": "top",
+      "subcategory": "top",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.579Z"
+    },
+    {
+      "id": "cocosin-1075187253",
+      "brand": "Coco Sin",
+      "name": "Áo Thun Trắng Sát Nách Cổ Yếm",
+      "price": 1100000,
+      "originalPrice": 1100000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/ao-thun-trang-sat-nach-co-yem",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/15_01d8d818358f45ec83470341ffe8b8f1.png",
+        "https://cdn.hstatic.net/products/200000036162/13_872938de177a4ad3a5f3963c61ad2253.png",
+        "https://cdn.hstatic.net/products/200000036162/14_f3b1d36c09834f8391abe4f93fbdb7a9.png"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.579Z"
+    },
+    {
+      "id": "cocosin-1075187207",
+      "brand": "Coco Sin",
+      "name": "Váy Tơ Kem Phối Thun Đen Rút Dây",
+      "price": 1350000,
+      "originalPrice": 1350000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/vay-to-kem-phoi-thun-den-rut-day",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/31_f50827f88ce34d6da93bb93a704fdead.png",
+        "https://cdn.hstatic.net/products/200000036162/32_f4dbd0a09cfd45548fcead9108819b19.png",
+        "https://cdn.hstatic.net/products/200000036162/33_0671da3281cb434590592936507cd5ec.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black",
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.579Z"
+    },
+    {
+      "id": "cocosin-1075187199",
+      "brand": "Coco Sin",
+      "name": "Váy Lụa Đen Phối Tua Rua",
+      "price": 1350000,
+      "originalPrice": 1350000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/vay-lua-den-xa-rong-phoi-tua-rua",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/16_6385a6cc3b2b4edfb43511f6e16c8f91.png",
+        "https://cdn.hstatic.net/products/200000036162/17_9fcb8936f7d641748a1044e102fab361.png",
+        "https://cdn.hstatic.net/products/200000036162/18_ce30ec4429de4707af909a7aba808314.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.579Z"
+    },
+    {
+      "id": "cocosin-1075187170",
+      "brand": "Coco Sin",
+      "name": "Quần Linen Trắng Xẻ Hai Bên Sườn",
+      "price": 1250000,
+      "originalPrice": 1250000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/quan-linen-trang-xe-hai-ben-suon",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/13_eae4d3caf6c54409ae2db98cef00f4eb.png",
+        "https://cdn.hstatic.net/products/200000036162/14_d63eb180a87b449c840bedeb196542a7.png",
+        "https://cdn.hstatic.net/products/200000036162/15_b14474c66bfd4114a8ea96845b94b5d0.png"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "Linen",
+      "tags": [
+        "linen"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.579Z"
+    },
+    {
+      "id": "cocosin-1075187145",
+      "brand": "Coco Sin",
+      "name": "Quần Lửng Linen Trắng Phối Lưng",
+      "price": 1250000,
+      "originalPrice": 1250000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/quan-lung-linen-trang-phoi-lung",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/20_27cb815aa02242cfb064c040923edad9.png",
+        "https://cdn.hstatic.net/products/200000036162/21_7b727eed06354b4b83d011e88f0bb032.png",
+        "https://cdn.hstatic.net/products/200000036162/22_34b5b03390d945acb60f8cf5829e4b40.png"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "Linen",
+      "tags": [
+        "linen"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.579Z"
+    },
+    {
+      "id": "cocosin-1075187052",
+      "brand": "Coco Sin",
+      "name": "Áo Thun Đen Sát Nách",
+      "price": 890000,
+      "originalPrice": 890000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/ao-thun-den-sat-nach",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/23_c84ee81b65f046e19cd08453d91e2c82.png",
+        "https://cdn.hstatic.net/products/200000036162/20_7156e6d5677b467683e903a13095fcb1.png",
+        "https://cdn.hstatic.net/products/200000036162/21_96d5e78a85de467695a8e9ae28c79275.png"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.580Z"
+    },
+    {
+      "id": "cocosin-1075187002",
+      "brand": "Coco Sin",
+      "name": "Áo Thun Đen Cổ Tròn Tay Ngắn",
+      "price": 890000,
+      "originalPrice": 890000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/ao-thun-den-co-tron-tay-ngan",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/35_34f434de4fd24d0b8f710712899572f8.png",
+        "https://cdn.hstatic.net/products/200000036162/36_b3e6f636c4144bb5a77126f763c1b70e.png",
+        "https://cdn.hstatic.net/products/200000036162/37_9d6460ff54d94846bb0fd096fa40af29.png"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [],
+      "material": "",
+      "tags": [
+        "basic"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.580Z"
+    },
+    {
+      "id": "cocosin-1075186908",
+      "brand": "Coco Sin",
+      "name": "Áo Cổ Yếm Kem",
+      "price": 1250000,
+      "originalPrice": 1250000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/ao-co-yem-kem",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/39_1fe0d78d692e4039b631eea8cb9db66b.png",
+        "https://cdn.hstatic.net/products/200000036162/36_c7f9ab9e2d204f2d856fc5872133ba4c.png",
+        "https://cdn.hstatic.net/products/200000036162/37_d5e22541e50f47939c58764473ebcd96.png"
+      ],
+      "category": "top",
+      "subcategory": "top",
+      "gender": "female",
+      "colors": [
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.580Z"
+    },
+    {
+      "id": "cocosin-1075186871",
+      "brand": "Coco Sin",
+      "name": "Váy Kem Mini Chữ A",
+      "price": 1250000,
+      "originalPrice": 1250000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/vay-kem-mini-chu-a",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/36_58bd46a0b745470588e11eb70a50ebdc.png",
+        "https://cdn.hstatic.net/products/200000036162/37_453df73399794511878cb832861b30f1.png",
+        "https://cdn.hstatic.net/products/200000036162/38_398676955f014018b436b1c62bd6ddda.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "minimalist"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.580Z"
+    },
+    {
+      "id": "cocosin-1075006819",
+      "brand": "Coco Sin",
+      "name": "Đầm 2 Dây Tapta Kem Da",
+      "price": 2450000,
+      "originalPrice": 2450000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-2-day-tapta-kem-da",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/9_9c9f309d9d4046c083de0afeaf3b4c8c.png",
+        "https://cdn.hstatic.net/products/200000036162/10_aba01104ba364caaa2f1f2ab286e8f5c.png",
+        "https://cdn.hstatic.net/products/200000036162/11_07e0a30dcb6e4ad7b4053a5cd6941ee7.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "len",
+      "tags": [
+        "slim-fit",
+        "minimalist"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.580Z"
+    },
+    {
+      "id": "cocosin-1075006797",
+      "brand": "Coco Sin",
+      "name": "Đầm Tapta Kem Da Kèm Khăn Choàng",
+      "price": 2450000,
+      "originalPrice": 2450000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-tapta-kem-da-kem-khan-choang",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/17_52f544c305274549929f969f31cd3a13.png",
+        "https://cdn.hstatic.net/products/200000036162/18_b8e843a20cdf483da303a4adcfd8844d.png",
+        "https://cdn.hstatic.net/products/200000036162/19_775905ec691e4d9f9a13e36323832403.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "",
+      "tags": [
+        "minimalist"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.580Z"
+    },
+    {
+      "id": "cocosin-1075006510",
+      "brand": "Coco Sin",
+      "name": "Áo Thun Trắng Cổ Yếm Phối Kiềng",
+      "price": 1100000,
+      "originalPrice": 1100000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/ao-thun-trang-co-yem-phoi-kieng",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/26_444d93338934474c9599fa46beab49bb.png",
+        "https://cdn.hstatic.net/products/200000036162/24_40a288ead4a24eb380f5a0712e668aa8.png",
+        "https://cdn.hstatic.net/products/200000036162/25_c7c185db8b0045d6a32fe13d0e8bc643.png"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.580Z"
+    },
+    {
+      "id": "cocosin-1075006501",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Trắng Cổ Đổ Xếp Nhún",
+      "price": 1950000,
+      "originalPrice": 1950000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-trang-co-do-xep-nhun",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/24_cff21327731c43e794ed8de35608e35e.png",
+        "https://cdn.hstatic.net/products/200000036162/25_327089a363114ea397d57d4810801e5f.png",
+        "https://cdn.hstatic.net/products/200000036162/26_8b497fc65f92492388857a4014eb2d25.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.580Z"
+    },
+    {
+      "id": "cocosin-1075006471",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Đỏ Cổ Yếm Xếp Nhún Eo",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-do-co-yem-xep-nhun-eo",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/5_47d22e4661ef4d74808c08ad04c18308.png",
+        "https://cdn.hstatic.net/products/200000036162/6_6406faa69c21407a99d4a055076c062d.png",
+        "https://cdn.hstatic.net/products/200000036162/7_3d06f1a751e34e9c9c072dc814cd06f9.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "red"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "spandex",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.580Z"
+    },
+    {
+      "id": "cocosin-1075006441",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Xanh Cổ Yếm Xếp Nhún Eo",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-xanh-co-yem-xep-nhun-eo",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/9_bbcb022594c641c6af9d40567a26f532.png",
+        "https://cdn.hstatic.net/products/200000036162/10_80db2713c53a4c50959d61024ece9683.png",
+        "https://cdn.hstatic.net/products/200000036162/11_52a274f7e9024aa3b64d857d642f40e9.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "spandex",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.581Z"
+    },
+    {
+      "id": "cocosin-1075006410",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Trắng Ngăn Xếp Nhún Hở Eo",
+      "price": 1750000,
+      "originalPrice": 1750000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-trang-ngan-xep-nhun-ho-eo",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/1_2f33471a835d459ea04f17d8abbfd686.png",
+        "https://cdn.hstatic.net/products/200000036162/2_f6bbc5ead46c47f5a73bf07edfc2017f.png",
+        "https://cdn.hstatic.net/products/200000036162/3_2a078b2439db41cdb413174947258a18.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "Polyester",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.581Z"
+    },
+    {
+      "id": "cocosin-1075006395",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Đỏ Hai Dây Chéo Tà",
+      "price": 1750000,
+      "originalPrice": 1750000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-do-hai-day-cheo-ta",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/16_34ec9e1b15514db2829ad57067d0200e.png",
+        "https://cdn.hstatic.net/products/200000036162/17_d5d512b3e8e84f7a971827e96f7333cb.png",
+        "https://cdn.hstatic.net/products/200000036162/18_c86a27c4daee4b31923ac78f86776863.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "red"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "spandex",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.581Z"
+    },
+    {
+      "id": "cocosin-1075006375",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Xanh Hai Dây Chéo Tà",
+      "price": 1750000,
+      "originalPrice": 1750000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-xanh-hai-day-cheo-ta",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/19_a7bae73b1d9942fd84c8f392ee70f31b.png",
+        "https://cdn.hstatic.net/products/200000036162/20_b8dc462c51794408ad6ec91c891ed541.png",
+        "https://cdn.hstatic.net/products/200000036162/21_400be99f82e44e50a4d324b7cf30c335.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "spandex",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.581Z"
+    },
+    {
+      "id": "cocosin-1075006108",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Hồng Cúp Ngực",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-hong-cup-nguc",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/27_b37ede0fc31a47c1ad325456809ae4ad.png",
+        "https://cdn.hstatic.net/products/200000036162/28_2259d79cb1bc420984bcc86996a455ac.png",
+        "https://cdn.hstatic.net/products/200000036162/29_f669083bb81b4458a8a8dbcf8cec4810.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit",
+        "minimalist"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.581Z"
+    },
+    {
+      "id": "cocosin-1075006067",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Hồng Xếp Nhún Bên Vai Và Eo",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-hong-xep-nhun-ben-vai-va-eo",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/39_509fb1a2c6404da6be43bc0b563a1e74.png",
+        "https://cdn.hstatic.net/products/200000036162/40_7049bb35b1eb4ac8810d23b0e6d8a203.png",
+        "https://cdn.hstatic.net/products/200000036162/41_65183351691d45cda90d39d9246f5a82.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "Spandex",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.581Z"
+    },
+    {
+      "id": "cocosin-1075006041",
+      "brand": "Coco Sin",
+      "name": "Đầm Lụa Trắng Cánh Dơi",
+      "price": 3650000,
+      "originalPrice": 3650000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-lua-trang-canh-doi",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/13_b244d0f676164865a4e9e7fdfd855765.png",
+        "https://cdn.hstatic.net/products/200000036162/14_3d4937257b2e408e92eafaa363b2673b.png",
+        "https://cdn.hstatic.net/products/200000036162/15_3a969e73ce3343e181c7e733335f8a1e.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.582Z"
+    },
+    {
+      "id": "cocosin-1075005845",
+      "brand": "Coco Sin",
+      "name": "Đầm Cổ Yếm Trắng Phối Dây Tua Rua",
+      "price": 1950000,
+      "originalPrice": 1950000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-co-yem-trang-phoi-day-tua-rua",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/1_1f96e79a40f54a739e08ccae5537feaf.png",
+        "https://cdn.hstatic.net/products/200000036162/2_402598e29ae64626bd4dede856d36eb9.png",
+        "https://cdn.hstatic.net/products/200000036162/3_b505a1ca257c4a31af4081fce0b7e8be.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "minimalist"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.582Z"
+    },
+    {
+      "id": "cocosin-1075005394",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Vàng Xoắn Thân Trước",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-vang-xoan-than-truoc",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/35_237a45d2653a4a19a4bcf51019ba9fab.png",
+        "https://cdn.hstatic.net/products/200000036162/36_477175b034404d518b5144f77603b862.png",
+        "https://cdn.hstatic.net/products/200000036162/37_7607e9b639a74e209310a8f3cff5f1a5.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "yellow"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.582Z"
+    },
+    {
+      "id": "cocosin-1075005375",
+      "brand": "Coco Sin",
+      "name": "Quần Tây Trắng Phối Dây Tua Rua",
+      "price": 1350000,
+      "originalPrice": 1350000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/quan-tay-trang-phoi-day-tua-rua",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/24_a9a3850de4cb4fdda45e3cfd64ebc5c0.png",
+        "https://cdn.hstatic.net/products/200000036162/25_a18872b5821c4691a2b88704d9be6614.png"
+      ],
+      "category": "bottom",
+      "subcategory": "trousers",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.582Z"
+    },
+    {
+      "id": "cocosin-1075005348",
+      "brand": "Coco Sin",
+      "name": "Áo Thun Đen Cổ Yếm Phối Kiềng",
+      "price": 1100000,
+      "originalPrice": 1100000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/ao-thun-den-co-yem-phoi-kieng",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/9_e6e3267c7cb24378a5d6dd4f3ecba6e9.png",
+        "https://cdn.hstatic.net/products/200000036162/10_1f6377f25bd74619b1f63e1fb580c28e.png",
+        "https://cdn.hstatic.net/products/200000036162/11_bede709863cf4af2ba843bebf9588736.png"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.582Z"
+    },
+    {
+      "id": "cocosin-1075004876",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Trắng Xếp Nhún Hở Vai",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-trang-xep-nhun-ho-vai",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/12_61cadc1d70a84f3b8d96c560f2cf7075.png",
+        "https://cdn.hstatic.net/products/200000036162/13_ce745426cb8d49cf98d375e397d67fa0.png",
+        "https://cdn.hstatic.net/products/200000036162/14_4f09d49be1934db48d967429ec5b2202.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.582Z"
+    },
+    {
+      "id": "cocosin-1075004820",
+      "brand": "Coco Sin",
+      "name": "Áo Cổ Yếm Đen",
+      "price": 1250000,
+      "originalPrice": 1250000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/ao-co-yem-den-1",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/35_150f626b459a45778775223464390621.png",
+        "https://cdn.hstatic.net/products/200000036162/32_34ece49f85394078989b820daf2dcee4.png",
+        "https://cdn.hstatic.net/products/200000036162/33_7fcefb0993944841b22eb1943b0dde6f.png"
+      ],
+      "category": "top",
+      "subcategory": "top",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.582Z"
+    },
+    {
+      "id": "cocosin-1075004740",
+      "brand": "Coco Sin",
+      "name": "Đầm Ren Thun Trắng Cổ Yếm",
+      "price": 2250000,
+      "originalPrice": 2250000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-ren-thun-trang-co-yem",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/1_f3a9ac58e5324684873283c46209eb76.png",
+        "https://cdn.hstatic.net/products/200000036162/2_2876160f2bf34f30af57ff8ea8428757.png",
+        "https://cdn.hstatic.net/products/200000036162/3_2d8000f07dd74c23a54bfc41e6e40865.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.583Z"
+    },
+    {
+      "id": "cocosin-1075004608",
+      "brand": "Coco Sin",
+      "name": "Váy Đen Mini Chữ A",
+      "price": 1250000,
+      "originalPrice": 1250000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/vay-den-mini-chu-a",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/32_f746daa7ff9b469b8e8f92ca1e89bbd2.png",
+        "https://cdn.hstatic.net/products/200000036162/33_1e68e87a183f42edb47c94cc4cc0f457.png",
+        "https://cdn.hstatic.net/products/200000036162/34_b13bb79f607b45e98781e3f9f49d7654.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "minimalist"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.583Z"
+    },
+    {
+      "id": "cocosin-1075004554",
+      "brand": "Coco Sin",
+      "name": "Váy Kem Suông Dài",
+      "price": 1350000,
+      "originalPrice": 1350000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/vay-kem-suong-dai",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/44_065362b8aa3048c686f93ed1dabde807.png",
+        "https://cdn.hstatic.net/products/200000036162/45_d9ec896779c24828ae7edb15db64b92a.png",
+        "https://cdn.hstatic.net/products/200000036162/46_e02f292993ce409faedd00d8f5d841e8.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.583Z"
+    },
+    {
+      "id": "cocosin-1075004441",
+      "brand": "Coco Sin",
+      "name": "Đầm Hai Dây Sequin Trắng",
+      "price": 3650000,
+      "originalPrice": 3650000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-hai-day-sequin-trang",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/23_0b453f8bcf2446b395294fb0ef7118cd.png",
+        "https://cdn.hstatic.net/products/200000036162/24_26d23f6bc3b345578f7d482e4df7bac4.png",
+        "https://cdn.hstatic.net/products/200000036162/25_b3bb0f446bef4ee2b33f62ac887ee4aa.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "minimalist"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.583Z"
+    },
+    {
+      "id": "cocosin-1075004261",
+      "brand": "Coco Sin",
+      "name": "Đầm Cúp Ngực Hồng Da Phối Bèo",
+      "price": 1950000,
+      "originalPrice": 1950000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-cup-nguc-hong-da-phoi-beo",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/31_905e165b1bf643c1b90a684833140c48.png",
+        "https://cdn.hstatic.net/products/200000036162/32_655e1346ba844a008b1d5b98bb4263da.png",
+        "https://cdn.hstatic.net/products/200000036162/33_de133c61a9db444790b412e3ca832669.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "pink"
+      ],
+      "sizes": [
+        "Free size"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.583Z"
+    },
+    {
+      "id": "cocosin-1074619729",
+      "brand": "Coco Sin",
+      "name": "Đầm Lưới Thun Hồng Da Xoắn Eo",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-luoi-thun-hong-da-xoan-eo",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/43_e7341eb23b37431ca267085fb623246b.png",
+        "https://cdn.hstatic.net/products/200000036162/44_702eda4781f24fdaa66031eded648edd.png",
+        "https://cdn.hstatic.net/products/200000036162/45_32acc8e9a059489bbb5d684d13ec2c00.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "Spandex",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.583Z"
+    },
+    {
+      "id": "cocosin-1074619647",
+      "brand": "Coco Sin",
+      "name": "Đầm Cúp Ngực Kem Hai Dây",
+      "price": 2250000,
+      "originalPrice": 2250000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-cup-nguc-kem-hai-day",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/5_03de0b93cab843549448afbbe64496f7.png",
+        "https://cdn.hstatic.net/products/200000036162/6_5ffa858c5f6e4bdb918121b7609f9476.png",
+        "https://cdn.hstatic.net/products/200000036162/7_b80cb435257f441882d09483cae567ca.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.583Z"
+    },
+    {
+      "id": "cocosin-1074076197",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Xanh Nhún Vai Tay Và Eo",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-xanh-nhun-vai-tay-va-eo",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/47_3d6d28b2b16b4340be91b6f044722392.png",
+        "https://cdn.hstatic.net/products/200000036162/48_70aa472b0773430091052b31c77321b3.png",
+        "https://cdn.hstatic.net/products/200000036162/49_58a01b5cf4214244bd91cbfa33ba2138.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.584Z"
+    },
+    {
+      "id": "cocosin-1073929321",
+      "brand": "Coco Sin",
+      "name": "Đầm Lưới Thun Trắng 2 Dây Xoắn Ngực",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-luoi-thun-trang-2-day-xoan-nguc",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/91_1cdc29c40c4b4b338f68946e25e87f71.png",
+        "https://cdn.hstatic.net/products/200000036162/92_6b6e4c34f81840a081532196fd4b7744.png",
+        "https://cdn.hstatic.net/products/200000036162/93_7d00d51578aa4e988ae910517a806229.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "spandex",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.584Z"
+    },
+    {
+      "id": "cocosin-1073827484",
+      "brand": "Coco Sin",
+      "name": "Váy Lụa Kem Vàng",
+      "price": 810000,
+      "originalPrice": 810000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/vay-lua-kem-vang",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/1_961d23041a204f97b41e979aff5b6268.png",
+        "https://cdn.hstatic.net/products/200000036162/2_a068854215234b94b8a81bcdca18fd59.png",
+        "https://cdn.hstatic.net/products/200000036162/3_01b779ccbeaa42f8b175c90c1e003dc6.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "yellow",
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "Polyester",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.584Z"
+    },
+    {
+      "id": "cocosin-1073470435",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Sát Nách Hồng Kèm Dây Dài",
+      "price": 1980000,
+      "originalPrice": 1980000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-sat-nach-hong-kem-day-dai",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/57_2db5338d54724c3580cd3649ba696a74.png",
+        "https://cdn.hstatic.net/products/200000036162/58_1c39a33f6e874514a253801dabd875d8.png",
+        "https://cdn.hstatic.net/products/200000036162/59_a7a90f9340774a16bd2ec78d3e2295f2.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.584Z"
+    },
+    {
+      "id": "cocosin-1073470412",
+      "brand": "Coco Sin",
+      "name": "Đầm Cổ V Lụa Kem Chấm Bi Nhung Đen",
+      "price": 2550000,
+      "originalPrice": 2550000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-co-v-lua-kem-cham-bi-nhung-den",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/33_a73590ae13cf400daed94a9732369a88.png",
+        "https://cdn.hstatic.net/products/200000036162/34_676ae050e61e4f058fbed6abde92065f.png",
+        "https://cdn.hstatic.net/products/200000036162/35_3151efb4818145da88fe927c6be89d72.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black",
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit",
+        "vintage"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.584Z"
+    },
+    {
+      "id": "cocosin-1073455761",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Hồng Dài Hở Vai",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-hong-dai-ho-vai",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/100_22dac3278ee8403f9e33d5e4f4f732ae.png",
+        "https://cdn.hstatic.net/products/200000036162/101_92f69c40120f47b8946fa72e0d2a872f.png",
+        "https://cdn.hstatic.net/products/200000036162/102_f62279fbdec4434dad4c6623c8c85905.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:47.584Z"
+    },
+    {
+      "id": "cocosin-1073455305",
+      "brand": "Coco Sin",
+      "name": "Áo Croptop Lụa Đen",
+      "price": 890000,
+      "originalPrice": 890000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/ao-croptop-lua-den",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/7_ceca012fc1b6479aa358628ac1085401.png",
+        "https://cdn.hstatic.net/products/200000036162/5_24826383032845258ce795a0a0c37f2c.png",
+        "https://cdn.hstatic.net/products/200000036162/6_89d8fdfe98944bdaa07a854256389517.png"
+      ],
+      "category": "top",
+      "subcategory": "top",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [],
+      "material": "Polyester",
+      "tags": [
+        "minimalist"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.007Z"
+    },
+    {
+      "id": "cocosin-1073455297",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Trắng Cổ Yếm Xếp Nhún Eo",
+      "price": 1750000,
+      "originalPrice": 1750000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-trang-co-yem-xep-nhun-eo",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/37_f2f06461261242a98998bbd87769eb65.png",
+        "https://cdn.hstatic.net/products/200000036162/38_1db37c28f74c42148eddae3f988e4ca9.png",
+        "https://cdn.hstatic.net/products/200000036162/39_1a3284c083f4491383ba87ecc0d34602.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.008Z"
+    },
+    {
+      "id": "cocosin-1073455289",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Nâu Cổ Yếm Giọt Nước Xoắn",
+      "price": 1750000,
+      "originalPrice": 1750000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-nau-co-yem-giot-nuoc-xoan",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/49_44bb17b4816b42d39a95223469d78004.png",
+        "https://cdn.hstatic.net/products/200000036162/50_114e32ee0d2c488e8cc5afe8152d27f5.png",
+        "https://cdn.hstatic.net/products/200000036162/51_cedb784561c34e108f2b92e45f100333.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "brown"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.008Z"
+    },
+    {
+      "id": "cocosin-1073455272",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Xanh Hở Bên Vai Phối Khoen",
+      "price": 1650000,
+      "originalPrice": 1650000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-xanh-ho-ben-vai-phoi-khoen",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/108_e2afa20612b84b03955f9a4fbd5f2ce9.png",
+        "https://cdn.hstatic.net/products/200000036162/109_37147e790c9848f891b2375f9ce1f6ab.png",
+        "https://cdn.hstatic.net/products/200000036162/110_860470b0a93e4aa59870b94f1210496a.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "minimalist"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.008Z"
+    },
+    {
+      "id": "cocosin-1073455269",
+      "brand": "Coco Sin",
+      "name": "Đầm Ống Thun Lưới Trắng Dài Xếp Nhún",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-ong-thun-luoi-trang-dai-xep-nhun",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/85_ca99e58e176f46d08fc45125766aadc3.png",
+        "https://cdn.hstatic.net/products/200000036162/86_530c0943194e42d4bf15013f1908b866.png",
+        "https://cdn.hstatic.net/products/200000036162/87_ba06432701cd40e8ad5f87337dfd46f4.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.008Z"
+    },
+    {
+      "id": "cocosin-1073450169",
+      "brand": "Coco Sin",
+      "name": "Quần Xếp Nhún Kem",
+      "price": 1350000,
+      "originalPrice": 1350000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/quan-xep-nhun-kem",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/25_37013ef7601f4bfbb3169790c2795978.png",
+        "https://cdn.hstatic.net/products/200000036162/26_813525729e4f462bb8f98cdc41a4ff9f.png",
+        "https://cdn.hstatic.net/products/200000036162/27_723f07f79bfb45bc9e13f32ffe252b48.png"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "female",
+      "colors": [
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "Polyester",
+      "tags": [
+        "basic",
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.008Z"
+    },
+    {
+      "id": "cocosin-1073449991",
+      "brand": "Coco Sin",
+      "name": "Quần Xếp Nhún Đỏ Đậm",
+      "price": 1350000,
+      "originalPrice": 1350000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/quan-xep-nhun-do-dam",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/21_a6cc877ba5e2475e95c6811c7183ab00.png",
+        "https://cdn.hstatic.net/products/200000036162/22_45e904d91c6d4376822103e10f5a2386.png",
+        "https://cdn.hstatic.net/products/200000036162/23_e6a1cac615384572a10383c585469aaf.png"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "female",
+      "colors": [
+        "red"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "Polyester",
+      "tags": [
+        "basic",
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.008Z"
+    },
+    {
+      "id": "cocosin-1073449495",
+      "brand": "Coco Sin",
+      "name": "Quần Xếp Nhún Đen",
+      "price": 1350000,
+      "originalPrice": 1350000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/quan-xep-nhun-den",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/5_9a49eef19cdb41a2844fa3be56f5556c.png",
+        "https://cdn.hstatic.net/products/200000036162/6_1646e2461fa04cf4a594f8144b519397.png",
+        "https://cdn.hstatic.net/products/200000036162/7_1278c29dfab9424e929c31b6442694f4.png"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "Polyester",
+      "tags": [
+        "basic",
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.008Z"
+    },
+    {
+      "id": "cocosin-1073446666",
+      "brand": "Coco Sin",
+      "name": "Quần Kaki Đen Lửng",
+      "price": 920000,
+      "originalPrice": 920000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/quan-kaki-den-lung",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/53_93da838031aa4fbf8ab7dfa41b206cb6.png",
+        "https://cdn.hstatic.net/products/200000036162/54_f88b5d8dbb3e4671a22c494e324a1096.png",
+        "https://cdn.hstatic.net/products/200000036162/55_355ac8f5469449a1a69746292d07b099.png"
+      ],
+      "category": "bottom",
+      "subcategory": "chinos",
+      "gender": "female",
+      "colors": [
+        "black",
+        "khaki"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "Kaki",
+      "tags": [
+        "slim-fit",
+        "minimalist",
+        "chino"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.008Z"
+    },
+    {
+      "id": "cocosin-1073445528",
+      "brand": "Coco Sin",
+      "name": "Đầm Lụa Kem Vàng Dài Xoắn Dây Vai",
+      "price": 1650000,
+      "originalPrice": 1650000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-lua-kem-vang-dai-xoan-day-vai",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/45_834af9dd2a8c4d08b1ec3ec200a3ab69.png",
+        "https://cdn.hstatic.net/products/200000036162/46_22d82fae86784287907ba43b87a2f6cd.png",
+        "https://cdn.hstatic.net/products/200000036162/47_4d351f1dce714d13a8ee96b87aa27106.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "yellow",
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit",
+        "minimalist"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.008Z"
+    },
+    {
+      "id": "cocosin-1073445101",
+      "brand": "Coco Sin",
+      "name": "Đầm Bí Lụa Nhung Kem Chấm Bi Đen",
+      "price": 2550000,
+      "originalPrice": 2550000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-bi-lua-nhung-kem-cham-bi-den",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/41_fe0f56c7fb334251863a7de0fed03d04.png",
+        "https://cdn.hstatic.net/products/200000036162/42_1cd96fd96dba4808838622560534259f.png",
+        "https://cdn.hstatic.net/products/200000036162/43_150b99f1729c41d4ad9a2de6d7c88304.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black",
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.008Z"
+    },
+    {
+      "id": "cocosin-1073396978",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Đen Dài Xoắn Dây",
+      "price": 1750000,
+      "originalPrice": 1750000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-den-dai-xoan-day",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/104_fd71ffa1feaf4db2bd921f1f5e800c60.png",
+        "https://cdn.hstatic.net/products/200000036162/105_672ab629b10e44918f8fb074d77d91de.png",
+        "https://cdn.hstatic.net/products/200000036162/106_0e6ca44598874e45839fef3ea95d4779.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.009Z"
+    },
+    {
+      "id": "cocosin-1073396939",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Đen Dài Phối Trắng",
+      "price": 1980000,
+      "originalPrice": 1980000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-den-dai-phoi-trang",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/89_ee45727286ba4f97968735be41f4f180.png",
+        "https://cdn.hstatic.net/products/200000036162/90_f29f941a9b35461f9705f16f9dae4cfa.png",
+        "https://cdn.hstatic.net/products/200000036162/91_5baa68870d3b49b9a88aca87386a6376.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "cotton",
+      "tags": [
+        "slim-fit",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.009Z"
+    },
+    {
+      "id": "cocosin-1073396804",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Xanh Cột Dây Vai Eo",
+      "price": 1980000,
+      "originalPrice": 1980000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-xanh-cot-day-vai-eo",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/93_27545260c62941f1911003e0225978a1.png",
+        "https://cdn.hstatic.net/products/200000036162/94_015cd64ae63146d4a760786f99e85a95.png",
+        "https://cdn.hstatic.net/products/200000036162/95_c0dc37a8808b45369fb2d1f1fa8c6a65.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.009Z"
+    },
+    {
+      "id": "cocosin-1073396781",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Vàng Cột Dây Vai Eo",
+      "price": 1980000,
+      "originalPrice": 1980000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-vang-cot-day-vai-eo",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/96_b217c5ca0fa8440bab39a6adc21c6aa3.png",
+        "https://cdn.hstatic.net/products/200000036162/98_5e419e79402d497e8ab28d78f5e64d38.png",
+        "https://cdn.hstatic.net/products/200000036162/99_c803aa75e94b45ab8cc078fe6f4c0d87.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "yellow"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.009Z"
+    },
+    {
+      "id": "cocosin-1073111219",
+      "brand": "Coco Sin",
+      "name": "Đầm Lụa Cúp Ngực Hồng Kèm Áo Choàng Sheer",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-lua-cup-nguc-hong-kem-ao-choang-sheer",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/89_6ddd504671624235831790afd3ef507a.png",
+        "https://cdn.hstatic.net/products/200000036162/90_ef915a790fb7488392f9affc36225a6c.png",
+        "https://cdn.hstatic.net/products/200000036162/88_1af1d3164d7b42d1a4cdef89cbae9d3f.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "XXL",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.009Z"
+    },
+    {
+      "id": "cocosin-1073032467",
+      "brand": "Coco Sin",
+      "name": "Đầm Lụa Nâu Nhạt Chấm Bi Đen Cổ Yếm",
+      "price": 1350000,
+      "originalPrice": 1350000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-lua-nau-nhat-cham-bi-den-co-yem",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/81_8b39a096bc424332aad6c75f0ee82b7c.png",
+        "https://cdn.hstatic.net/products/200000036162/82_e717539d90664f08b4205006401515b8.png",
+        "https://cdn.hstatic.net/products/200000036162/83_e142718c28764be4b94a86e942235fae.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black",
+        "brown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.009Z"
+    },
+    {
+      "id": "cocosin-1073031960",
+      "brand": "Coco Sin",
+      "name": "Đầm Lụa Hồng Chấm Bi Đen Cổ Yếm",
+      "price": 1350000,
+      "originalPrice": 1350000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-lua-hong-cham-bi-den-co-yem",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/77_d73d062ff7824239920c8bf6af0c4b7b.png",
+        "https://cdn.hstatic.net/products/200000036162/78_e7421592512b4ef5a334228a8ef3f256.png",
+        "https://cdn.hstatic.net/products/200000036162/79_37fdeafefff44d76a44b883046011ff9.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black",
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.009Z"
+    },
+    {
+      "id": "cocosin-1072948618",
+      "brand": "Coco Sin",
+      "name": "Đầm Lụa Trắng Chấm Bi Nhung Đen Cổ Yếm",
+      "price": 1350000,
+      "originalPrice": 1350000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-lua-kem-cham-bi-nhung-den-co-yem",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/9_bd98c86bd5484bb4897f13e41649308a.png",
+        "https://cdn.hstatic.net/products/200000036162/10_e1b184e39755445aba4a8188efdaf698.png",
+        "https://cdn.hstatic.net/products/200000036162/11_2c9b8e711e4548149546b96412195e86.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.009Z"
+    },
+    {
+      "id": "cocosin-1072948607",
+      "brand": "Coco Sin",
+      "name": "Đầm 2 Dây Lụa Kem Chấm Bi Nhung Đen",
+      "price": 1750000,
+      "originalPrice": 1750000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-2-day-lua-kem-cham-bi-nhung-den",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/12_e8530c75713d4a91b98f9962a9305e07.png",
+        "https://cdn.hstatic.net/products/200000036162/13_6cd8337750a7486489ecda02b76461e4.png",
+        "https://cdn.hstatic.net/products/200000036162/14_f7f8e3a5138b48cb861ac761e29afe8e.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black",
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.009Z"
+    },
+    {
+      "id": "cocosin-1072948589",
+      "brand": "Coco Sin",
+      "name": "Váy Bí Lụa Nhung Kem Chấm Bi Đen",
+      "price": 1450000,
+      "originalPrice": 1450000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/vay-bi-lua-nhung-kem-cham-bi-den",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/18_7f54d8ccbe004ae59542fa0daa6ffe23.png",
+        "https://cdn.hstatic.net/products/200000036162/16_b811b3a598314bf9a7e21a1964303696.png",
+        "https://cdn.hstatic.net/products/200000036162/19_947ba302514f4e078a1922c3c6135601.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black",
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.009Z"
+    },
+    {
+      "id": "cocosin-1072553331",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Vàng Trẹt Vai",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-vang-tret-vai",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/53_c439333cf60848b7934676e434049d35.png",
+        "https://cdn.hstatic.net/products/200000036162/54_760258799ca34eadb2fcc0918db9118d.png",
+        "https://cdn.hstatic.net/products/200000036162/55_2a7443304bbc47bea0a7c8ad805da3ff.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "yellow"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.010Z"
+    },
+    {
+      "id": "cocosin-1072194334",
+      "brand": "Coco Sin",
+      "name": "Áo Hở Một Vai Xếp Nhún Đính Hoa",
+      "price": 990000,
+      "originalPrice": 990000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/ao-ho-mot-vai-xep-nhun-dinh-hoa",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/56_ea76a27275124bbabec137807af034f4.png",
+        "https://cdn.hstatic.net/products/200000036162/53_a5adb79624ed489db26aca8651e94460.png",
+        "https://cdn.hstatic.net/products/200000036162/54_f3b86c0f3f794a94b0bd7f5abdf93512.png"
+      ],
+      "category": "top",
+      "subcategory": "top",
+      "gender": "female",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "denim",
+      "tags": [
+        "slim-fit",
+        "formal",
+        "minimalist",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.010Z"
+    },
+    {
+      "id": "cocosin-1072189382",
+      "brand": "Coco Sin",
+      "name": "Đầm Lưới Thun Vàng Xoắn Tay Và Cổ",
+      "price": 1750000,
+      "originalPrice": 1750000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-luoi-thun-vang-xoan-tay-va-co",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/45_3bd4fa942f3440d68d49cdb4b83a230d.png",
+        "https://cdn.hstatic.net/products/200000036162/46_fd70179589de49559ec242258051acc5.png",
+        "https://cdn.hstatic.net/products/200000036162/47_1c8c59b3fcdf40109014580e5210861f.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "yellow"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.010Z"
+    },
+    {
+      "id": "cocosin-1072189350",
+      "brand": "Coco Sin",
+      "name": "Đầm Lưới Thun Vàng Một Dây Cổ Đổ",
+      "price": 1650000,
+      "originalPrice": 1650000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-luoi-thun-vang-mot-day-co-do",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/69_e98c2378dd8649a6bedbdbd3df45dc8a.png",
+        "https://cdn.hstatic.net/products/200000036162/70_06c1d686ed994cbeaa7586e363c8fc7f.png",
+        "https://cdn.hstatic.net/products/200000036162/71_ac8bd6e4fdf544de95264527cdc0faa4.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "yellow"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.011Z"
+    },
+    {
+      "id": "cocosin-1072189320",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Vàng Nhún Vai Tay Và Eo",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-vang-nhun-vai-tay-va-eo",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/61_ee23c85be5b644268cda32b3524ae3d8.png",
+        "https://cdn.hstatic.net/products/200000036162/62_86654f96da704c43a1808883140cf802.png",
+        "https://cdn.hstatic.net/products/200000036162/63_cd066e9e7df34537b1904236dc1af617.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "yellow"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "Polyester",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.011Z"
+    },
+    {
+      "id": "cocosin-1072189264",
+      "brand": "Coco Sin",
+      "name": "Đầm Ngắn Lưới Thun Đen Chấm Bi Trắng Hai Dây Xoắn Ngực",
+      "price": 1650000,
+      "originalPrice": 1650000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-ngan-luoi-thun-den-cham-bi-trang-hai-day-xoan-nguc",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/20_460ae377f6884668a366c44865f32337.png",
+        "https://cdn.hstatic.net/products/200000036162/21_ed32e373e8b34310b4e617b6fc152256.png",
+        "https://cdn.hstatic.net/products/200000036162/22_78b0a5aab4aa449c96e45bcc2977088e.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "Spandex",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.011Z"
+    },
+    {
+      "id": "cocosin-1072189209",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Hồng Trẹt Vai",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-hong-tret-vai",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/57_7ce1231c02b449a99144acf48981a2a6.png",
+        "https://cdn.hstatic.net/products/200000036162/58_d7844e40dafa4cccafcc5ca2b3315edc.png",
+        "https://cdn.hstatic.net/products/200000036162/59_5163b9e4ed0548479a5eeb653a7ad0be.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.011Z"
+    },
+    {
+      "id": "cocosin-1072189184",
+      "brand": "Coco Sin",
+      "name": "Đầm Lưới Thun Hồng Một Dây Cổ Đổ",
+      "price": 1650000,
+      "originalPrice": 1650000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-luoi-thun-hong-mot-day-co-do",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/73_88c4f8841d88425ca635a6e832250879.png",
+        "https://cdn.hstatic.net/products/200000036162/74_a07a20246d1a48d3aef99b1a687f1c06.png",
+        "https://cdn.hstatic.net/products/200000036162/75_03d53c99fcd54abd8ca1942d06555fd4.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.011Z"
+    },
+    {
+      "id": "cocosin-1072189086",
+      "brand": "Coco Sin",
+      "name": "Đầm Lưới Thun Hồng Xoắn Tay Và Cổ",
+      "price": 1750000,
+      "originalPrice": 1750000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-luoi-thun-hong-sn-co-do-1",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/41_e18a477f35dc4aed9b6e0a45d05dc236.png",
+        "https://cdn.hstatic.net/products/200000036162/42_6dab2fff98d7425fa5ae33f56f43275b.png",
+        "https://cdn.hstatic.net/products/200000036162/43_47c9a665e2ad4ba991c7cc65d047c337.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.011Z"
+    },
+    {
+      "id": "cocosin-1072188972",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Hồng Nhún Vai Tay Và Eo",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-hong-nhun-vai-tay-va-eo",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/65_9ef69ca59f874bb7b67dbe752802d43f.png",
+        "https://cdn.hstatic.net/products/200000036162/66_3e31d156b133467e8c05761c502bff12.png",
+        "https://cdn.hstatic.net/products/200000036162/67_9f25efc3c1e04d15b916ae7ec887b021.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "Polyester",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.011Z"
+    },
+    {
+      "id": "cocosin-1072187060",
+      "brand": "Coco Sin",
+      "name": "Đầm Ngắn Lưới Thun Trắng Chấm Bi Đen Hai Dây Xoắn Ngực",
+      "price": 1650000,
+      "originalPrice": 1650000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-ngan-luoi-thun-trang-cham-bi-den-hai-day-xoan-nguc",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/23_877e8bb54ea047d1a385803be5a51db8.png",
+        "https://cdn.hstatic.net/products/200000036162/24_63a36900ae7943c6a913edb065708b95.png",
+        "https://cdn.hstatic.net/products/200000036162/25_6b5fc92987c8452fb7bf3886742f5a61.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "Spandex",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.011Z"
+    },
+    {
+      "id": "cocosin-1071316675",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Đen Nhún Vai Tay Và Eo",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-den-nhun-vai-tay-va-eo",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/17_7a8867f2e12d4a93981ca3d5078c02d0.png",
+        "https://cdn.hstatic.net/products/200000036162/18_36e30a1b9c4047a5aa705eb21938a09e.png",
+        "https://cdn.hstatic.net/products/200000036162/31_74c460243b8043aeb8d17f2592605ca7.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "Polyester",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.011Z"
+    },
+    {
+      "id": "cocosin-1071316647",
+      "brand": "Coco Sin",
+      "name": "Đầm Cúp Ngực Đen Hai Dây",
+      "price": 1550000,
+      "originalPrice": 1550000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-cup-nguc-den-hai-day",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/40_addae791786b46db865933fd1c7115c3.png",
+        "https://cdn.hstatic.net/products/200000036162/43_2f1a594fdbb347328766443ce1eee8ea.png",
+        "https://cdn.hstatic.net/products/200000036162/41_63a39fd38a044fe68fee67991b5117e8.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.011Z"
+    },
+    {
+      "id": "cocosin-1071316604",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Lưới Đỏ Nhún Vai Tay Và Eo",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-luoi-do-nhun-vai-tay-va-eo",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/15_87ec9f13bdbb4e4e95493be6cf648d20.png",
+        "https://cdn.hstatic.net/products/200000036162/16_d5623f97fbe444eeba6d1ced1a1d9f34.png",
+        "https://cdn.hstatic.net/products/200000036162/28_964e0e0b060247d288e0a8b7b1cede6c.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "red"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "Polyester",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.012Z"
+    },
+    {
+      "id": "cocosin-1071316520",
+      "brand": "Coco Sin",
+      "name": "Áo Thun Lưới Hồng Da Cổ Lọ",
+      "price": 790000,
+      "originalPrice": 790000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/ao-thun-luoi-hong-da-co-lo",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/117_4d023eb9b8ea478eabdb22b2a0aa39f8.png",
+        "https://cdn.hstatic.net/products/200000036162/118_2f07db5db79c451eb5c05a39e5e44102.png"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "female",
+      "colors": [
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit",
+        "minimalist"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.012Z"
+    },
+    {
+      "id": "cocosin-1070621060",
+      "brand": "Coco Sin",
+      "name": "Đầm Ống Nhún Thun Ánh Kim Đỏ",
+      "price": 1650000,
+      "originalPrice": 1650000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-ong-nhun-thun-anh-kim-do",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/19_6ca341d6e87d46b0b7c307b64e7429ff.png",
+        "https://cdn.hstatic.net/products/200000036162/20_bf4f03765e5e483b9ad90e2defe0d905.png",
+        "https://cdn.hstatic.net/products/200000036162/38_635e21e57fa54e8f84b65e93f820fe5e.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "red"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "Polyester",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.012Z"
+    },
+    {
+      "id": "cocosin-1070453081",
+      "brand": "Coco Sin",
+      "name": "Chân Váy Lụa Đen Suông Dài",
+      "price": 850000,
+      "originalPrice": 850000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/chan-vay-lua-den-suong-dai",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/24_aa96e2634c8c4382b300ef385f58a395.png",
+        "https://cdn.hstatic.net/products/200000036162/46_b6332c0c0b6c4ed9a3abdd771249b0e5.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "Len",
+      "tags": [
+        "minimalist"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.012Z"
+    },
+    {
+      "id": "cocosin-1070451687",
+      "brand": "Coco Sin",
+      "name": "Đầm Cổ Thuyền Đỏ Hai Dây Sau",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-co-thuyen-do-hai-day-sau",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/50_a8d2c3e3cac747b4964c06455174f644.png",
+        "https://cdn.hstatic.net/products/200000036162/51_3064c98ae22443d3806dd7754a2adf8a.png",
+        "https://cdn.hstatic.net/products/200000036162/82_be556660f97e4f818886e861a20386fa.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "red"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.012Z"
+    },
+    {
+      "id": "cocosin-1070428868",
+      "brand": "Coco Sin",
+      "name": "Đầm Lụa Dài Nhũ Kem Phối Dây Lưới",
+      "price": 2150000,
+      "originalPrice": 2150000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-lua-dai-nhu-kem-phoi-day-luoi",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/33_0a2596d446884e5d91e995471e2a6320.png",
+        "https://cdn.hstatic.net/products/200000036162/34_84ba81147ae84d2499d9730eb49ee27f.png",
+        "https://cdn.hstatic.net/products/200000036162/35_0ae67e57dbb44d4b8e84f3bd74bda70d.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "minimalist"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.012Z"
+    },
+    {
+      "id": "cocosin-1070383848",
+      "brand": "Coco Sin",
+      "name": "Đầm Lụa Dài Đen Phối Dây Lưới",
+      "price": 2150000,
+      "originalPrice": 2150000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-lua-dai-den-phoi-day-luoi",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/37_7a8ac5a5c36e46c5bf1fe261de916957.png",
+        "https://cdn.hstatic.net/products/200000036162/38_f7f6a7a31cd142ceb5c805923f9d0205.png",
+        "https://cdn.hstatic.net/products/200000036162/39_6cf075af31a14ee5b96a26061f25c094.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "minimalist"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.012Z"
+    },
+    {
+      "id": "cocosin-1070383477",
+      "brand": "Coco Sin",
+      "name": "Đầm Lưới Thun Đỏ Một Dây Cổ Đổ",
+      "price": 1650000,
+      "originalPrice": 1650000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-luoi-thun-do-mot-day-co-do",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/33_108b0b5179644cd087c8cd67b8422596.png",
+        "https://cdn.hstatic.net/products/200000036162/60_ee7c9795b7ed44a288951382bf47f830.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "red"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.012Z"
+    },
+    {
+      "id": "cocosin-1070380926",
+      "brand": "Coco Sin",
+      "name": "Đầm Lưới Thun Đen Xoắn Tay Và Cổ",
+      "price": 1750000,
+      "originalPrice": 1750000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-luoi-thun-den-xoan-tay-va-co",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/34_c8bfda33677c47eb9dd06e95ccf17dfb.png",
+        "https://cdn.hstatic.net/products/200000036162/62_ebec50b1d8424eb5ac8c338b5e7a533c.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.012Z"
+    },
+    {
+      "id": "cocosin-1070380908",
+      "brand": "Coco Sin",
+      "name": "Đầm Lưới Thun Đen Một Dây Cổ Đổ",
+      "price": 1650000,
+      "originalPrice": 1650000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-luoi-thun-den-mot-day-co-do",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/30_a2ce73112ec048fbbe1d865b89afb190.png",
+        "https://cdn.hstatic.net/products/200000036162/56_7a1c2404887c4b368cae18a6d9bbe892.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.012Z"
+    },
+    {
+      "id": "cocosin-1070013663",
+      "brand": "Coco Sin",
+      "name": "Đầm Lưới Thun Đỏ 2 Dây Xoắn Ngực",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-luoi-thun-do-2-day-xoan-nguc",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/24_770146d3489e49c1a153ea43f7d8f91a.png",
+        "https://cdn.hstatic.net/products/200000036162/25_8eb77ecd5dff45228784cb99e8d1fb0f.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "red"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "spandex",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.013Z"
+    },
+    {
+      "id": "cocosin-1070013589",
+      "brand": "Coco Sin",
+      "name": "Đầm Lưới Thun Đỏ Nhún Cổ V",
+      "price": 1450000,
+      "originalPrice": 1450000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-luoi-thun-do-nhun-co-v",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/1_c11f1f8ab68d4ae38243ce86fa4d824e.png",
+        "https://cdn.hstatic.net/products/200000036162/2_16c33fd598ef40b1b23368700337cacb.png",
+        "https://cdn.hstatic.net/products/200000036162/3_2fc7624f67384e7fafabf33ea6dddc0c.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "red"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M",
+        "XL",
+        "XXL"
+      ],
+      "material": "Spandex",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.013Z"
+    },
+    {
+      "id": "cocosin-1069996295",
+      "brand": "Coco Sin",
+      "name": "Đầm Lụa Trắng Kem Kèm Áo Choàng",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-lua-trang-kem-kem-ao-choang",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/29_bfd50ebf3e5a45e69f909ff8382e111c.png",
+        "https://cdn.hstatic.net/products/200000036162/30_4c8933eadcdc4b39b764600f2cd6ac1b.png",
+        "https://cdn.hstatic.net/products/200000036162/31_003cd4f472b44ab0b5ddd698a3192a23.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white",
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M",
+        "XL",
+        "XXL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.013Z"
+    },
+    {
+      "id": "cocosin-1069996266",
+      "brand": "Coco Sin",
+      "name": "Đầm Cổ Tim Lụa Nâu Mocha",
+      "price": 990000,
+      "originalPrice": 990000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-co-tim-lua-nau-mocha",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/22_40ea15a6b1e14b2d8d5697d9bcf2bf91.jpg"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "brown"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "oversize",
+        "minimalist"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.013Z"
+    },
+    {
+      "id": "cocosin-1069996232",
+      "brand": "Coco Sin",
+      "name": "Đầm Cổ Tim Lụa Đen",
+      "price": 990000,
+      "originalPrice": 990000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-co-tim-lua-den",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/28_360e0d9adcc0408aafb9e3632eb8a422.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "oversize",
+        "minimalist"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.013Z"
+    },
+    {
+      "id": "cocosin-1069814917",
+      "brand": "Coco Sin",
+      "name": "Đầm Lưới Thun Vàng Xoắn Eo SN",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-luoi-thun-vang-xoan-eo-sn",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/5_e7649921192441fb9cfe5e426dff6559.png",
+        "https://cdn.hstatic.net/products/200000036162/6_d00d994e154a41b5b65f046489a72b93.png",
+        "https://cdn.hstatic.net/products/200000036162/7_55f9c3d6300d4628bbded763eb8092ef.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "yellow"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "Spandex",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.982Z"
+    },
+    {
+      "id": "cocosin-1069711181",
+      "brand": "Coco Sin",
+      "name": "Đầm Lưới Thun Đen Xoắn Eo SN",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-luoi-thun-den-xoan-eo-sn",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/1_cc6fb8284b8349879bf1ce315e0e9d74.png",
+        "https://cdn.hstatic.net/products/200000036162/2_a07be54783024b89b426df0b032dc316.png",
+        "https://cdn.hstatic.net/products/200000036162/3_7796181ab61249ad8c9abaddfd65d700.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "Spandex",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.982Z"
+    },
+    {
+      "id": "cocosin-1069646795",
+      "brand": "Coco Sin",
+      "name": "Đầm Lưới Thun Hồng SN Cổ Đổ",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-luoi-thun-hong-sn-co-do",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/49_8abe4ffe12c049d19e7a966e45fd5b19.png",
+        "https://cdn.hstatic.net/products/200000036162/50_27e118b38ea5492f857e1ba605f5e578.png",
+        "https://cdn.hstatic.net/products/200000036162/51_c5c0f61b3e03481b84c2d07dce54d581.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.982Z"
+    },
+    {
+      "id": "cocosin-1068792219",
+      "brand": "Coco Sin",
+      "name": "Đầm Lưới Thun Nâu Nhún Cổ V",
+      "price": 1450000,
+      "originalPrice": 1450000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-luoi-thun-nau-nhun-co-v",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/7_ff209994aab947648eb1daca3826c0ce.png",
+        "https://cdn.hstatic.net/products/200000036162/8_d6d03e203d5b476fbf1a5626fa39e0ce.png",
+        "https://cdn.hstatic.net/products/200000036162/9_0f1e64c9918642ed80e9d19efee9365c.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "brown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "Spandex",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.982Z"
+    },
+    {
+      "id": "cocosin-1067795867",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Ánh Kim Đen Xẻ Ngực",
+      "price": 1650000,
+      "originalPrice": 1650000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-anh-kim-den-xe-nguc",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/15_dd2bb3be33cb4104b98638d37331cf17.png",
+        "https://cdn.hstatic.net/products/200000036162/16_ddc865c7aca749f29c823d3454a5141f.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "Polyester",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.982Z"
+    },
+    {
+      "id": "cocosin-1067795828",
+      "brand": "Coco Sin",
+      "name": "Đầm Lưới Thun Đen 2 Dây Xoắn Ngực",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-luoi-thun-den-2-day-xoan-nguc",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/11_8b029b0117514a138169fdb398b209b1.png",
+        "https://cdn.hstatic.net/products/200000036162/38_b04555e609c64b5da7e959be32f73aad.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "S"
+      ],
+      "material": "spandex",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.982Z"
+    },
+    {
+      "id": "cocosin-1067794432",
+      "brand": "Coco Sin",
+      "name": "Đầm Lưới Thun Vàng Kem 2 Dây Xoắn Ngực",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-luoi-thun-vang-kem-2-day-xoan-nguc",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/7_71bdc49686584551b06e5945ae953471.png",
+        "https://cdn.hstatic.net/products/200000036162/34_7562e69d568d4c298281f832f4fc866d.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "yellow",
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "spandex",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.982Z"
+    },
+    {
+      "id": "cocosin-1067794419",
+      "brand": "Coco Sin",
+      "name": "Đầm Lưới Thun Hồng 2 Dây Xoắn Ngực",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-luoi-thun-hong-2-day-xoan-nguc",
+      "images": [
+        "https://cdn.hstatic.net/products/200000036162/6_399110f0c9ad47a4994cd03130d741ec.png",
+        "https://cdn.hstatic.net/products/200000036162/36_c6806f2be2ea4a13981af4b68b1a3cf0.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "spandex",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.982Z"
+    },
+    {
+      "id": "cocosin-1066588018",
+      "brand": "Coco Sin",
+      "name": "Đầm Sát Nách B&W",
+      "price": 950000,
+      "originalPrice": 950000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-sat-nach-b-w",
+      "images": [
+        "https://product.hstatic.net/200000036162/product/21_848a2a42c8fd448d97af27e675e094c2.png",
+        "https://product.hstatic.net/200000036162/product/3_3d600a30c5a3418dac0892574acf1e8d.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "slim-fit",
+        "minimalist"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.982Z"
+    },
+    {
+      "id": "cocosin-1066365166",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Trắng Kem Trẹt Vai",
+      "price": 1250000,
+      "originalPrice": 1250000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-trang-kem-tret-vai",
+      "images": [
+        "https://product.hstatic.net/200000036162/product/10_a853aa2c683a4b829c6d1d94062fd068.png",
+        "https://product.hstatic.net/200000036162/product/1_5d8614bd67bd49038aa4713169823684.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "white",
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.982Z"
+    },
+    {
+      "id": "cocosin-1066110931",
+      "brand": "Coco Sin",
+      "name": "Đầm Thun Nâu 2 Dây Maxi",
+      "price": 1200000,
+      "originalPrice": 1200000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/dam-thun-nau-2-day-maxi",
+      "images": [
+        "https://product.hstatic.net/200000036162/product/6_b1c11aae75344851a037f0917b32a89b.png",
+        "https://product.hstatic.net/200000036162/product/23_61c412f2e5874c66ad084bbafac7ca05.png"
+      ],
+      "category": "dress",
+      "subcategory": "dress",
+      "gender": "female",
+      "colors": [
+        "brown"
+      ],
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.982Z"
+    },
+    {
+      "id": "cocosin-1058012378",
+      "brand": "Coco Sin",
+      "name": "Áo Khoác Dạ Nâu",
+      "price": 1800000,
+      "originalPrice": 1800000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/ao-khoac-da-nau",
+      "images": [
+        "https://product.hstatic.net/200000036162/product/42_ec975ee841d74f8cb4f8f42166623288.png",
+        "https://product.hstatic.net/200000036162/product/43_5458f2621e7c4b519a614d3a20bd5732.png",
+        "https://product.hstatic.net/200000036162/product/44_571b6c4e75af40428964d7f5d749d253.png"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "female",
+      "colors": [
+        "brown"
+      ],
+      "sizes": [
+        "Free Size"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.983Z"
+    },
+    {
+      "id": "cocosin-1058012216",
+      "brand": "Coco Sin",
+      "name": "Áo Khoác Lông Trắng",
+      "price": 1500000,
+      "originalPrice": 1500000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/ao-khoac-long-trang",
+      "images": [
+        "https://product.hstatic.net/200000036162/product/47_5f7b4235951a4905a27179c5dd07e8b6.png",
+        "https://product.hstatic.net/200000036162/product/48_4dd5ab907607491fa83b41375659420b.png",
+        "https://product.hstatic.net/200000036162/product/49_e7e68930a00947a5911db27e1356379e.png"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "Free Size"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.983Z"
+    },
+    {
+      "id": "cocosin-1058012195",
+      "brand": "Coco Sin",
+      "name": "Áo Lông Trắng Tay Dài",
+      "price": 950000,
+      "originalPrice": 950000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/ao-long-trang-tay-dai",
+      "images": [
+        "https://product.hstatic.net/200000036162/product/32_b7671b3f5f9642df887b931cec7e5c0d.png",
+        "https://product.hstatic.net/200000036162/product/33_9b186a83cddb408bbda0daf5634a160c.png",
+        "https://product.hstatic.net/200000036162/product/34_769304e3c89c4a56961e449cfa65fbd6.png"
+      ],
+      "category": "top",
+      "subcategory": "top",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "\bFree size"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.983Z"
+    },
+    {
+      "id": "cocosin-1056701509",
+      "brand": "Coco Sin",
+      "name": "Áo Măng Tô Dù Xám",
+      "price": 1300000,
+      "originalPrice": 1300000,
+      "currency": "VND",
+      "url": "https://cocosin.vn/products/ao-mang-to-du-xam",
+      "images": [
+        "https://product.hstatic.net/200000036162/product/25_90630cb477994a91a2a3bd1cb2c7f8ea.png",
+        "https://product.hstatic.net/200000036162/product/4_97499207d1b34da8afd2f6ecfcd0bc46.png",
+        "https://product.hstatic.net/200000036162/product/26_d4fe763438aa4af39a8a4a1a5fa98f06.png"
+      ],
+      "category": "top",
+      "subcategory": "top",
+      "gender": "female",
+      "colors": [
+        "gray"
+      ],
+      "sizes": [],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:51:49.983Z"
+    }
+  ]
+}

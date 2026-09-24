@@ -1,4 +1,5 @@
-const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:3001';
+// Empty string (Docker build) = same origin, proxied by nginx; unset (npm run dev) = local server
+const API_BASE = import.meta.env.VITE_API_URL ?? 'http://localhost:3001';
 
 /**
  * Send a chat message to the Fashion AI Agent

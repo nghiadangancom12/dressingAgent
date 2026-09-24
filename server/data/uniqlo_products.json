@@ -1,7 +1,7 @@
 {
   "brand": "uniqlo",
-  "scrapedAt": "2026-09-23T17:57:26.211Z",
-  "totalProducts": 795,
+  "scrapedAt": "2026-09-24T08:46:15.917Z",
+  "totalProducts": 790,
   "products": [
     {
       "id": "uniqlo-E493511-000",
@@ -34,7 +34,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.384Z"
+      "scrapedAt": "2026-09-24T08:45:50.174Z"
     },
     {
       "id": "uniqlo-E493510-000",
@@ -67,7 +67,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.394Z"
+      "scrapedAt": "2026-09-24T08:45:50.182Z"
     },
     {
       "id": "uniqlo-E493509-000",
@@ -100,7 +100,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.395Z"
+      "scrapedAt": "2026-09-24T08:45:50.183Z"
     },
     {
       "id": "uniqlo-E493507-000",
@@ -132,7 +132,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.430Z"
+      "scrapedAt": "2026-09-24T08:45:50.199Z"
     },
     {
       "id": "uniqlo-E493506-000",
@@ -164,7 +164,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.430Z"
+      "scrapedAt": "2026-09-24T08:45:50.199Z"
     },
     {
       "id": "uniqlo-E493046-000",
@@ -197,7 +197,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.431Z"
+      "scrapedAt": "2026-09-24T08:45:50.199Z"
     },
     {
       "id": "uniqlo-E493045-000",
@@ -230,7 +230,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.431Z"
+      "scrapedAt": "2026-09-24T08:45:50.199Z"
     },
     {
       "id": "uniqlo-E493044-000",
@@ -263,7 +263,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.431Z"
+      "scrapedAt": "2026-09-24T08:45:50.199Z"
     },
     {
       "id": "uniqlo-E492353-000",
@@ -298,7 +298,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.431Z"
+      "scrapedAt": "2026-09-24T08:45:50.200Z"
     },
     {
       "id": "uniqlo-E492200-000",
@@ -327,7 +327,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.431Z"
+      "scrapedAt": "2026-09-24T08:45:50.200Z"
     },
     {
       "id": "uniqlo-E492171-000",
@@ -362,7 +362,7 @@
         "chino"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.434Z"
+      "scrapedAt": "2026-09-24T08:45:50.200Z"
     },
     {
       "id": "uniqlo-E492055-000",
@@ -396,7 +396,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.434Z"
+      "scrapedAt": "2026-09-24T08:45:50.200Z"
     },
     {
       "id": "uniqlo-E492054-000",
@@ -405,9 +405,9 @@
       "price": 686000,
       "originalPrice": 686000,
       "currency": "VND",
-      "url": "https://www.uniqlo.com/vn/vi/products/E492054-000/00?colorDisplayCode=09",
+      "url": "https://www.uniqlo.com/vn/vi/products/E492054-000/00?colorDisplayCode=41",
       "images": [
-        "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/492054/item/vngoods_09_492054_3x4.jpg",
+        "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/492054/item/vngoods_41_492054_3x4.jpg",
         "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/492054/sub/vngoods_492054_sub3_3x4.jpg",
         "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/492054/sub/vngoods_492054_sub4_3x4.jpg"
       ],
@@ -430,7 +430,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.435Z"
+      "scrapedAt": "2026-09-24T08:45:50.200Z"
     },
     {
       "id": "uniqlo-E491888-000",
@@ -459,7 +459,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.435Z"
+      "scrapedAt": "2026-09-24T08:45:50.200Z"
     },
     {
       "id": "uniqlo-E491689-000",
@@ -493,7 +493,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.435Z"
+      "scrapedAt": "2026-09-24T08:45:50.200Z"
     },
     {
       "id": "uniqlo-E491602-000",
@@ -526,7 +526,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.435Z"
+      "scrapedAt": "2026-09-24T08:45:50.200Z"
     },
     {
       "id": "uniqlo-E491380-000",
@@ -560,7 +560,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.435Z"
+      "scrapedAt": "2026-09-24T08:45:50.200Z"
     },
     {
       "id": "uniqlo-E491292-000",
@@ -594,7 +594,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.436Z"
+      "scrapedAt": "2026-09-24T08:45:50.200Z"
     },
     {
       "id": "uniqlo-E491278-000",
@@ -627,7 +627,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.436Z"
+      "scrapedAt": "2026-09-24T08:45:50.201Z"
     },
     {
       "id": "uniqlo-E491268-000",
@@ -663,7 +663,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.436Z"
+      "scrapedAt": "2026-09-24T08:45:50.201Z"
     },
     {
       "id": "uniqlo-E491213-000",
@@ -695,7 +695,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.436Z"
+      "scrapedAt": "2026-09-24T08:45:50.201Z"
     },
     {
       "id": "uniqlo-E491212-000",
@@ -727,7 +727,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.436Z"
+      "scrapedAt": "2026-09-24T08:45:50.201Z"
     },
     {
       "id": "uniqlo-E491211-000",
@@ -759,7 +759,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.436Z"
+      "scrapedAt": "2026-09-24T08:45:50.201Z"
     },
     {
       "id": "uniqlo-E491143-001",
@@ -788,7 +788,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.437Z"
+      "scrapedAt": "2026-09-24T08:45:50.202Z"
     },
     {
       "id": "uniqlo-E491143-000",
@@ -817,7 +817,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.437Z"
+      "scrapedAt": "2026-09-24T08:45:50.202Z"
     },
     {
       "id": "uniqlo-E491142-001",
@@ -846,7 +846,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.437Z"
+      "scrapedAt": "2026-09-24T08:45:50.202Z"
     },
     {
       "id": "uniqlo-E491142-000",
@@ -875,7 +875,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.437Z"
+      "scrapedAt": "2026-09-24T08:45:50.202Z"
     },
     {
       "id": "uniqlo-E491119-000",
@@ -911,7 +911,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.437Z"
+      "scrapedAt": "2026-09-24T08:45:50.202Z"
     },
     {
       "id": "uniqlo-E491118-000",
@@ -948,7 +948,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.437Z"
+      "scrapedAt": "2026-09-24T08:45:50.202Z"
     },
     {
       "id": "uniqlo-E491104-000",
@@ -988,7 +988,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.438Z"
+      "scrapedAt": "2026-09-24T08:45:50.202Z"
     },
     {
       "id": "uniqlo-E491096-000",
@@ -1024,7 +1024,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.438Z"
+      "scrapedAt": "2026-09-24T08:45:50.202Z"
     },
     {
       "id": "uniqlo-E491087-000",
@@ -1059,7 +1059,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.438Z"
+      "scrapedAt": "2026-09-24T08:45:50.203Z"
     },
     {
       "id": "uniqlo-E491086-000",
@@ -1091,7 +1091,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.438Z"
+      "scrapedAt": "2026-09-24T08:45:50.203Z"
     },
     {
       "id": "uniqlo-E490529-000",
@@ -1125,7 +1125,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.438Z"
+      "scrapedAt": "2026-09-24T08:45:50.203Z"
     },
     {
       "id": "uniqlo-E490285-000",
@@ -1149,7 +1149,6 @@
       ],
       "sizes": [
         "XS",
-        "S",
         "M",
         "XL"
       ],
@@ -1158,7 +1157,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.438Z"
+      "scrapedAt": "2026-09-24T08:45:50.203Z"
     },
     {
       "id": "uniqlo-E489916-000",
@@ -1188,7 +1187,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.438Z"
+      "scrapedAt": "2026-09-24T08:45:50.203Z"
     },
     {
       "id": "uniqlo-E489915-000",
@@ -1220,7 +1219,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.439Z"
+      "scrapedAt": "2026-09-24T08:45:50.203Z"
     },
     {
       "id": "uniqlo-E489914-000",
@@ -1250,7 +1249,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.439Z"
+      "scrapedAt": "2026-09-24T08:45:50.203Z"
     },
     {
       "id": "uniqlo-E489912-000",
@@ -1283,7 +1282,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.439Z"
+      "scrapedAt": "2026-09-24T08:45:50.203Z"
     },
     {
       "id": "uniqlo-E489911-000",
@@ -1315,7 +1314,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.439Z"
+      "scrapedAt": "2026-09-24T08:45:50.203Z"
     },
     {
       "id": "uniqlo-E489910-000",
@@ -1344,7 +1343,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.439Z"
+      "scrapedAt": "2026-09-24T08:45:50.203Z"
     },
     {
       "id": "uniqlo-E489909-000",
@@ -1377,7 +1376,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.439Z"
+      "scrapedAt": "2026-09-24T08:45:50.203Z"
     },
     {
       "id": "uniqlo-E489908-000",
@@ -1410,7 +1409,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.439Z"
+      "scrapedAt": "2026-09-24T08:45:50.203Z"
     },
     {
       "id": "uniqlo-E489763-000",
@@ -1445,7 +1444,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.439Z"
+      "scrapedAt": "2026-09-24T08:45:50.203Z"
     },
     {
       "id": "uniqlo-E489664-000",
@@ -1478,7 +1477,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.439Z"
+      "scrapedAt": "2026-09-24T08:45:50.203Z"
     },
     {
       "id": "uniqlo-E489663-000",
@@ -1511,7 +1510,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.440Z"
+      "scrapedAt": "2026-09-24T08:45:50.203Z"
     },
     {
       "id": "uniqlo-E489662-000",
@@ -1544,7 +1543,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.440Z"
+      "scrapedAt": "2026-09-24T08:45:50.203Z"
     },
     {
       "id": "uniqlo-E489661-000",
@@ -1578,7 +1577,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.440Z"
+      "scrapedAt": "2026-09-24T08:45:50.203Z"
     },
     {
       "id": "uniqlo-E489660-000",
@@ -1611,7 +1610,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.440Z"
+      "scrapedAt": "2026-09-24T08:45:50.204Z"
     },
     {
       "id": "uniqlo-E489657-000",
@@ -1644,7 +1643,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.440Z"
+      "scrapedAt": "2026-09-24T08:45:50.204Z"
     },
     {
       "id": "uniqlo-E489656-000",
@@ -1677,7 +1676,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.440Z"
+      "scrapedAt": "2026-09-24T08:45:50.204Z"
     },
     {
       "id": "uniqlo-E489655-000",
@@ -1710,7 +1709,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.440Z"
+      "scrapedAt": "2026-09-24T08:45:50.204Z"
     },
     {
       "id": "uniqlo-E489654-000",
@@ -1743,7 +1742,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.440Z"
+      "scrapedAt": "2026-09-24T08:45:50.204Z"
     },
     {
       "id": "uniqlo-E489653-000",
@@ -1776,7 +1775,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.441Z"
+      "scrapedAt": "2026-09-24T08:45:50.204Z"
     },
     {
       "id": "uniqlo-E489652-000",
@@ -1809,7 +1808,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.441Z"
+      "scrapedAt": "2026-09-24T08:45:50.204Z"
     },
     {
       "id": "uniqlo-E489651-000",
@@ -1842,7 +1841,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.441Z"
+      "scrapedAt": "2026-09-24T08:45:50.204Z"
     },
     {
       "id": "uniqlo-E489565-000",
@@ -1879,7 +1878,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.441Z"
+      "scrapedAt": "2026-09-24T08:45:50.204Z"
     },
     {
       "id": "uniqlo-E489563-000",
@@ -1912,7 +1911,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.441Z"
+      "scrapedAt": "2026-09-24T08:45:50.204Z"
     },
     {
       "id": "uniqlo-E489509-000",
@@ -1946,7 +1945,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.441Z"
+      "scrapedAt": "2026-09-24T08:45:50.204Z"
     },
     {
       "id": "uniqlo-E489508-000",
@@ -1979,7 +1978,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.442Z"
+      "scrapedAt": "2026-09-24T08:45:50.204Z"
     },
     {
       "id": "uniqlo-E489487-000",
@@ -2012,7 +2011,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.443Z"
+      "scrapedAt": "2026-09-24T08:45:50.204Z"
     },
     {
       "id": "uniqlo-E489483-000",
@@ -2045,7 +2044,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:06.444Z"
+      "scrapedAt": "2026-09-24T08:45:50.204Z"
     },
     {
       "id": "uniqlo-E489447-000",
@@ -2079,7 +2078,7 @@
         "slim-fit"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.488Z"
+      "scrapedAt": "2026-09-24T08:45:52.254Z"
     },
     {
       "id": "uniqlo-E489431-000",
@@ -2111,7 +2110,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.488Z"
+      "scrapedAt": "2026-09-24T08:45:52.254Z"
     },
     {
       "id": "uniqlo-E489430-000",
@@ -2143,7 +2142,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.488Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489429-000",
@@ -2177,7 +2176,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.488Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489427-000",
@@ -2212,7 +2211,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.488Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489415-000",
@@ -2246,7 +2245,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.488Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489407-000",
@@ -2278,7 +2277,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.488Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489406-000",
@@ -2312,7 +2311,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.488Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489405-000",
@@ -2345,7 +2344,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489399-000",
@@ -2378,7 +2377,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489398-000",
@@ -2411,7 +2410,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489391-000",
@@ -2444,7 +2443,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489389-000",
@@ -2477,7 +2476,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489387-000",
@@ -2508,7 +2507,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489386-000",
@@ -2541,7 +2540,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489372-000",
@@ -2576,7 +2575,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489367-000",
@@ -2613,7 +2612,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489241-000",
@@ -2645,7 +2644,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489239-000",
@@ -2680,7 +2679,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489227-000",
@@ -2717,7 +2716,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489191-000",
@@ -2751,7 +2750,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489190-000",
@@ -2787,7 +2786,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.255Z"
     },
     {
       "id": "uniqlo-E489162-000",
@@ -2818,7 +2817,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.256Z"
     },
     {
       "id": "uniqlo-E489157-000",
@@ -2840,15 +2839,14 @@
         "white"
       ],
       "sizes": [
-        "XS",
-        "S"
+        "XS"
       ],
       "material": "",
       "tags": [
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.256Z"
     },
     {
       "id": "uniqlo-E489155-000",
@@ -2877,7 +2875,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.256Z"
     },
     {
       "id": "uniqlo-E489154-000",
@@ -2910,7 +2908,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.256Z"
     },
     {
       "id": "uniqlo-E489153-000",
@@ -2943,7 +2941,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.256Z"
     },
     {
       "id": "uniqlo-E489152-000",
@@ -2976,7 +2974,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.256Z"
     },
     {
       "id": "uniqlo-E489110-000",
@@ -3015,7 +3013,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.489Z"
+      "scrapedAt": "2026-09-24T08:45:52.256Z"
     },
     {
       "id": "uniqlo-E489108-000",
@@ -3047,7 +3045,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.490Z"
+      "scrapedAt": "2026-09-24T08:45:52.256Z"
     },
     {
       "id": "uniqlo-E489076-000",
@@ -3079,7 +3077,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.490Z"
+      "scrapedAt": "2026-09-24T08:45:52.256Z"
     },
     {
       "id": "uniqlo-E489075-000",
@@ -3111,7 +3109,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.490Z"
+      "scrapedAt": "2026-09-24T08:45:52.256Z"
     },
     {
       "id": "uniqlo-E489074-000",
@@ -3143,7 +3141,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.490Z"
+      "scrapedAt": "2026-09-24T08:45:52.256Z"
     },
     {
       "id": "uniqlo-E489072-000",
@@ -3176,7 +3174,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.490Z"
+      "scrapedAt": "2026-09-24T08:45:52.256Z"
     },
     {
       "id": "uniqlo-E489071-000",
@@ -3209,7 +3207,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.490Z"
+      "scrapedAt": "2026-09-24T08:45:52.256Z"
     },
     {
       "id": "uniqlo-E489061-000",
@@ -3242,7 +3240,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.490Z"
+      "scrapedAt": "2026-09-24T08:45:52.256Z"
     },
     {
       "id": "uniqlo-E489060-000",
@@ -3276,7 +3274,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.490Z"
+      "scrapedAt": "2026-09-24T08:45:52.256Z"
     },
     {
       "id": "uniqlo-E489049-000",
@@ -3308,7 +3306,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.490Z"
+      "scrapedAt": "2026-09-24T08:45:52.256Z"
     },
     {
       "id": "uniqlo-E489046-000",
@@ -3341,7 +3339,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.490Z"
+      "scrapedAt": "2026-09-24T08:45:52.256Z"
     },
     {
       "id": "uniqlo-E489044-000",
@@ -3374,7 +3372,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.490Z"
+      "scrapedAt": "2026-09-24T08:45:52.256Z"
     },
     {
       "id": "uniqlo-E489026-000",
@@ -3408,7 +3406,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.490Z"
+      "scrapedAt": "2026-09-24T08:45:52.257Z"
     },
     {
       "id": "uniqlo-E489025-000",
@@ -3441,7 +3439,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.490Z"
+      "scrapedAt": "2026-09-24T08:45:52.257Z"
     },
     {
       "id": "uniqlo-E489013-000",
@@ -3472,7 +3470,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.490Z"
+      "scrapedAt": "2026-09-24T08:45:52.257Z"
     },
     {
       "id": "uniqlo-E488961-000",
@@ -3502,7 +3500,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.490Z"
+      "scrapedAt": "2026-09-24T08:45:52.257Z"
     },
     {
       "id": "uniqlo-E488960-000",
@@ -3532,7 +3530,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.490Z"
+      "scrapedAt": "2026-09-24T08:45:52.257Z"
     },
     {
       "id": "uniqlo-E488958-000",
@@ -3562,7 +3560,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.490Z"
+      "scrapedAt": "2026-09-24T08:45:52.257Z"
     },
     {
       "id": "uniqlo-E488957-000",
@@ -3591,7 +3589,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.491Z"
+      "scrapedAt": "2026-09-24T08:45:52.257Z"
     },
     {
       "id": "uniqlo-E488901-000",
@@ -3624,7 +3622,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.491Z"
+      "scrapedAt": "2026-09-24T08:45:52.257Z"
     },
     {
       "id": "uniqlo-E488884-000",
@@ -3657,7 +3655,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.491Z"
+      "scrapedAt": "2026-09-24T08:45:52.257Z"
     },
     {
       "id": "uniqlo-E488866-000",
@@ -3692,7 +3690,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.491Z"
+      "scrapedAt": "2026-09-24T08:45:52.258Z"
     },
     {
       "id": "uniqlo-E488859-000",
@@ -3722,7 +3720,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.491Z"
+      "scrapedAt": "2026-09-24T08:45:52.258Z"
     },
     {
       "id": "uniqlo-E488858-000",
@@ -3735,7 +3733,7 @@
       "images": [
         "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488858/item/goods_09_488858_3x4.jpg",
         "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/488858/sub/vngoods_488858_sub3_3x4.jpg",
-        "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/488858/sub/vngoods_488858_sub4_3x4.jpg"
+        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/488858/sub/goods_488858_sub4_3x4.jpg"
       ],
       "category": "accessory",
       "subcategory": "accessory",
@@ -3752,7 +3750,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.492Z"
+      "scrapedAt": "2026-09-24T08:45:52.258Z"
     },
     {
       "id": "uniqlo-E488840-000",
@@ -3793,7 +3791,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.492Z"
+      "scrapedAt": "2026-09-24T08:45:52.258Z"
     },
     {
       "id": "uniqlo-E488839-000",
@@ -3831,7 +3829,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.492Z"
+      "scrapedAt": "2026-09-24T08:45:52.258Z"
     },
     {
       "id": "uniqlo-E488829-000",
@@ -3865,7 +3863,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.492Z"
+      "scrapedAt": "2026-09-24T08:45:52.258Z"
     },
     {
       "id": "uniqlo-E488828-000",
@@ -3899,7 +3897,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.492Z"
+      "scrapedAt": "2026-09-24T08:45:52.259Z"
     },
     {
       "id": "uniqlo-E488816-000",
@@ -3934,7 +3932,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.492Z"
+      "scrapedAt": "2026-09-24T08:45:52.259Z"
     },
     {
       "id": "uniqlo-E488814-000",
@@ -3969,7 +3967,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.492Z"
+      "scrapedAt": "2026-09-24T08:45:52.259Z"
     },
     {
       "id": "uniqlo-E488811-000",
@@ -4002,7 +4000,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.492Z"
+      "scrapedAt": "2026-09-24T08:45:52.259Z"
     },
     {
       "id": "uniqlo-E488801-000",
@@ -4035,7 +4033,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.492Z"
+      "scrapedAt": "2026-09-24T08:45:52.259Z"
     },
     {
       "id": "uniqlo-E488798-000",
@@ -4069,7 +4067,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.492Z"
+      "scrapedAt": "2026-09-24T08:45:52.259Z"
     },
     {
       "id": "uniqlo-E488797-000",
@@ -4103,7 +4101,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.492Z"
+      "scrapedAt": "2026-09-24T08:45:52.259Z"
     },
     {
       "id": "uniqlo-E488796-000",
@@ -4136,7 +4134,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.492Z"
+      "scrapedAt": "2026-09-24T08:45:52.259Z"
     },
     {
       "id": "uniqlo-E488795-000",
@@ -4171,7 +4169,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.492Z"
+      "scrapedAt": "2026-09-24T08:45:52.259Z"
     },
     {
       "id": "uniqlo-E488794-000",
@@ -4206,7 +4204,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.492Z"
+      "scrapedAt": "2026-09-24T08:45:52.259Z"
     },
     {
       "id": "uniqlo-E488793-000",
@@ -4242,7 +4240,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.492Z"
+      "scrapedAt": "2026-09-24T08:45:52.259Z"
     },
     {
       "id": "uniqlo-E488790-000",
@@ -4276,7 +4274,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.492Z"
+      "scrapedAt": "2026-09-24T08:45:52.260Z"
     },
     {
       "id": "uniqlo-E488787-000",
@@ -4310,7 +4308,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.492Z"
+      "scrapedAt": "2026-09-24T08:45:52.260Z"
     },
     {
       "id": "uniqlo-E488785-000",
@@ -4344,7 +4342,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:08.492Z"
+      "scrapedAt": "2026-09-24T08:45:52.260Z"
     },
     {
       "id": "uniqlo-E488773-000",
@@ -4376,7 +4374,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.780Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488760-000",
@@ -4411,7 +4409,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.781Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488758-000",
@@ -4446,7 +4444,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.781Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488747-000",
@@ -4479,7 +4477,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.781Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488746-000",
@@ -4507,7 +4505,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.781Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488743-000",
@@ -4546,7 +4544,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.781Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488739-000",
@@ -4583,7 +4581,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.781Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488729-000",
@@ -4616,7 +4614,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.781Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488728-000",
@@ -4649,7 +4647,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.781Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488726-000",
@@ -4685,7 +4683,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.781Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488722-000",
@@ -4719,7 +4717,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.781Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488694-000",
@@ -4758,7 +4756,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.781Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488684-000",
@@ -4795,7 +4793,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.781Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488652-000",
@@ -4826,7 +4824,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.782Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488630-000",
@@ -4861,7 +4859,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.782Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488605-000",
@@ -4895,7 +4893,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.782Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488599-000",
@@ -4927,7 +4925,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.782Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488560-000",
@@ -4963,7 +4961,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.782Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488559-000",
@@ -4996,7 +4994,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.782Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488522-000",
@@ -5031,7 +5029,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.782Z"
+      "scrapedAt": "2026-09-24T08:45:54.365Z"
     },
     {
       "id": "uniqlo-E488520-000",
@@ -5068,7 +5066,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.782Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488462-000",
@@ -5106,7 +5104,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.782Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488459-000",
@@ -5138,7 +5136,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.782Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488371-000",
@@ -5177,7 +5175,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.782Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488370-000",
@@ -5213,7 +5211,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.782Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488358-000",
@@ -5244,7 +5242,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.783Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488357-000",
@@ -5276,7 +5274,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.783Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488345-000",
@@ -5311,7 +5309,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.783Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488345-000",
@@ -5344,7 +5342,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.783Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488333-000",
@@ -5378,7 +5376,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.783Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488307-000",
@@ -5410,7 +5408,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.783Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488306-000",
@@ -5442,7 +5440,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.783Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488305-000",
@@ -5474,7 +5472,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.783Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488304-000",
@@ -5506,7 +5504,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.783Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488302-000",
@@ -5544,7 +5542,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.783Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488298-000",
@@ -5581,7 +5579,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.783Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488288-000",
@@ -5620,7 +5618,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.783Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488270-000",
@@ -5653,7 +5651,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.783Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488269-000",
@@ -5686,7 +5684,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.783Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488263-000",
@@ -5719,7 +5717,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.783Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488257-000",
@@ -5748,7 +5746,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.784Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488254-000",
@@ -5781,7 +5779,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.784Z"
+      "scrapedAt": "2026-09-24T08:45:54.366Z"
     },
     {
       "id": "uniqlo-E488253-000",
@@ -5814,7 +5812,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.784Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488252-000",
@@ -5847,7 +5845,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.784Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488251-000",
@@ -5879,7 +5877,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.784Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488250-000",
@@ -5912,7 +5910,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.784Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488249-000",
@@ -5944,7 +5942,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.784Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488248-000",
@@ -5975,7 +5973,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.784Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488247-000",
@@ -6005,7 +6003,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.784Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488230-000",
@@ -6040,7 +6038,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.784Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488228-000",
@@ -6073,7 +6071,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.784Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488222-000",
@@ -6107,7 +6105,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.784Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488210-000",
@@ -6140,7 +6138,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.784Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488209-000",
@@ -6175,38 +6173,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.784Z"
-    },
-    {
-      "id": "uniqlo-E488206-000",
-      "brand": "Uniqlo",
-      "name": "Áo Kiểu Vải Denim",
-      "price": 588000,
-      "originalPrice": 784000,
-      "currency": "VND",
-      "url": "https://www.uniqlo.com/vn/vi/products/E488206-000/00?colorDisplayCode=08",
-      "images": [
-        "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/488206/item/vngoods_08_488206_3x4.jpg",
-        "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/488206/sub/vngoods_488206_sub3_3x4.jpg",
-        "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/488206/sub/vngoods_488206_sub4_3x4.jpg"
-      ],
-      "category": "top",
-      "subcategory": "top",
-      "gender": "female",
-      "colors": [
-        "blue",
-        "gray"
-      ],
-      "sizes": [
-        "M",
-        "L"
-      ],
-      "material": "",
-      "tags": [
-        "denim"
-      ],
-      "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.784Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488204-000",
@@ -6240,7 +6207,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.784Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488203-000",
@@ -6275,7 +6242,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.785Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488202-000",
@@ -6308,7 +6275,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.785Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488200-000",
@@ -6342,7 +6309,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.785Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488191-000",
@@ -6375,7 +6342,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.785Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488187-000",
@@ -6409,7 +6376,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.785Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488186-000",
@@ -6441,7 +6408,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.785Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488182-000",
@@ -6473,7 +6440,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.785Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488169-000",
@@ -6509,7 +6476,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.785Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488168-000",
@@ -6542,7 +6509,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.785Z"
+      "scrapedAt": "2026-09-24T08:45:54.367Z"
     },
     {
       "id": "uniqlo-E488167-000",
@@ -6575,7 +6542,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.785Z"
+      "scrapedAt": "2026-09-24T08:45:54.368Z"
     },
     {
       "id": "uniqlo-E488141-000",
@@ -6606,7 +6573,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.785Z"
+      "scrapedAt": "2026-09-24T08:45:54.368Z"
     },
     {
       "id": "uniqlo-E488106-000",
@@ -6635,7 +6602,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.785Z"
+      "scrapedAt": "2026-09-24T08:45:54.368Z"
     },
     {
       "id": "uniqlo-E488105-000",
@@ -6665,7 +6632,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.785Z"
+      "scrapedAt": "2026-09-24T08:45:54.368Z"
     },
     {
       "id": "uniqlo-E488096-000",
@@ -6694,7 +6661,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.785Z"
+      "scrapedAt": "2026-09-24T08:45:54.368Z"
     },
     {
       "id": "uniqlo-E488094-000",
@@ -6724,7 +6691,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.785Z"
+      "scrapedAt": "2026-09-24T08:45:54.368Z"
     },
     {
       "id": "uniqlo-E488093-000",
@@ -6753,7 +6720,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.786Z"
+      "scrapedAt": "2026-09-24T08:45:54.368Z"
     },
     {
       "id": "uniqlo-E488091-000",
@@ -6782,7 +6749,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.786Z"
+      "scrapedAt": "2026-09-24T08:45:54.368Z"
     },
     {
       "id": "uniqlo-E488072-000",
@@ -6815,7 +6782,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.786Z"
+      "scrapedAt": "2026-09-24T08:45:54.368Z"
     },
     {
       "id": "uniqlo-E488071-000",
@@ -6848,7 +6815,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:10.786Z"
+      "scrapedAt": "2026-09-24T08:45:54.368Z"
     },
     {
       "id": "uniqlo-E488047-000",
@@ -6877,7 +6844,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.970Z"
+      "scrapedAt": "2026-09-24T08:45:56.482Z"
     },
     {
       "id": "uniqlo-E488014-000",
@@ -6910,7 +6877,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.970Z"
+      "scrapedAt": "2026-09-24T08:45:56.482Z"
     },
     {
       "id": "uniqlo-E488010-000",
@@ -6947,7 +6914,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.970Z"
+      "scrapedAt": "2026-09-24T08:45:56.482Z"
     },
     {
       "id": "uniqlo-E488008-000",
@@ -6983,7 +6950,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.970Z"
+      "scrapedAt": "2026-09-24T08:45:56.482Z"
     },
     {
       "id": "uniqlo-E487996-000",
@@ -7016,7 +6983,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.970Z"
+      "scrapedAt": "2026-09-24T08:45:56.482Z"
     },
     {
       "id": "uniqlo-E487995-000",
@@ -7051,7 +7018,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.970Z"
+      "scrapedAt": "2026-09-24T08:45:56.482Z"
     },
     {
       "id": "uniqlo-E487978-000",
@@ -7090,7 +7057,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.970Z"
+      "scrapedAt": "2026-09-24T08:45:56.482Z"
     },
     {
       "id": "uniqlo-E487962-000",
@@ -7127,7 +7094,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.970Z"
+      "scrapedAt": "2026-09-24T08:45:56.482Z"
     },
     {
       "id": "uniqlo-E487962-000",
@@ -7159,7 +7126,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.970Z"
+      "scrapedAt": "2026-09-24T08:45:56.482Z"
     },
     {
       "id": "uniqlo-E487959-000",
@@ -7194,7 +7161,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.971Z"
+      "scrapedAt": "2026-09-24T08:45:56.482Z"
     },
     {
       "id": "uniqlo-E487958-000",
@@ -7229,7 +7196,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.971Z"
+      "scrapedAt": "2026-09-24T08:45:56.483Z"
     },
     {
       "id": "uniqlo-E487957-000",
@@ -7265,7 +7232,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.971Z"
+      "scrapedAt": "2026-09-24T08:45:56.483Z"
     },
     {
       "id": "uniqlo-E487929-000",
@@ -7301,7 +7268,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.971Z"
+      "scrapedAt": "2026-09-24T08:45:56.483Z"
     },
     {
       "id": "uniqlo-E487908-000",
@@ -7342,7 +7309,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.971Z"
+      "scrapedAt": "2026-09-24T08:45:56.483Z"
     },
     {
       "id": "uniqlo-E487883-000",
@@ -7374,7 +7341,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.971Z"
+      "scrapedAt": "2026-09-24T08:45:56.483Z"
     },
     {
       "id": "uniqlo-E487882-000",
@@ -7407,7 +7374,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.483Z"
     },
     {
       "id": "uniqlo-E487846-000",
@@ -7442,7 +7409,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.483Z"
     },
     {
       "id": "uniqlo-E487837-000",
@@ -7477,7 +7444,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487832-000",
@@ -7512,7 +7479,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487830-000",
@@ -7545,7 +7512,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487806-000",
@@ -7577,7 +7544,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487800-000",
@@ -7608,7 +7575,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487742-000",
@@ -7641,7 +7608,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487741-000",
@@ -7675,7 +7642,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487715-000",
@@ -7708,7 +7675,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487712-000",
@@ -7741,7 +7708,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487711-000",
@@ -7774,7 +7741,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487689-000",
@@ -7811,7 +7778,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487688-000",
@@ -7846,7 +7813,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487608-000",
@@ -7881,7 +7848,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487595-000",
@@ -7920,7 +7887,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487594-000",
@@ -7955,7 +7922,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487589-000",
@@ -7992,7 +7959,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487585-000",
@@ -8028,7 +7995,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487579-000",
@@ -8068,7 +8035,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487576-000",
@@ -8099,7 +8066,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.972Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487575-000",
@@ -8132,7 +8099,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487562-000",
@@ -8165,7 +8132,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487561-000",
@@ -8198,7 +8165,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487560-000",
@@ -8231,7 +8198,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.484Z"
     },
     {
       "id": "uniqlo-E487559-000",
@@ -8262,7 +8229,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487556-000",
@@ -8295,7 +8262,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487538-000",
@@ -8328,7 +8295,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487528-000",
@@ -8363,7 +8330,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487526-000",
@@ -8397,7 +8364,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487518-000",
@@ -8433,7 +8400,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487517-000",
@@ -8467,7 +8434,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487516-000",
@@ -8502,7 +8469,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487511-000",
@@ -8536,7 +8503,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487477-000",
@@ -8573,7 +8540,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487466-000",
@@ -8606,7 +8573,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487465-000",
@@ -8631,7 +8598,6 @@
         "XS",
         "S",
         "M",
-        "L",
         "XL"
       ],
       "material": "",
@@ -8639,7 +8605,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487462-000",
@@ -8672,7 +8638,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487425-000",
@@ -8706,7 +8672,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487424-000",
@@ -8743,7 +8709,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487423-000",
@@ -8776,7 +8742,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487420-000",
@@ -8809,7 +8775,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487411-000",
@@ -8840,7 +8806,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487408-000",
@@ -8878,7 +8844,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.973Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487396-000",
@@ -8915,7 +8881,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.974Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487392-000",
@@ -8948,7 +8914,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.974Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487392-000",
@@ -8982,7 +8948,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.974Z"
+      "scrapedAt": "2026-09-24T08:45:56.485Z"
     },
     {
       "id": "uniqlo-E487348-000",
@@ -9018,7 +8984,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.974Z"
+      "scrapedAt": "2026-09-24T08:45:56.486Z"
     },
     {
       "id": "uniqlo-E487324-000",
@@ -9056,7 +9022,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.974Z"
+      "scrapedAt": "2026-09-24T08:45:56.486Z"
     },
     {
       "id": "uniqlo-E487279-000",
@@ -9090,7 +9056,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.974Z"
+      "scrapedAt": "2026-09-24T08:45:56.486Z"
     },
     {
       "id": "uniqlo-E487277-000",
@@ -9128,7 +9094,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.974Z"
+      "scrapedAt": "2026-09-24T08:45:56.486Z"
     },
     {
       "id": "uniqlo-E487277-000",
@@ -9162,7 +9128,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.974Z"
+      "scrapedAt": "2026-09-24T08:45:56.486Z"
     },
     {
       "id": "uniqlo-E487270-000",
@@ -9194,7 +9160,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.974Z"
+      "scrapedAt": "2026-09-24T08:45:56.486Z"
     },
     {
       "id": "uniqlo-E487257-000",
@@ -9228,7 +9194,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.974Z"
+      "scrapedAt": "2026-09-24T08:45:56.486Z"
     },
     {
       "id": "uniqlo-E487220-000",
@@ -9264,7 +9230,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.974Z"
+      "scrapedAt": "2026-09-24T08:45:56.486Z"
     },
     {
       "id": "uniqlo-E487217-000",
@@ -9301,7 +9267,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.974Z"
+      "scrapedAt": "2026-09-24T08:45:56.486Z"
     },
     {
       "id": "uniqlo-E487216-000",
@@ -9340,7 +9306,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.974Z"
+      "scrapedAt": "2026-09-24T08:45:56.486Z"
     },
     {
       "id": "uniqlo-E487214-000",
@@ -9375,7 +9341,7 @@
         "chino"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.974Z"
+      "scrapedAt": "2026-09-24T08:45:56.486Z"
     },
     {
       "id": "uniqlo-E487209-000",
@@ -9415,7 +9381,7 @@
         "chino"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.974Z"
+      "scrapedAt": "2026-09-24T08:45:56.486Z"
     },
     {
       "id": "uniqlo-E487206-000",
@@ -9453,7 +9419,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:12.974Z"
+      "scrapedAt": "2026-09-24T08:45:56.486Z"
     },
     {
       "id": "uniqlo-E487201-000",
@@ -9489,7 +9455,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.420Z"
+      "scrapedAt": "2026-09-24T08:45:56.486Z"
     },
     {
       "id": "uniqlo-E487182-000",
@@ -9526,7 +9492,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.434Z"
+      "scrapedAt": "2026-09-24T08:45:59.205Z"
     },
     {
       "id": "uniqlo-E487121-000",
@@ -9559,7 +9525,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.434Z"
+      "scrapedAt": "2026-09-24T08:45:59.218Z"
     },
     {
       "id": "uniqlo-E487120-000",
@@ -9593,7 +9559,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.435Z"
+      "scrapedAt": "2026-09-24T08:45:59.218Z"
     },
     {
       "id": "uniqlo-E487119-000",
@@ -9627,7 +9593,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.435Z"
+      "scrapedAt": "2026-09-24T08:45:59.218Z"
     },
     {
       "id": "uniqlo-E487118-000",
@@ -9660,7 +9626,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.435Z"
+      "scrapedAt": "2026-09-24T08:45:59.218Z"
     },
     {
       "id": "uniqlo-E487096-000",
@@ -9690,7 +9656,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.435Z"
+      "scrapedAt": "2026-09-24T08:45:59.218Z"
     },
     {
       "id": "uniqlo-E487093-000",
@@ -9719,7 +9685,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.435Z"
+      "scrapedAt": "2026-09-24T08:45:59.218Z"
     },
     {
       "id": "uniqlo-E487005-000",
@@ -9756,7 +9722,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.435Z"
+      "scrapedAt": "2026-09-24T08:45:59.218Z"
     },
     {
       "id": "uniqlo-E487001-000",
@@ -9792,7 +9758,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.435Z"
+      "scrapedAt": "2026-09-24T08:45:59.218Z"
     },
     {
       "id": "uniqlo-E486982-000",
@@ -9827,7 +9793,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.435Z"
+      "scrapedAt": "2026-09-24T08:45:59.219Z"
     },
     {
       "id": "uniqlo-E486916-000",
@@ -9857,7 +9823,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.435Z"
+      "scrapedAt": "2026-09-24T08:45:59.219Z"
     },
     {
       "id": "uniqlo-E486910-000",
@@ -9886,7 +9852,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.435Z"
+      "scrapedAt": "2026-09-24T08:45:59.219Z"
     },
     {
       "id": "uniqlo-E486897-000",
@@ -9915,7 +9881,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.435Z"
+      "scrapedAt": "2026-09-24T08:45:59.219Z"
     },
     {
       "id": "uniqlo-E486818-000",
@@ -9948,7 +9914,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.435Z"
+      "scrapedAt": "2026-09-24T08:45:59.219Z"
     },
     {
       "id": "uniqlo-E486817-000",
@@ -9980,7 +9946,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.435Z"
+      "scrapedAt": "2026-09-24T08:45:59.219Z"
     },
     {
       "id": "uniqlo-E486816-000",
@@ -10012,7 +9978,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.435Z"
+      "scrapedAt": "2026-09-24T08:45:59.219Z"
     },
     {
       "id": "uniqlo-E486771-000",
@@ -10044,7 +10010,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.435Z"
+      "scrapedAt": "2026-09-24T08:45:59.219Z"
     },
     {
       "id": "uniqlo-E486758-000",
@@ -10074,7 +10040,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.435Z"
+      "scrapedAt": "2026-09-24T08:45:59.219Z"
     },
     {
       "id": "uniqlo-E486757-000",
@@ -10108,7 +10074,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.435Z"
+      "scrapedAt": "2026-09-24T08:45:59.219Z"
     },
     {
       "id": "uniqlo-E486756-000",
@@ -10140,7 +10106,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.435Z"
+      "scrapedAt": "2026-09-24T08:45:59.219Z"
     },
     {
       "id": "uniqlo-E486755-000",
@@ -10178,7 +10144,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.219Z"
     },
     {
       "id": "uniqlo-E486615-000",
@@ -10213,7 +10179,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.219Z"
     },
     {
       "id": "uniqlo-E486614-000",
@@ -10249,7 +10215,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.219Z"
     },
     {
       "id": "uniqlo-E486612-000",
@@ -10282,7 +10248,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.219Z"
     },
     {
       "id": "uniqlo-E486610-000",
@@ -10318,7 +10284,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.219Z"
     },
     {
       "id": "uniqlo-E486604-000",
@@ -10352,7 +10318,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.219Z"
     },
     {
       "id": "uniqlo-E486602-000",
@@ -10387,7 +10353,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.220Z"
     },
     {
       "id": "uniqlo-E486600-000",
@@ -10424,7 +10390,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.220Z"
     },
     {
       "id": "uniqlo-E486598-000",
@@ -10458,7 +10424,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.220Z"
     },
     {
       "id": "uniqlo-E486597-000",
@@ -10493,7 +10459,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.220Z"
     },
     {
       "id": "uniqlo-E486596-000",
@@ -10527,7 +10493,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.220Z"
     },
     {
       "id": "uniqlo-E486595-000",
@@ -10561,7 +10527,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.220Z"
     },
     {
       "id": "uniqlo-E486594-000",
@@ -10595,7 +10561,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.220Z"
     },
     {
       "id": "uniqlo-E486593-000",
@@ -10629,7 +10595,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.220Z"
     },
     {
       "id": "uniqlo-E486591-000",
@@ -10663,7 +10629,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.220Z"
     },
     {
       "id": "uniqlo-E486590-000",
@@ -10695,7 +10661,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.220Z"
     },
     {
       "id": "uniqlo-E486588-000",
@@ -10729,7 +10695,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.220Z"
     },
     {
       "id": "uniqlo-E486587-000",
@@ -10763,7 +10729,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.220Z"
     },
     {
       "id": "uniqlo-E486586-000",
@@ -10797,7 +10763,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.220Z"
     },
     {
       "id": "uniqlo-E486585-000",
@@ -10831,7 +10797,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.436Z"
+      "scrapedAt": "2026-09-24T08:45:59.220Z"
     },
     {
       "id": "uniqlo-E486579-000",
@@ -10867,7 +10833,7 @@
         "slim-fit"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:15.437Z"
+      "scrapedAt": "2026-09-24T08:45:59.220Z"
     },
     {
       "id": "uniqlo-E486557-000",
@@ -10901,7 +10867,7 @@
         "slim-fit"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.785Z"
+      "scrapedAt": "2026-09-24T08:45:59.220Z"
     },
     {
       "id": "uniqlo-E486491-000",
@@ -10935,7 +10901,7 @@
         "slim-fit"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.785Z"
+      "scrapedAt": "2026-09-24T08:46:01.554Z"
     },
     {
       "id": "uniqlo-E486471-000",
@@ -10972,7 +10938,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.785Z"
+      "scrapedAt": "2026-09-24T08:46:01.554Z"
     },
     {
       "id": "uniqlo-E486468-000",
@@ -11007,7 +10973,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.785Z"
+      "scrapedAt": "2026-09-24T08:46:01.554Z"
     },
     {
       "id": "uniqlo-E486461-000",
@@ -11037,7 +11003,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.785Z"
+      "scrapedAt": "2026-09-24T08:46:01.554Z"
     },
     {
       "id": "uniqlo-E486459-000",
@@ -11068,7 +11034,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.785Z"
+      "scrapedAt": "2026-09-24T08:46:01.554Z"
     },
     {
       "id": "uniqlo-E486320-000",
@@ -11103,7 +11069,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.785Z"
+      "scrapedAt": "2026-09-24T08:46:01.554Z"
     },
     {
       "id": "uniqlo-E486317-000",
@@ -11136,7 +11102,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.785Z"
+      "scrapedAt": "2026-09-24T08:46:01.554Z"
     },
     {
       "id": "uniqlo-E486316-000",
@@ -11172,7 +11138,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.785Z"
+      "scrapedAt": "2026-09-24T08:46:01.554Z"
     },
     {
       "id": "uniqlo-E486296-000",
@@ -11204,7 +11170,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.785Z"
+      "scrapedAt": "2026-09-24T08:46:01.554Z"
     },
     {
       "id": "uniqlo-E486295-000",
@@ -11236,7 +11202,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.785Z"
+      "scrapedAt": "2026-09-24T08:46:01.554Z"
     },
     {
       "id": "uniqlo-E486196-000",
@@ -11266,7 +11232,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.786Z"
+      "scrapedAt": "2026-09-24T08:46:01.555Z"
     },
     {
       "id": "uniqlo-E486194-000",
@@ -11296,7 +11262,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.786Z"
+      "scrapedAt": "2026-09-24T08:46:01.555Z"
     },
     {
       "id": "uniqlo-E486191-000",
@@ -11334,7 +11300,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.786Z"
+      "scrapedAt": "2026-09-24T08:46:01.555Z"
     },
     {
       "id": "uniqlo-E486184-000",
@@ -11362,7 +11328,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.786Z"
+      "scrapedAt": "2026-09-24T08:46:01.555Z"
     },
     {
       "id": "uniqlo-E486177-000",
@@ -11398,7 +11364,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.786Z"
+      "scrapedAt": "2026-09-24T08:46:01.555Z"
     },
     {
       "id": "uniqlo-E486176-000",
@@ -11435,7 +11401,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.786Z"
+      "scrapedAt": "2026-09-24T08:46:01.555Z"
     },
     {
       "id": "uniqlo-E486171-000",
@@ -11473,7 +11439,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
+      "scrapedAt": "2026-09-24T08:46:01.562Z"
     },
     {
       "id": "uniqlo-E486167-000",
@@ -11510,7 +11476,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
+      "scrapedAt": "2026-09-24T08:46:01.562Z"
     },
     {
       "id": "uniqlo-E486146-000",
@@ -11543,7 +11509,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
+      "scrapedAt": "2026-09-24T08:46:01.562Z"
     },
     {
       "id": "uniqlo-E486144-000",
@@ -11576,7 +11542,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
+      "scrapedAt": "2026-09-24T08:46:01.562Z"
     },
     {
       "id": "uniqlo-E486143-000",
@@ -11609,7 +11575,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
+      "scrapedAt": "2026-09-24T08:46:01.562Z"
     },
     {
       "id": "uniqlo-E486136-000",
@@ -11642,7 +11608,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
+      "scrapedAt": "2026-09-24T08:46:01.562Z"
     },
     {
       "id": "uniqlo-E486135-000",
@@ -11675,7 +11641,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
+      "scrapedAt": "2026-09-24T08:46:01.562Z"
     },
     {
       "id": "uniqlo-E486134-000",
@@ -11708,7 +11674,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
+      "scrapedAt": "2026-09-24T08:46:01.562Z"
     },
     {
       "id": "uniqlo-E486133-000",
@@ -11741,7 +11707,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
+      "scrapedAt": "2026-09-24T08:46:01.562Z"
     },
     {
       "id": "uniqlo-E486131-000",
@@ -11774,7 +11740,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
+      "scrapedAt": "2026-09-24T08:46:01.563Z"
     },
     {
       "id": "uniqlo-E486120-000",
@@ -11808,7 +11774,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
+      "scrapedAt": "2026-09-24T08:46:01.563Z"
     },
     {
       "id": "uniqlo-E486119-000",
@@ -11845,7 +11811,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
+      "scrapedAt": "2026-09-24T08:46:01.563Z"
     },
     {
       "id": "uniqlo-E486117-000",
@@ -11884,7 +11850,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
+      "scrapedAt": "2026-09-24T08:46:01.563Z"
     },
     {
       "id": "uniqlo-E486116-000",
@@ -11921,7 +11887,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
+      "scrapedAt": "2026-09-24T08:46:01.563Z"
     },
     {
       "id": "uniqlo-E486103-000",
@@ -11957,7 +11923,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
+      "scrapedAt": "2026-09-24T08:46:01.563Z"
     },
     {
       "id": "uniqlo-E486095-000",
@@ -11992,7 +11958,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
+      "scrapedAt": "2026-09-24T08:46:01.563Z"
     },
     {
       "id": "uniqlo-E486082-000",
@@ -12024,7 +11990,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
+      "scrapedAt": "2026-09-24T08:46:01.563Z"
     },
     {
       "id": "uniqlo-E486080-000",
@@ -12064,7 +12030,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
+      "scrapedAt": "2026-09-24T08:46:01.563Z"
     },
     {
       "id": "uniqlo-E486071-000",
@@ -12103,42 +12069,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.792Z"
-    },
-    {
-      "id": "uniqlo-E485843-000",
-      "brand": "Uniqlo",
-      "name": "HEATTECH Ultra Warm Áo Thun",
-      "price": 588000,
-      "originalPrice": 588000,
-      "currency": "VND",
-      "url": "https://www.uniqlo.com/vn/vi/products/E485843-000/00?colorDisplayCode=01",
-      "images": [
-        "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/485843/item/vngoods_01_485843_3x4.jpg",
-        "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/485843/sub/vngoods_485843_sub4_3x4.jpg",
-        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/485843/sub/goods_485843_sub14_3x4.jpg"
-      ],
-      "category": "top",
-      "subcategory": "t-shirt",
-      "gender": "female",
-      "colors": [
-        "white",
-        "black"
-      ],
-      "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XXL"
-      ],
-      "material": "",
-      "tags": [
-        "casual"
-      ],
-      "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.563Z"
     },
     {
       "id": "uniqlo-E485782-000",
@@ -12174,7 +12105,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.563Z"
     },
     {
       "id": "uniqlo-E485744-000",
@@ -12211,7 +12142,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.563Z"
     },
     {
       "id": "uniqlo-E485737-000",
@@ -12244,7 +12175,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.563Z"
     },
     {
       "id": "uniqlo-E485735-000",
@@ -12280,7 +12211,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.563Z"
     },
     {
       "id": "uniqlo-E485717-000",
@@ -12314,7 +12245,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.563Z"
     },
     {
       "id": "uniqlo-E485690-000",
@@ -12346,7 +12277,7 @@
         "slim-fit"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.564Z"
     },
     {
       "id": "uniqlo-E485689-000",
@@ -12377,7 +12308,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.564Z"
     },
     {
       "id": "uniqlo-E485684-000",
@@ -12411,7 +12342,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.564Z"
     },
     {
       "id": "uniqlo-E485672-000",
@@ -12446,7 +12377,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.564Z"
     },
     {
       "id": "uniqlo-E485671-000",
@@ -12485,7 +12416,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.564Z"
     },
     {
       "id": "uniqlo-E485666-000",
@@ -12518,7 +12449,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.564Z"
     },
     {
       "id": "uniqlo-E485653-000",
@@ -12552,7 +12483,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.564Z"
     },
     {
       "id": "uniqlo-E485612-000",
@@ -12587,7 +12518,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.564Z"
     },
     {
       "id": "uniqlo-E485567-000",
@@ -12623,7 +12554,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.564Z"
     },
     {
       "id": "uniqlo-E485566-000",
@@ -12659,7 +12590,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.564Z"
     },
     {
       "id": "uniqlo-E485565-000",
@@ -12695,7 +12626,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.564Z"
     },
     {
       "id": "uniqlo-E485564-000",
@@ -12730,7 +12661,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.564Z"
     },
     {
       "id": "uniqlo-E485482-000",
@@ -12763,7 +12694,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.564Z"
     },
     {
       "id": "uniqlo-E485481-000",
@@ -12795,7 +12726,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.564Z"
     },
     {
       "id": "uniqlo-E485473-000",
@@ -12830,7 +12761,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.793Z"
+      "scrapedAt": "2026-09-24T08:46:01.564Z"
     },
     {
       "id": "uniqlo-E485329-000",
@@ -12867,7 +12798,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.794Z"
+      "scrapedAt": "2026-09-24T08:46:01.564Z"
     },
     {
       "id": "uniqlo-E485327-000",
@@ -12901,7 +12832,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:17.794Z"
+      "scrapedAt": "2026-09-24T08:46:01.564Z"
     },
     {
       "id": "uniqlo-E485321-000",
@@ -12939,7 +12870,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:01.564Z"
     },
     {
       "id": "uniqlo-E485312-000",
@@ -12969,7 +12900,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.443Z"
     },
     {
       "id": "uniqlo-E485308-000",
@@ -12991,15 +12922,14 @@
         "blue"
       ],
       "sizes": [
-        "XS",
-        "XL"
+        "XS"
       ],
       "material": "",
       "tags": [
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.443Z"
     },
     {
       "id": "uniqlo-E485307-000",
@@ -13036,36 +12966,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
-    },
-    {
-      "id": "uniqlo-E485265-000",
-      "brand": "Uniqlo",
-      "name": "Áo Sơ Mi Vải Oxford Dáng Boxy",
-      "price": 293000,
-      "originalPrice": 588000,
-      "currency": "VND",
-      "url": "https://www.uniqlo.com/vn/vi/products/E485265-000/00?colorDisplayCode=60",
-      "images": [
-        "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/485265/item/vngoods_60_485265_3x4.jpg",
-        "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/485265/sub/vngoods_485265_sub6_3x4.jpg",
-        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/485265/sub/goods_485265_sub11_3x4.jpg"
-      ],
-      "category": "top",
-      "subcategory": "shirt",
-      "gender": "unisex",
-      "colors": [
-        "blue"
-      ],
-      "sizes": [
-        "XL"
-      ],
-      "material": "",
-      "tags": [
-        "casual"
-      ],
-      "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.443Z"
     },
     {
       "id": "uniqlo-E485224-000",
@@ -13102,7 +13003,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.443Z"
     },
     {
       "id": "uniqlo-E485223-000",
@@ -13138,7 +13039,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.443Z"
     },
     {
       "id": "uniqlo-E485208-000",
@@ -13167,7 +13068,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.443Z"
     },
     {
       "id": "uniqlo-E485207-000",
@@ -13197,7 +13098,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.443Z"
     },
     {
       "id": "uniqlo-E485077-000",
@@ -13230,7 +13131,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.443Z"
     },
     {
       "id": "uniqlo-E485075-000",
@@ -13252,15 +13153,14 @@
         "white"
       ],
       "sizes": [
-        "XS",
-        "S"
+        "XS"
       ],
       "material": "",
       "tags": [
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.443Z"
     },
     {
       "id": "uniqlo-E485073-000",
@@ -13293,7 +13193,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.443Z"
     },
     {
       "id": "uniqlo-E485069-000",
@@ -13326,7 +13226,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.443Z"
     },
     {
       "id": "uniqlo-E485068-000",
@@ -13359,7 +13259,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E485067-000",
@@ -13392,7 +13292,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E485065-000",
@@ -13425,7 +13325,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E485064-000",
@@ -13459,7 +13359,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E485062-000",
@@ -13488,7 +13388,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E485059-000",
@@ -13521,7 +13421,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E485058-000",
@@ -13554,7 +13454,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E485054-000",
@@ -13587,7 +13487,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E485037-000",
@@ -13620,7 +13520,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.018Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E485036-000",
@@ -13653,7 +13553,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.019Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E485035-000",
@@ -13686,7 +13586,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.019Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E485025-000",
@@ -13718,7 +13618,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.019Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E485005-000",
@@ -13748,7 +13648,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.019Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E484939-000",
@@ -13781,7 +13681,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.019Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E484937-000",
@@ -13811,7 +13711,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.019Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E484935-000",
@@ -13840,7 +13740,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.019Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E484934-000",
@@ -13869,7 +13769,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.019Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E484932-000",
@@ -13898,7 +13798,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.019Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E484928-000",
@@ -13931,7 +13831,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.019Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E484912-000",
@@ -13966,7 +13866,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.019Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E484875-000",
@@ -14003,7 +13903,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E484855-000",
@@ -14039,7 +13939,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.444Z"
     },
     {
       "id": "uniqlo-E484850-000",
@@ -14073,7 +13973,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.445Z"
     },
     {
       "id": "uniqlo-E484849-000",
@@ -14108,7 +14008,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.445Z"
     },
     {
       "id": "uniqlo-E484812-000",
@@ -14145,7 +14045,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.445Z"
     },
     {
       "id": "uniqlo-E484808-000",
@@ -14182,7 +14082,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.446Z"
     },
     {
       "id": "uniqlo-E484779-000",
@@ -14214,7 +14114,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.446Z"
     },
     {
       "id": "uniqlo-E484778-000",
@@ -14246,7 +14146,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.446Z"
     },
     {
       "id": "uniqlo-E484777-000",
@@ -14279,7 +14179,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.446Z"
     },
     {
       "id": "uniqlo-E484765-000",
@@ -14311,7 +14211,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.446Z"
     },
     {
       "id": "uniqlo-E484762-000",
@@ -14344,7 +14244,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.446Z"
     },
     {
       "id": "uniqlo-E484761-000",
@@ -14377,7 +14277,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.446Z"
     },
     {
       "id": "uniqlo-E484719-000",
@@ -14408,7 +14308,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.446Z"
     },
     {
       "id": "uniqlo-E484610-000",
@@ -14445,7 +14345,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.446Z"
     },
     {
       "id": "uniqlo-E484607-000",
@@ -14482,7 +14382,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.446Z"
     },
     {
       "id": "uniqlo-E484505-000",
@@ -14518,7 +14418,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.446Z"
     },
     {
       "id": "uniqlo-E484482-000",
@@ -14550,7 +14450,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.446Z"
     },
     {
       "id": "uniqlo-E484481-000",
@@ -14582,7 +14482,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.446Z"
     },
     {
       "id": "uniqlo-E484480-000",
@@ -14614,7 +14514,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.020Z"
+      "scrapedAt": "2026-09-24T08:46:03.446Z"
     },
     {
       "id": "uniqlo-E484479-000",
@@ -14646,7 +14546,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.446Z"
     },
     {
       "id": "uniqlo-E484457-000",
@@ -14683,7 +14583,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.446Z"
     },
     {
       "id": "uniqlo-E484457-000",
@@ -14717,7 +14617,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.446Z"
     },
     {
       "id": "uniqlo-E484397-000",
@@ -14754,7 +14654,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.446Z"
     },
     {
       "id": "uniqlo-E484330-000",
@@ -14794,7 +14694,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.447Z"
     },
     {
       "id": "uniqlo-E484287-000",
@@ -14828,7 +14728,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.447Z"
     },
     {
       "id": "uniqlo-E484266-001",
@@ -14863,7 +14763,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.447Z"
     },
     {
       "id": "uniqlo-E484266-000",
@@ -14897,7 +14797,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.447Z"
     },
     {
       "id": "uniqlo-E484260-000",
@@ -14930,7 +14830,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.447Z"
     },
     {
       "id": "uniqlo-E484256-000",
@@ -14959,7 +14859,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.447Z"
     },
     {
       "id": "uniqlo-E484249-000",
@@ -14994,7 +14894,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.447Z"
     },
     {
       "id": "uniqlo-E484245-000",
@@ -15024,7 +14924,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.447Z"
     },
     {
       "id": "uniqlo-E484244-000",
@@ -15053,7 +14953,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.447Z"
     },
     {
       "id": "uniqlo-E484209-000",
@@ -15088,7 +14988,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.447Z"
     },
     {
       "id": "uniqlo-E484001-000",
@@ -15124,7 +15024,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.447Z"
     },
     {
       "id": "uniqlo-E483975-000",
@@ -15160,7 +15060,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.447Z"
     },
     {
       "id": "uniqlo-E483972-000",
@@ -15196,7 +15096,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.447Z"
     },
     {
       "id": "uniqlo-E483970-000",
@@ -15231,7 +15131,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.447Z"
     },
     {
       "id": "uniqlo-E483924-000",
@@ -15270,7 +15170,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.447Z"
     },
     {
       "id": "uniqlo-E483913-000",
@@ -15303,7 +15203,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.447Z"
     },
     {
       "id": "uniqlo-E483912-000",
@@ -15336,7 +15236,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.447Z"
     },
     {
       "id": "uniqlo-E483907-000",
@@ -15370,7 +15270,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.021Z"
+      "scrapedAt": "2026-09-24T08:46:03.447Z"
     },
     {
       "id": "uniqlo-E483906-000",
@@ -15403,7 +15303,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.022Z"
+      "scrapedAt": "2026-09-24T08:46:03.448Z"
     },
     {
       "id": "uniqlo-E483906-000",
@@ -15437,7 +15337,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.022Z"
+      "scrapedAt": "2026-09-24T08:46:03.448Z"
     },
     {
       "id": "uniqlo-E483896-000",
@@ -15472,7 +15372,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.022Z"
+      "scrapedAt": "2026-09-24T08:46:03.448Z"
     },
     {
       "id": "uniqlo-E483892-001",
@@ -15508,7 +15408,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.022Z"
+      "scrapedAt": "2026-09-24T08:46:03.448Z"
     },
     {
       "id": "uniqlo-E483892-000",
@@ -15543,7 +15443,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.022Z"
+      "scrapedAt": "2026-09-24T08:46:03.448Z"
     },
     {
       "id": "uniqlo-E483890-000",
@@ -15572,7 +15472,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.022Z"
+      "scrapedAt": "2026-09-24T08:46:03.448Z"
     },
     {
       "id": "uniqlo-E483884-000",
@@ -15591,20 +15491,17 @@
       "subcategory": "shirt",
       "gender": "female",
       "colors": [
-        "blue",
-        "green"
+        "blue"
       ],
       "sizes": [
-        "XS",
-        "L",
-        "XXL"
+        "L"
       ],
       "material": "",
       "tags": [
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.022Z"
+      "scrapedAt": "2026-09-24T08:46:03.448Z"
     },
     {
       "id": "uniqlo-E483883-000",
@@ -15638,7 +15535,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.022Z"
+      "scrapedAt": "2026-09-24T08:46:03.448Z"
     },
     {
       "id": "uniqlo-E483883-000",
@@ -15661,8 +15558,6 @@
       ],
       "sizes": [
         "S",
-        "L",
-        "XL",
         "XXL"
       ],
       "material": "",
@@ -15670,7 +15565,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.022Z"
+      "scrapedAt": "2026-09-24T08:46:03.448Z"
     },
     {
       "id": "uniqlo-E483869-000",
@@ -15705,7 +15600,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.022Z"
+      "scrapedAt": "2026-09-24T08:46:03.448Z"
     },
     {
       "id": "uniqlo-E483732-000",
@@ -15738,7 +15633,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.022Z"
+      "scrapedAt": "2026-09-24T08:46:03.448Z"
     },
     {
       "id": "uniqlo-E483727-000",
@@ -15769,7 +15664,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:19.022Z"
+      "scrapedAt": "2026-09-24T08:46:03.448Z"
     },
     {
       "id": "uniqlo-E483546-000",
@@ -15805,7 +15700,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.257Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E483535-000",
@@ -15839,7 +15734,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.257Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E483521-000",
@@ -15868,7 +15763,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.257Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E483512-000",
@@ -15899,7 +15794,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.257Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E483281-000",
@@ -15939,7 +15834,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.257Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E483281-000",
@@ -15972,7 +15867,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.257Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E483261-000",
@@ -16004,7 +15899,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.258Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E483042-000",
@@ -16038,7 +15933,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.258Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E483007-000",
@@ -16072,7 +15967,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.258Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E482952-000",
@@ -16109,7 +16004,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.258Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E482951-000",
@@ -16144,7 +16039,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.258Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E482950-000",
@@ -16178,7 +16073,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.258Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E482947-000",
@@ -16213,7 +16108,7 @@
         "slim-fit"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.258Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E482920-000",
@@ -16250,7 +16145,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.258Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E482918-000",
@@ -16287,7 +16182,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.258Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E482883-000",
@@ -16322,7 +16217,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.258Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E482868-000",
@@ -16361,7 +16256,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.258Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E482856-000",
@@ -16400,7 +16295,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.258Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E482784-000",
@@ -16429,7 +16324,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.258Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E482783-000",
@@ -16462,36 +16357,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.258Z"
-    },
-    {
-      "id": "uniqlo-E482772-000",
-      "brand": "Uniqlo",
-      "name": "MANGA UT SHUEISHA 100th Áo Thun | HUNTER×HUNTER",
-      "price": 195000,
-      "originalPrice": 391000,
-      "currency": "VND",
-      "url": "https://www.uniqlo.com/vn/vi/products/E482772-000/00?colorDisplayCode=09",
-      "images": [
-        "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/482772/item/vngoods_09_482772_3x4.jpg",
-        "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/482772/sub/vngoods_482772_sub3_3x4.jpg",
-        "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/482772/sub/vngoods_482772_sub6_3x4.jpg"
-      ],
-      "category": "top",
-      "subcategory": "t-shirt",
-      "gender": "unisex",
-      "colors": [
-        "black"
-      ],
-      "sizes": [
-        "M"
-      ],
-      "material": "",
-      "tags": [
-        "casual"
-      ],
-      "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.259Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E482769-000",
@@ -16513,15 +16379,14 @@
         "black"
       ],
       "sizes": [
-        "M",
-        "L"
+        "M"
       ],
       "material": "",
       "tags": [
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.259Z"
+      "scrapedAt": "2026-09-24T08:46:05.543Z"
     },
     {
       "id": "uniqlo-E482766-000",
@@ -16559,7 +16424,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.259Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482753-000",
@@ -16592,7 +16457,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.259Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482732-000",
@@ -16622,7 +16487,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.259Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482730-000",
@@ -16653,7 +16518,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.259Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482729-000",
@@ -16682,7 +16547,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.259Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482722-000",
@@ -16712,7 +16577,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.259Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482648-000",
@@ -16737,7 +16602,6 @@
       ],
       "sizes": [
         "S",
-        "M",
         "L"
       ],
       "material": "",
@@ -16745,7 +16609,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.259Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482646-000",
@@ -16778,7 +16642,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.259Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482638-000",
@@ -16808,7 +16672,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.259Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482606-000",
@@ -16849,7 +16713,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.259Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482522-000",
@@ -16886,7 +16750,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.259Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482514-000",
@@ -16920,7 +16784,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.259Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482483-000",
@@ -16949,7 +16813,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.259Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482481-000",
@@ -16979,7 +16843,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.259Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482480-000",
@@ -17012,7 +16876,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.259Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482479-000",
@@ -17041,7 +16905,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.260Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482471-000",
@@ -17074,7 +16938,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.260Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482470-000",
@@ -17098,7 +16962,6 @@
       "sizes": [
         "XS",
         "M",
-        "L",
         "XXL"
       ],
       "material": "",
@@ -17106,7 +16969,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.260Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482461-000",
@@ -17140,7 +17003,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.260Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482461-000",
@@ -17170,7 +17033,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.260Z"
+      "scrapedAt": "2026-09-24T08:46:05.544Z"
     },
     {
       "id": "uniqlo-E482460-000",
@@ -17205,7 +17068,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.260Z"
+      "scrapedAt": "2026-09-24T08:46:05.545Z"
     },
     {
       "id": "uniqlo-E482434-000",
@@ -17228,7 +17091,6 @@
         "brown"
       ],
       "sizes": [
-        "XL",
         "XXL"
       ],
       "material": "",
@@ -17236,7 +17098,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.260Z"
+      "scrapedAt": "2026-09-24T08:46:05.545Z"
     },
     {
       "id": "uniqlo-E482328-000",
@@ -17271,7 +17133,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.260Z"
+      "scrapedAt": "2026-09-24T08:46:05.545Z"
     },
     {
       "id": "uniqlo-E482328-000",
@@ -17302,7 +17164,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.260Z"
+      "scrapedAt": "2026-09-24T08:46:05.545Z"
     },
     {
       "id": "uniqlo-E482306-000",
@@ -17338,7 +17200,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.260Z"
+      "scrapedAt": "2026-09-24T08:46:05.545Z"
     },
     {
       "id": "uniqlo-E482305-000",
@@ -17377,7 +17239,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.260Z"
+      "scrapedAt": "2026-09-24T08:46:05.545Z"
     },
     {
       "id": "uniqlo-E482304-000",
@@ -17413,7 +17275,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.260Z"
+      "scrapedAt": "2026-09-24T08:46:05.545Z"
     },
     {
       "id": "uniqlo-E482299-000",
@@ -17451,7 +17313,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.260Z"
+      "scrapedAt": "2026-09-24T08:46:05.545Z"
     },
     {
       "id": "uniqlo-E482281-000",
@@ -17488,7 +17350,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.260Z"
+      "scrapedAt": "2026-09-24T08:46:05.545Z"
     },
     {
       "id": "uniqlo-E482260-000",
@@ -17528,7 +17390,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.260Z"
+      "scrapedAt": "2026-09-24T08:46:05.545Z"
     },
     {
       "id": "uniqlo-E482243-000",
@@ -17566,7 +17428,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.260Z"
+      "scrapedAt": "2026-09-24T08:46:05.545Z"
     },
     {
       "id": "uniqlo-E482172-000",
@@ -17602,7 +17464,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:20.261Z"
+      "scrapedAt": "2026-09-24T08:46:05.545Z"
     },
     {
       "id": "uniqlo-E482148-000",
@@ -17638,7 +17500,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:05.545Z"
     },
     {
       "id": "uniqlo-E482085-000",
@@ -17670,7 +17532,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:05.545Z"
     },
     {
       "id": "uniqlo-E481931-000",
@@ -17704,7 +17566,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:07.928Z"
     },
     {
       "id": "uniqlo-E481930-000",
@@ -17737,7 +17599,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:07.928Z"
     },
     {
       "id": "uniqlo-E481731-000",
@@ -17772,7 +17634,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:07.929Z"
     },
     {
       "id": "uniqlo-E481660-000",
@@ -17801,7 +17663,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:07.929Z"
     },
     {
       "id": "uniqlo-E481649-000",
@@ -17831,7 +17693,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:07.929Z"
     },
     {
       "id": "uniqlo-E481648-000",
@@ -17860,7 +17722,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:07.929Z"
     },
     {
       "id": "uniqlo-E481647-000",
@@ -17889,7 +17751,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:07.929Z"
     },
     {
       "id": "uniqlo-E481643-000",
@@ -17918,7 +17780,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:07.929Z"
     },
     {
       "id": "uniqlo-E481641-000",
@@ -17947,7 +17809,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:07.929Z"
     },
     {
       "id": "uniqlo-E481640-000",
@@ -17976,7 +17838,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:07.929Z"
     },
     {
       "id": "uniqlo-E481639-000",
@@ -18005,7 +17867,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:07.929Z"
     },
     {
       "id": "uniqlo-E481638-000",
@@ -18034,7 +17896,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:07.929Z"
     },
     {
       "id": "uniqlo-E481637-000",
@@ -18064,7 +17926,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:07.929Z"
     },
     {
       "id": "uniqlo-E481636-000",
@@ -18093,7 +17955,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:07.929Z"
     },
     {
       "id": "uniqlo-E481626-000",
@@ -18122,7 +17984,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:07.929Z"
     },
     {
       "id": "uniqlo-E481623-000",
@@ -18151,7 +18013,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:07.929Z"
     },
     {
       "id": "uniqlo-E481610-000",
@@ -18187,7 +18049,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:07.929Z"
     },
     {
       "id": "uniqlo-E481602-000",
@@ -18225,7 +18087,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.545Z"
+      "scrapedAt": "2026-09-24T08:46:07.929Z"
     },
     {
       "id": "uniqlo-E481583-000",
@@ -18260,7 +18122,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.929Z"
     },
     {
       "id": "uniqlo-E481582-000",
@@ -18297,7 +18159,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.930Z"
     },
     {
       "id": "uniqlo-E481442-000",
@@ -18336,7 +18198,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.930Z"
     },
     {
       "id": "uniqlo-E481441-000",
@@ -18374,7 +18236,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.930Z"
     },
     {
       "id": "uniqlo-E481224-000",
@@ -18410,7 +18272,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.930Z"
     },
     {
       "id": "uniqlo-E481091-000",
@@ -18439,7 +18301,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.930Z"
     },
     {
       "id": "uniqlo-E481040-000",
@@ -18476,7 +18338,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.930Z"
     },
     {
       "id": "uniqlo-E481004-000",
@@ -18515,7 +18377,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.930Z"
     },
     {
       "id": "uniqlo-E481004-000",
@@ -18550,7 +18412,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.930Z"
     },
     {
       "id": "uniqlo-E480827-000",
@@ -18578,7 +18440,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.930Z"
     },
     {
       "id": "uniqlo-E480815-000",
@@ -18611,7 +18473,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.930Z"
     },
     {
       "id": "uniqlo-E480814-000",
@@ -18644,7 +18506,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.930Z"
     },
     {
       "id": "uniqlo-E480764-000",
@@ -18678,7 +18540,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.930Z"
     },
     {
       "id": "uniqlo-E480764-000",
@@ -18708,7 +18570,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.930Z"
     },
     {
       "id": "uniqlo-E480740-000",
@@ -18748,7 +18610,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.930Z"
     },
     {
       "id": "uniqlo-E480740-000",
@@ -18770,6 +18632,7 @@
         "white"
       ],
       "sizes": [
+        "25inch",
         "26inch",
         "28inch",
         "29inch"
@@ -18779,7 +18642,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.930Z"
     },
     {
       "id": "uniqlo-E480342-000",
@@ -18817,7 +18680,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.931Z"
     },
     {
       "id": "uniqlo-E480054-000",
@@ -18854,7 +18717,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.931Z"
     },
     {
       "id": "uniqlo-E480045-000",
@@ -18891,7 +18754,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.931Z"
     },
     {
       "id": "uniqlo-E479816-000",
@@ -18926,7 +18789,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.931Z"
     },
     {
       "id": "uniqlo-E479791-000",
@@ -18964,7 +18827,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.546Z"
+      "scrapedAt": "2026-09-24T08:46:07.931Z"
     },
     {
       "id": "uniqlo-E479751-000",
@@ -19002,7 +18865,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.547Z"
+      "scrapedAt": "2026-09-24T08:46:07.931Z"
     },
     {
       "id": "uniqlo-E479620-000",
@@ -19038,7 +18901,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.547Z"
+      "scrapedAt": "2026-09-24T08:46:07.931Z"
     },
     {
       "id": "uniqlo-E479546-000",
@@ -19069,7 +18932,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.547Z"
+      "scrapedAt": "2026-09-24T08:46:07.931Z"
     },
     {
       "id": "uniqlo-E479372-000",
@@ -19106,7 +18969,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.547Z"
+      "scrapedAt": "2026-09-24T08:46:07.931Z"
     },
     {
       "id": "uniqlo-E479360-000",
@@ -19142,7 +19005,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.547Z"
+      "scrapedAt": "2026-09-24T08:46:07.931Z"
     },
     {
       "id": "uniqlo-E479224-000",
@@ -19170,7 +19033,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.547Z"
+      "scrapedAt": "2026-09-24T08:46:07.931Z"
     },
     {
       "id": "uniqlo-E479208-000",
@@ -19205,7 +19068,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.547Z"
+      "scrapedAt": "2026-09-24T08:46:07.931Z"
     },
     {
       "id": "uniqlo-E479184-000",
@@ -19238,7 +19101,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.547Z"
+      "scrapedAt": "2026-09-24T08:46:07.931Z"
     },
     {
       "id": "uniqlo-E479183-000",
@@ -19271,7 +19134,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.547Z"
+      "scrapedAt": "2026-09-24T08:46:07.932Z"
     },
     {
       "id": "uniqlo-E479182-000",
@@ -19303,7 +19166,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.547Z"
+      "scrapedAt": "2026-09-24T08:46:07.932Z"
     },
     {
       "id": "uniqlo-E479134-000",
@@ -19340,7 +19203,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.547Z"
+      "scrapedAt": "2026-09-24T08:46:07.932Z"
     },
     {
       "id": "uniqlo-E479073-000",
@@ -19376,7 +19239,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.547Z"
+      "scrapedAt": "2026-09-24T08:46:07.932Z"
     },
     {
       "id": "uniqlo-E479071-000",
@@ -19411,7 +19274,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:21.547Z"
+      "scrapedAt": "2026-09-24T08:46:07.932Z"
     },
     {
       "id": "uniqlo-E478579-000",
@@ -19443,7 +19306,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.776Z"
+      "scrapedAt": "2026-09-24T08:46:10.323Z"
     },
     {
       "id": "uniqlo-E478577-000",
@@ -19480,7 +19343,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.776Z"
+      "scrapedAt": "2026-09-24T08:46:10.323Z"
     },
     {
       "id": "uniqlo-E478528-000",
@@ -19514,7 +19377,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.776Z"
+      "scrapedAt": "2026-09-24T08:46:10.323Z"
     },
     {
       "id": "uniqlo-E478528-000",
@@ -19539,15 +19402,14 @@
         "S",
         "M",
         "L",
-        "XL",
-        "XXL"
+        "XL"
       ],
       "material": "",
       "tags": [
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.776Z"
+      "scrapedAt": "2026-09-24T08:46:10.323Z"
     },
     {
       "id": "uniqlo-E478497-000",
@@ -19580,7 +19442,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.776Z"
+      "scrapedAt": "2026-09-24T08:46:10.323Z"
     },
     {
       "id": "uniqlo-E478495-000",
@@ -19613,7 +19475,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.776Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E478494-000",
@@ -19646,7 +19508,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.776Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E478479-000",
@@ -19679,7 +19541,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.776Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E478306-000",
@@ -19708,7 +19570,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.776Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E478280-000",
@@ -19742,7 +19604,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.777Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E478230-000",
@@ -19773,7 +19635,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.777Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E478068-000",
@@ -19806,7 +19668,7 @@
         "slim-fit"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.777Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E478064-000",
@@ -19841,7 +19703,7 @@
         "slim-fit"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.777Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E478062-000",
@@ -19873,7 +19735,7 @@
         "slim-fit"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.777Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E478008-000",
@@ -19907,7 +19769,7 @@
         "slim-fit"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.777Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E478002-000",
@@ -19941,7 +19803,7 @@
         "slim-fit"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.777Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E477704-000",
@@ -19973,7 +19835,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.777Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E477335-000",
@@ -20011,7 +19873,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.777Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E477181-000",
@@ -20053,7 +19915,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.777Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E477074-000",
@@ -20084,7 +19946,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.777Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E476997-000",
@@ -20122,7 +19984,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.777Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E476997-000",
@@ -20157,7 +20019,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.777Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E476975-000",
@@ -20192,7 +20054,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.777Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E476975-000",
@@ -20221,7 +20083,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.778Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E476355-000",
@@ -20250,7 +20112,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.778Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E476354-000",
@@ -20279,7 +20141,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.778Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E476353-000",
@@ -20313,7 +20175,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.778Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E476081-000",
@@ -20344,7 +20206,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.778Z"
+      "scrapedAt": "2026-09-24T08:46:10.324Z"
     },
     {
       "id": "uniqlo-E475908-000",
@@ -20365,7 +20227,6 @@
       ],
       "sizes": [
         "XS",
-        "XL",
         "XXL"
       ],
       "material": "",
@@ -20373,7 +20234,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.778Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E475763-000",
@@ -20402,7 +20263,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.778Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E475761-000",
@@ -20431,7 +20292,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.778Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E475647-000",
@@ -20468,7 +20329,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.778Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E475647-000",
@@ -20499,7 +20360,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.778Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E475598-000",
@@ -20537,7 +20398,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.778Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E475386-000",
@@ -20575,36 +20436,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.778Z"
-    },
-    {
-      "id": "uniqlo-E475386-000",
-      "brand": "Uniqlo",
-      "name": "Quần Shorts Thể Thao Siêu Co Giãn",
-      "price": 195000,
-      "originalPrice": 391000,
-      "currency": "VND",
-      "url": "https://www.uniqlo.com/vn/vi/products/E475386-000/01?colorDisplayCode=19",
-      "images": [
-        "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/475386/item/vngoods_19_475386_3x4.jpg",
-        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475386/sub/goods_475386_sub14_3x4.jpg",
-        "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475386/sub/goods_475386_sub15_3x4.jpg"
-      ],
-      "category": "bottom",
-      "subcategory": "shorts",
-      "gender": "unisex",
-      "colors": [
-        "red"
-      ],
-      "sizes": [
-        "XS"
-      ],
-      "material": "",
-      "tags": [
-        "sporty"
-      ],
-      "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.778Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E475367-000",
@@ -20646,7 +20478,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.778Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E475367-000",
@@ -20684,7 +20516,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.779Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E475344-000",
@@ -20721,7 +20553,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.779Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E475053-000",
@@ -20762,7 +20594,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.779Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E475053-000",
@@ -20794,7 +20626,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.779Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E474983-000",
@@ -20831,7 +20663,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.779Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E474529-000",
@@ -20867,7 +20699,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.779Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E474528-000",
@@ -20904,7 +20736,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.779Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E474515-000",
@@ -20938,7 +20770,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.779Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E474481-000",
@@ -20975,7 +20807,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.779Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E474244-000",
@@ -21006,7 +20838,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.780Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E473970-000",
@@ -21036,7 +20868,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.780Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E473968-000",
@@ -21066,7 +20898,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.780Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E473953-000",
@@ -21097,7 +20929,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.780Z"
+      "scrapedAt": "2026-09-24T08:46:10.325Z"
     },
     {
       "id": "uniqlo-E473696-000",
@@ -21137,7 +20969,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.780Z"
+      "scrapedAt": "2026-09-24T08:46:10.326Z"
     },
     {
       "id": "uniqlo-E473696-000",
@@ -21163,7 +20995,6 @@
         "S",
         "M",
         "L",
-        "XL",
         "XXL"
       ],
       "material": "",
@@ -21172,7 +21003,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.780Z"
+      "scrapedAt": "2026-09-24T08:46:10.326Z"
     },
     {
       "id": "uniqlo-E473532-000",
@@ -21203,7 +21034,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.780Z"
+      "scrapedAt": "2026-09-24T08:46:10.326Z"
     },
     {
       "id": "uniqlo-E473471-000",
@@ -21234,7 +21065,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.780Z"
+      "scrapedAt": "2026-09-24T08:46:10.326Z"
     },
     {
       "id": "uniqlo-E473470-000",
@@ -21265,7 +21096,7 @@
         "vintage"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.780Z"
+      "scrapedAt": "2026-09-24T08:46:10.326Z"
     },
     {
       "id": "uniqlo-E472516-000",
@@ -21299,7 +21130,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.780Z"
+      "scrapedAt": "2026-09-24T08:46:10.326Z"
     },
     {
       "id": "uniqlo-E471972-000",
@@ -21330,7 +21161,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.781Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E471968-000",
@@ -21361,7 +21192,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.781Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E471958-000",
@@ -21391,7 +21222,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.781Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E471951-000",
@@ -21421,7 +21252,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.781Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E471947-000",
@@ -21452,7 +21283,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.781Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E471809-000",
@@ -21490,7 +21321,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.781Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E471808-000",
@@ -21527,7 +21358,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.781Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E470960-000",
@@ -21556,7 +21387,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.781Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E470625-000",
@@ -21585,7 +21416,7 @@
         "slim-fit"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.781Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E470187-000",
@@ -21621,7 +21452,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.781Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E470182-000",
@@ -21656,7 +21487,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.781Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E470143-000",
@@ -21698,7 +21529,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.781Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E470118-001",
@@ -21730,7 +21561,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.781Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E470118-000",
@@ -21766,7 +21597,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.781Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E470008-000",
@@ -21796,7 +21627,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:22.781Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E469996-000",
@@ -21827,7 +21658,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.967Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E469956-000",
@@ -21866,7 +21697,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.967Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E469871-000",
@@ -21905,7 +21736,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.967Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E469871-000",
@@ -21937,7 +21768,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.967Z"
+      "scrapedAt": "2026-09-24T08:46:10.327Z"
     },
     {
       "id": "uniqlo-E469411-000",
@@ -21976,7 +21807,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.967Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E469410-000",
@@ -22015,7 +21846,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.968Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E469292-000",
@@ -22055,7 +21886,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.968Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E468496-000",
@@ -22086,7 +21917,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.968Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E468495-000",
@@ -22118,7 +21949,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.968Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E467509-000",
@@ -22141,7 +21972,6 @@
       ],
       "sizes": [
         "XS",
-        "S",
         "M",
         "L",
         "XL",
@@ -22152,7 +21982,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.968Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E467421-000",
@@ -22183,7 +22013,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.968Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E467322-000",
@@ -22214,7 +22044,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.968Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E467242-000",
@@ -22244,7 +22074,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.968Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E466377-000",
@@ -22273,7 +22103,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.968Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E466374-000",
@@ -22303,7 +22133,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.968Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E466168-000",
@@ -22332,7 +22162,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.968Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E465760-000",
@@ -22371,7 +22201,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.968Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E465760-000",
@@ -22407,7 +22237,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.968Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E465755-000",
@@ -22445,7 +22275,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.968Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E465755-000",
@@ -22480,7 +22310,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.968Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E465736-000",
@@ -22520,7 +22350,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.968Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E465735-000",
@@ -22560,7 +22390,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.968Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E465734-000",
@@ -22600,7 +22430,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.969Z"
+      "scrapedAt": "2026-09-24T08:46:12.711Z"
     },
     {
       "id": "uniqlo-E465491-000",
@@ -22639,7 +22469,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.969Z"
+      "scrapedAt": "2026-09-24T08:46:12.712Z"
     },
     {
       "id": "uniqlo-E465484-000",
@@ -22679,7 +22509,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.969Z"
+      "scrapedAt": "2026-09-24T08:46:12.712Z"
     },
     {
       "id": "uniqlo-E465484-000",
@@ -22708,7 +22538,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.969Z"
+      "scrapedAt": "2026-09-24T08:46:12.712Z"
     },
     {
       "id": "uniqlo-E465203-000",
@@ -22745,7 +22575,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.969Z"
+      "scrapedAt": "2026-09-24T08:46:12.712Z"
     },
     {
       "id": "uniqlo-E465203-000",
@@ -22779,7 +22609,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.969Z"
+      "scrapedAt": "2026-09-24T08:46:12.712Z"
     },
     {
       "id": "uniqlo-E465193-000",
@@ -22818,7 +22648,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.969Z"
+      "scrapedAt": "2026-09-24T08:46:12.712Z"
     },
     {
       "id": "uniqlo-E465189-000",
@@ -22856,7 +22686,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.969Z"
+      "scrapedAt": "2026-09-24T08:46:12.712Z"
     },
     {
       "id": "uniqlo-E465187-000",
@@ -22897,7 +22727,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.969Z"
+      "scrapedAt": "2026-09-24T08:46:12.712Z"
     },
     {
       "id": "uniqlo-E465185-000",
@@ -22938,7 +22768,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.969Z"
+      "scrapedAt": "2026-09-24T08:46:12.712Z"
     },
     {
       "id": "uniqlo-E465185-000",
@@ -22973,7 +22803,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.969Z"
+      "scrapedAt": "2026-09-24T08:46:12.712Z"
     },
     {
       "id": "uniqlo-E464392-000",
@@ -23003,7 +22833,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.969Z"
+      "scrapedAt": "2026-09-24T08:46:12.712Z"
     },
     {
       "id": "uniqlo-E464390-000",
@@ -23033,7 +22863,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.970Z"
+      "scrapedAt": "2026-09-24T08:46:12.712Z"
     },
     {
       "id": "uniqlo-E464384-000",
@@ -23064,7 +22894,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.970Z"
+      "scrapedAt": "2026-09-24T08:46:12.712Z"
     },
     {
       "id": "uniqlo-E464310-000",
@@ -23097,7 +22927,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.970Z"
+      "scrapedAt": "2026-09-24T08:46:12.712Z"
     },
     {
       "id": "uniqlo-E464308-000",
@@ -23131,7 +22961,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.970Z"
+      "scrapedAt": "2026-09-24T08:46:12.712Z"
     },
     {
       "id": "uniqlo-E464153-000",
@@ -23163,7 +22993,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.970Z"
+      "scrapedAt": "2026-09-24T08:46:12.712Z"
     },
     {
       "id": "uniqlo-E464152-000",
@@ -23195,7 +23025,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.970Z"
+      "scrapedAt": "2026-09-24T08:46:12.712Z"
     },
     {
       "id": "uniqlo-E463730-000",
@@ -23225,7 +23055,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.970Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E463729-000",
@@ -23254,7 +23084,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.970Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E462369-000",
@@ -23286,7 +23116,7 @@
         "slim-fit"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.970Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E462337-000",
@@ -23320,7 +23150,7 @@
         "slim-fit"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.970Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E462244-000",
@@ -23350,7 +23180,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.970Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E462233-000",
@@ -23382,7 +23212,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.970Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E462220-000",
@@ -23413,7 +23243,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.970Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E462216-000",
@@ -23444,7 +23274,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.970Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E462191-000",
@@ -23474,7 +23304,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.971Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E461415-000",
@@ -23504,7 +23334,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.971Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E461136-000",
@@ -23538,7 +23368,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.971Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E460431-000",
@@ -23568,7 +23398,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.971Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E459569-000",
@@ -23598,7 +23428,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.971Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E459567-000",
@@ -23632,7 +23462,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.971Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E459565-000",
@@ -23661,7 +23491,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.971Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E459564-000",
@@ -23690,7 +23520,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.971Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E459563-000",
@@ -23719,7 +23549,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.971Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E459562-000",
@@ -23749,7 +23579,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.971Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E458325-000",
@@ -23785,7 +23615,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.971Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E457912-000",
@@ -23820,7 +23650,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.971Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E457517-000",
@@ -23859,7 +23689,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.971Z"
+      "scrapedAt": "2026-09-24T08:46:12.713Z"
     },
     {
       "id": "uniqlo-E457267-000",
@@ -23891,7 +23721,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.972Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E457129-000",
@@ -23921,7 +23751,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.972Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E457126-000",
@@ -23950,7 +23780,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.972Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E457125-000",
@@ -23980,7 +23810,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.972Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E457124-000",
@@ -24009,7 +23839,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.972Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E457123-000",
@@ -24038,7 +23868,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.972Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E457121-000",
@@ -24070,7 +23900,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.972Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E457120-000",
@@ -24101,7 +23931,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.974Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E457111-000",
@@ -24130,7 +23960,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.974Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E456630-000",
@@ -24166,7 +23996,7 @@
         "slim-fit"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.974Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E456591-000",
@@ -24201,7 +24031,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.974Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E456589-000",
@@ -24235,7 +24065,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.974Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E456261-000",
@@ -24273,7 +24103,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.975Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E455967-000",
@@ -24308,7 +24138,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.975Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E455957-000",
@@ -24348,7 +24178,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.975Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E455957-000",
@@ -24373,7 +24203,6 @@
       "sizes": [
         "XS",
         "S",
-        "L",
         "XL",
         "XXL"
       ],
@@ -24382,7 +24211,7 @@
         "linen"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.975Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E455951-000",
@@ -24417,7 +24246,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.975Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E455533-000",
@@ -24456,7 +24285,7 @@
         "slim-fit"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.975Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E455476-000",
@@ -24494,7 +24323,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:23.975Z"
+      "scrapedAt": "2026-09-24T08:46:12.714Z"
     },
     {
       "id": "uniqlo-E455476-000",
@@ -24528,7 +24357,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.195Z"
+      "scrapedAt": "2026-09-24T08:46:12.715Z"
     },
     {
       "id": "uniqlo-E455365-000",
@@ -24568,7 +24397,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.196Z"
+      "scrapedAt": "2026-09-24T08:46:12.715Z"
     },
     {
       "id": "uniqlo-E454312-000",
@@ -24600,7 +24429,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.196Z"
+      "scrapedAt": "2026-09-24T08:46:12.715Z"
     },
     {
       "id": "uniqlo-E454311-000",
@@ -24634,7 +24463,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.196Z"
+      "scrapedAt": "2026-09-24T08:46:12.715Z"
     },
     {
       "id": "uniqlo-E453754-000",
@@ -24675,7 +24504,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.196Z"
+      "scrapedAt": "2026-09-24T08:46:14.908Z"
     },
     {
       "id": "uniqlo-E452029-000",
@@ -24706,7 +24535,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.196Z"
+      "scrapedAt": "2026-09-24T08:46:14.908Z"
     },
     {
       "id": "uniqlo-E451648-000",
@@ -24740,7 +24569,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.196Z"
+      "scrapedAt": "2026-09-24T08:46:14.908Z"
     },
     {
       "id": "uniqlo-E450544-000",
@@ -24777,7 +24606,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.196Z"
+      "scrapedAt": "2026-09-24T08:46:14.908Z"
     },
     {
       "id": "uniqlo-E450543-000",
@@ -24817,7 +24646,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.196Z"
+      "scrapedAt": "2026-09-24T08:46:14.908Z"
     },
     {
       "id": "uniqlo-E450536-000",
@@ -24852,7 +24681,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.196Z"
+      "scrapedAt": "2026-09-24T08:46:14.908Z"
     },
     {
       "id": "uniqlo-E450535-000",
@@ -24890,7 +24719,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.196Z"
+      "scrapedAt": "2026-09-24T08:46:14.908Z"
     },
     {
       "id": "uniqlo-E450260-000",
@@ -24925,7 +24754,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.196Z"
+      "scrapedAt": "2026-09-24T08:46:14.908Z"
     },
     {
       "id": "uniqlo-E450195-000",
@@ -24967,7 +24796,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.196Z"
+      "scrapedAt": "2026-09-24T08:46:14.908Z"
     },
     {
       "id": "uniqlo-E449753-000",
@@ -25008,7 +24837,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.196Z"
+      "scrapedAt": "2026-09-24T08:46:14.908Z"
     },
     {
       "id": "uniqlo-E448034-000",
@@ -25044,7 +24873,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.196Z"
+      "scrapedAt": "2026-09-24T08:46:14.908Z"
     },
     {
       "id": "uniqlo-E447780-000",
@@ -25084,7 +24913,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.196Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E424873-000",
@@ -25124,7 +24953,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.196Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E424873-000",
@@ -25161,7 +24990,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.196Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E422992-000",
@@ -25202,7 +25031,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.196Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E422992-000",
@@ -25233,7 +25062,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E494571-000",
@@ -25264,7 +25093,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E493374-000",
@@ -25296,7 +25125,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E493373-000",
@@ -25328,7 +25157,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E493372-000",
@@ -25360,7 +25189,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E493371-000",
@@ -25392,7 +25221,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E489493-000",
@@ -25423,7 +25252,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E489492-000",
@@ -25455,7 +25284,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E489482-000",
@@ -25488,7 +25317,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E489452-000",
@@ -25520,7 +25349,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E489451-000",
@@ -25552,7 +25381,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E489425-000",
@@ -25583,7 +25412,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E489256-000",
@@ -25615,7 +25444,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E489255-000",
@@ -25647,7 +25476,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E489254-000",
@@ -25679,7 +25508,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E489252-000",
@@ -25711,7 +25540,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E489160-000",
@@ -25744,7 +25573,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E489159-000",
@@ -25777,7 +25606,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E489158-000",
@@ -25810,7 +25639,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E489151-000",
@@ -25843,7 +25672,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E489148-000",
@@ -25876,7 +25705,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E489147-000",
@@ -25909,7 +25738,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.909Z"
     },
     {
       "id": "uniqlo-E489146-000",
@@ -25942,7 +25771,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E488882-000",
@@ -25975,7 +25804,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E488788-000",
@@ -26006,7 +25835,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.197Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E488723-000",
@@ -26039,7 +25868,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E488693-000",
@@ -26070,7 +25899,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E488691-000",
@@ -26103,7 +25932,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E488450-000",
@@ -26135,7 +25964,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E488243-000",
@@ -26170,7 +25999,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E488181-000",
@@ -26204,7 +26033,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E488139-000",
@@ -26235,7 +26064,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E487943-000",
@@ -26269,7 +26098,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E487936-000",
@@ -26302,7 +26131,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E487931-000",
@@ -26311,9 +26140,9 @@
       "price": 2453000,
       "originalPrice": 2453000,
       "currency": "VND",
-      "url": "https://www.uniqlo.com/vn/vi/products/E487931-000/00?colorDisplayCode=08",
+      "url": "https://www.uniqlo.com/vn/vi/products/E487931-000/00?colorDisplayCode=41",
       "images": [
-        "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/487931/item/vngoods_08_487931_3x4.jpg",
+        "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/487931/item/vngoods_41_487931_3x4.jpg",
         "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/487931/sub/vngoods_487931_sub3_3x4.jpg",
         "https://image.uniqlo.com/UQ/ST3/vn/imagesgoods/487931/sub/vngoods_487931_sub6_3x4.jpg"
       ],
@@ -26338,7 +26167,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E487855-000",
@@ -26373,7 +26202,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E487851-000",
@@ -26408,7 +26237,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E487845-000",
@@ -26441,7 +26270,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E487842-000",
@@ -26473,7 +26302,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E487829-000",
@@ -26504,7 +26333,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E487488-000",
@@ -26538,7 +26367,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E487487-000",
@@ -26572,7 +26401,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E487328-000",
@@ -26605,7 +26434,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.910Z"
     },
     {
       "id": "uniqlo-E487258-000",
@@ -26638,7 +26467,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.911Z"
     },
     {
       "id": "uniqlo-E487207-000",
@@ -26672,7 +26501,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.911Z"
     },
     {
       "id": "uniqlo-E486769-000",
@@ -26708,7 +26537,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.198Z"
+      "scrapedAt": "2026-09-24T08:46:14.911Z"
     },
     {
       "id": "uniqlo-E484258-000",
@@ -26741,7 +26570,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.199Z"
+      "scrapedAt": "2026-09-24T08:46:14.911Z"
     },
     {
       "id": "uniqlo-E482804-000",
@@ -26774,7 +26603,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.199Z"
+      "scrapedAt": "2026-09-24T08:46:14.911Z"
     },
     {
       "id": "uniqlo-E461325-000",
@@ -26807,7 +26636,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:25.199Z"
+      "scrapedAt": "2026-09-24T08:46:14.911Z"
     }
   ]
 }

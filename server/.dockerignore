@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log*
+# Secrets are passed at runtime via docker compose, never baked into the image
+.env
+.env.*
+# Generated lookbook cache (DashScope URLs expire within a day)
+data/generated
+# Pre-restructure entry point; the app runs from src/
+index.js
+.git

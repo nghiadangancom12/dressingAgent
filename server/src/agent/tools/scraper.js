@@ -94,7 +94,12 @@ function inferCategory(name) {
   // Vietnamese names lead with the product type: "Khăn Lụa Cài Túi Áo Vest" is a scarf, not a vest
   if (/^(khăn|cà vạt|tất|vớ|thắt lưng|dây lưng|ví|túi|balo|mũ|nón|kính|móc khóa)(\s|$)/.test(lower)) return { category: 'accessory', subcategory: 'accessory' };
   // Underwear and sleepwear aren't styled into outfits; 'other' drops them from the catalog
-  if (/quần lót|quần sịp|quần tất|giữ nhiệt|đồ lót|áo lót|áo ngực|\bboxers?\b|\bbriefs?\b|\btrunks?\b|\bbra\b|pijama|pyjama|đồ ngủ|đồ mặc nhà/.test(lower)) return { category: 'other', subcategory: 'other' };
+  if (/quần lót|quần sịp|quần tất|giữ nhiệt|đồ lót|áo lót|áo ngực|\bboxers?\b|\bbriefs?\b|\btrunks?\b|\bbra\b|pijama|pyjama|đồ ngủ|đồ mặc nhà/.test(lower)) return { category: 'other', subcategory: 'excluded' };
+  // Sets and áo dài don't fill a single outfit slot ("Set bộ Áo - Quần" would show a top for "quần")
+  // ("áo dài tay" is just a long-sleeve top and must stay)
+  if (/^(set|bộ)(\s|$)|áo dài(?!\s*tay)/.test(lower)) return { category: 'other', subcategory: 'excluded' };
+  // The leading word is the type: "Váy Nữ Jeans Mini" is a skirt, not jeans
+  if (/^(chân váy|váy|đầm)(\s|$)/.test(lower)) return { category: 'dress', subcategory: 'dress' };
   if (lower.includes('áo thun') || lower.includes('t-shirt') || lower.includes('tshirt') || /\bt[\s-]?shirt/.test(lower) || /\btees?\b/.test(lower)) return { category: 'top', subcategory: 't-shirt' };
   if (lower.includes('áo polo') || lower.includes('polo')) return { category: 'top', subcategory: 'polo' };
   if (lower.includes('áo khoác') || lower.includes('jacket') || lower.includes('hoodie') || lower.includes('bomber') || lower.includes('parka') || lower.includes('áo phao') || lower.includes('áo gió')) return { category: 'outerwear', subcategory: 'jacket' };
@@ -107,7 +112,7 @@ function inferCategory(name) {
   if (lower.includes('quần kaki') || lower.includes('chino')) return { category: 'bottom', subcategory: 'chinos' };
   if (lower.includes('quần jogger') || /\bjoggers?\b/.test(lower)) return { category: 'bottom', subcategory: 'jogger' };
   if (/\b(pants|trousers)\b/.test(lower)) return { category: 'bottom', subcategory: 'pants' };
-  if (lower.includes('váy') || lower.includes('đầm') || lower.includes('chân váy')) return { category: 'dress', subcategory: 'dress' };
+  if (lower.includes('váy') || lower.includes('đầm') || lower.includes('chân váy') || /\b(skirts?|dress(es)?|jumpsuit)\b/.test(lower)) return { category: 'dress', subcategory: 'dress' };
   // Shoe subcategories match what ruleEngine asks for ('sneaker' / 'oxford'), so "giày da" finds dress shoes
   if (lower.includes('búp bê') || lower.includes('mary jane') || /\b(flats?|ballet)\b/.test(lower)) return { category: 'shoes', subcategory: 'flat' };
   if (lower.includes('cao gót') || lower.includes('guốc') || /\bheels?\b/.test(lower)) return { category: 'shoes', subcategory: 'heels' };
@@ -117,7 +122,7 @@ function inferCategory(name) {
   if (lower.includes('giày') || lower.includes('boot')) return { category: 'shoes', subcategory: 'shoes' };
   // Garments before accessories: "Quần ... Túi Hộp" (cargo pocket) or "Áo ... Có Mũ" (hood) are not bags/hats
   if (lower.includes('quần')) return { category: 'bottom', subcategory: 'pants' };
-  if (/\b(sweater|sweatshirt|tank ?top)\b/.test(lower)) return { category: 'top', subcategory: 'top' };
+  if (/\b(sweater|sweatshirt|tank ?top|blouse|tops?|bodysuit|crop ?top)\b/.test(lower)) return { category: 'top', subcategory: 'top' };
   if (lower.includes('áo')) return { category: 'top', subcategory: 'top' };
   if (lower.includes('thắt lưng') || lower.includes('belt') || lower.includes('ví') || lower.includes('túi') || lower.includes('balo') || lower.includes('mũ') || lower.includes('kính')) return { category: 'accessory', subcategory: 'accessory' };
   return { category: 'other', subcategory: 'other' };
@@ -513,8 +518,10 @@ function mapStorefrontProduct({ brand, domain, defaultGender, id, name, productT
 
   // The shop's own product_type ("Dép Thông Dụng", "Quần dài (PS)") beats guessing from the title,
   // which may be English or brand-heavy ("Teelab Alter ... Pants PS149")
+  const byName = inferCategory(name);
+  if (byName.subcategory === 'excluded') return null; // underwear, sets, áo dài — whatever the shop's type says
   const byType = inferCategory(productType || '');
-  const { category, subcategory } = byType.category !== 'other' ? byType : inferCategory(name);
+  const { category, subcategory } = byType.category !== 'other' ? byType : byName;
   if (category === 'other') return null;
 
   return {
@@ -705,6 +712,14 @@ const SCRAPERS = [
   { key: 'aristino', run: () => scrapeHaravanStore({ brand: 'Aristino', domain: 'aristino.com', defaultGender: 'male' }) },
   { key: 'teelab', run: () => scrapeSapoStore({ brand: 'Teelab', domain: 'teelab.vn' }) },
   { key: 'davies', run: () => scrapeSapoStore({ brand: 'Davies', domain: 'davies.vn' }) },
+  // Womenswear: titles rarely say "nữ", so the shop's audience is the default gender
+  { key: 'marc', run: () => scrapeHaravanStore({ brand: 'Marc', domain: 'marc.com.vn', defaultGender: 'female' }) },
+  { key: 'evadeeva', run: () => scrapeHaravanStore({ brand: 'Eva de Eva', domain: 'evadeeva.com.vn', defaultGender: 'female' }) },
+  { key: 'libe', run: () => scrapeHaravanStore({ brand: 'Libé', domain: 'libeworkshop.com', defaultGender: 'female' }) },
+  { key: 'olv', run: () => scrapeHaravanStore({ brand: 'OLV', domain: 'olv.vn', defaultGender: 'female' }) },
+  { key: 'thebluetshirt', run: () => scrapeHaravanStore({ brand: 'The Blue T-shirt', domain: 'thebluetshirt.com', defaultGender: 'female' }) },
+  { key: 'cocosin', run: () => scrapeHaravanStore({ brand: 'Coco Sin', domain: 'cocosin.vn', defaultGender: 'female' }) },
+  { key: 'coupletx', run: () => scrapeHaravanStore({ brand: 'Couple TX', domain: 'coupletx.com' }) },
 ];
 
 /**

@@ -1,7 +1,7 @@
 {
   "brand": "coolmate",
-  "scrapedAt": "2026-09-23T17:58:20.423Z",
-  "totalProducts": 144,
+  "scrapedAt": "2026-09-24T08:47:07.216Z",
+  "totalProducts": 145,
   "products": [
     {
       "id": "coolmate-6a9fc51fbad91d01e503dc8e",
@@ -35,7 +35,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.652Z"
+      "scrapedAt": "2026-09-24T08:46:42.594Z"
     },
     {
       "id": "coolmate-6a9fc19c2d88b40eff1a2de5",
@@ -69,7 +69,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.666Z"
+      "scrapedAt": "2026-09-24T08:46:42.608Z"
     },
     {
       "id": "coolmate-6a9f900d6d6e1e125e48a965",
@@ -103,7 +103,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.666Z"
+      "scrapedAt": "2026-09-24T08:46:42.608Z"
     },
     {
       "id": "coolmate-6a9241c44fc6a11f0b1feab6",
@@ -134,13 +134,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.666Z"
+      "scrapedAt": "2026-09-24T08:46:42.608Z"
     },
     {
       "id": "coolmate-5f97d399b7265d73500da64f",
       "brand": "Coolmate",
       "name": "Áo thun nam Cotton Compact ",
-      "price": 259000,
+      "price": 234000,
       "originalPrice": 259000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-thun-nam-cotton-compact-chong-nhan",
@@ -171,7 +171,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.666Z"
+      "scrapedAt": "2026-09-24T08:46:42.608Z"
     },
     {
       "id": "coolmate-64cb0e47f928164a693a1d3f",
@@ -205,13 +205,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.667Z"
+      "scrapedAt": "2026-09-24T08:46:42.608Z"
     },
     {
       "id": "coolmate-6768ca4e95f18d5f674ef04a",
       "brand": "Coolmate",
       "name": "Áo thun Nam Thể thao Phối bo cổ",
-      "price": 249000,
+      "price": 225000,
       "originalPrice": 249000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-thun-nam-the-thao-phoi-bo-co",
@@ -243,13 +243,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.667Z"
+      "scrapedAt": "2026-09-24T08:46:42.608Z"
     },
     {
       "id": "coolmate-6847b1d3fe7a3b113e54de17",
       "brand": "Coolmate",
       "name": "Áo Thun Gym Cotton Oversized Comfort Washed",
-      "price": 299000,
+      "price": 270000,
       "originalPrice": 299000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-thun-gym-cotton-oversized-comfort-washed",
@@ -279,13 +279,13 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.667Z"
+      "scrapedAt": "2026-09-24T08:46:42.608Z"
     },
     {
       "id": "coolmate-6808ab224ba28e35cb1cfdda",
       "brand": "Coolmate",
       "name": "Áo thun chạy bộ Advanced Vent Tech Graphic Camo",
-      "price": 259000,
+      "price": 234000,
       "originalPrice": 259000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-thun-chay-bo-advanced-vent-tech-graphic-camo",
@@ -314,7 +314,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.667Z"
+      "scrapedAt": "2026-09-24T08:46:42.608Z"
     },
     {
       "id": "coolmate-6a8269f3c27a1733a6652d1c",
@@ -340,8 +340,8 @@
         "S",
         "M",
         "L",
-        "3XL",
         "XL",
+        "3XL",
         "2XL"
       ],
       "material": "",
@@ -349,13 +349,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.667Z"
+      "scrapedAt": "2026-09-24T08:46:42.609Z"
     },
     {
       "id": "coolmate-6a66cdf3c944453c086efead",
       "brand": "Coolmate",
       "name": "Tshirt cầu lông nam Side Line Smash Energy",
-      "price": 379000,
+      "price": 342000,
       "originalPrice": 379000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/tshirt-cau-long-nam-side-line-smash-energy",
@@ -382,13 +382,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.667Z"
+      "scrapedAt": "2026-09-24T08:46:42.609Z"
     },
     {
       "id": "coolmate-6a6484561778da0162056965",
       "brand": "Coolmate",
       "name": "Tshirt cầu lông nam Graphic Slash Smash Energy",
-      "price": 349000,
+      "price": 315000,
       "originalPrice": 349000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/tshirt-cau-long-nam-graphic-slash-smash-energy",
@@ -416,13 +416,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.667Z"
+      "scrapedAt": "2026-09-24T08:46:42.609Z"
     },
     {
       "id": "coolmate-6a647dfa1d7e4f07a321c41e",
       "brand": "Coolmate",
       "name": "T-shirt cầu lông nam Graphic Faded Smash Energy",
-      "price": 349000,
+      "price": 315000,
       "originalPrice": 349000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/t-shirt-cau-long-nam-graphic-faded-smash-energy",
@@ -449,7 +449,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.667Z"
+      "scrapedAt": "2026-09-24T08:46:42.609Z"
     },
     {
       "id": "coolmate-6a62de9d83bd9f2346468702",
@@ -482,13 +482,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.667Z"
+      "scrapedAt": "2026-09-24T08:46:42.609Z"
     },
     {
       "id": "coolmate-6a5989eacb884f02846f4959",
       "brand": "Coolmate",
       "name": "Tshirt chạy bộ nam Heartbeat Exdry Advance Motion",
-      "price": 239000,
+      "price": 216000,
       "originalPrice": 239000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/tshirt-running-men-heart-beat-exdry-advance-motion",
@@ -500,8 +500,6 @@
       "subcategory": "t-shirt",
       "gender": "male",
       "colors": [
-        "black",
-        "navy",
         "red",
         "pink",
         "purple",
@@ -510,8 +508,8 @@
       "sizes": [
         "S",
         "M",
-        "3XL",
         "2XL",
+        "3XL",
         "XL",
         "L"
       ],
@@ -520,13 +518,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.667Z"
+      "scrapedAt": "2026-09-24T08:46:42.609Z"
     },
     {
       "id": "coolmate-6a14d79635b52f1b3476517e",
       "brand": "Coolmate",
       "name": "Áo Tshirt Pickleball nam cổ V Zero Mark",
-      "price": 399000,
+      "price": 360000,
       "originalPrice": 399000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-tshirt-pickleball-nam-co-v-zero-mark",
@@ -556,13 +554,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.667Z"
+      "scrapedAt": "2026-09-24T08:46:42.609Z"
     },
     {
       "id": "coolmate-6a14feb4ed1a9f0bc940d8ba",
       "brand": "Coolmate",
       "name": "Áo Tshirt Pickleball nam cổ tròn Zero Mark",
-      "price": 399000,
+      "price": 360000,
       "originalPrice": 399000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-tshirt-pickleball-nam-co-tron-zero-mark",
@@ -593,13 +591,13 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.667Z"
+      "scrapedAt": "2026-09-24T08:46:42.609Z"
     },
     {
       "id": "coolmate-6a09e4ea4528974594159d30",
       "brand": "Coolmate",
       "name": "Áo thun Doraemon Kỵ Sĩ Đại Dương",
-      "price": 249000,
+      "price": 225000,
       "originalPrice": 249000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-thun-doraemon-ky-si-dai-duong",
@@ -627,13 +625,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.667Z"
+      "scrapedAt": "2026-09-24T08:46:42.609Z"
     },
     {
       "id": "coolmate-69ec6ec31e3fe105b1158c3b",
       "brand": "Coolmate",
       "name": "Áo thun thể thao thoáng khí Essentials",
-      "price": 189000,
+      "price": 171000,
       "originalPrice": 189000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-thun-the-thao-thoang-khi-essentials",
@@ -663,13 +661,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.667Z"
+      "scrapedAt": "2026-09-24T08:46:42.609Z"
     },
     {
       "id": "coolmate-69b3e31fded63d1072567a0b",
       "brand": "Coolmate",
       "name": "Áo thun cổ V Jacquard Exdry ProActive World Cup",
-      "price": 399000,
+      "price": 450000,
       "originalPrice": 499000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-thun-co-v-jacquard-exdry-proactive-world-cup",
@@ -699,13 +697,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:54.668Z"
+      "scrapedAt": "2026-09-24T08:46:42.609Z"
     },
     {
       "id": "coolmate-60ec27a5e609d134451a934a",
       "brand": "Coolmate",
       "name": "Áo Polo Nam Thể Thao Promax-S1",
-      "price": 239000,
+      "price": 216000,
       "originalPrice": 239000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-polo-the-thao-nam-promax-s1-logo-1",
@@ -740,7 +738,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.601Z"
+      "scrapedAt": "2026-09-24T08:46:44.272Z"
     },
     {
       "id": "coolmate-695e5fc8c253af01df32d3b9",
@@ -776,13 +774,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.601Z"
+      "scrapedAt": "2026-09-24T08:46:44.272Z"
     },
     {
       "id": "coolmate-64ded1927b6c303a4b494bd8",
       "brand": "Coolmate",
       "name": "Áo Polo Nam Pique Cotton",
-      "price": 299000,
+      "price": 270000,
       "originalPrice": 299000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/polo-pique-basic-cotton-100",
@@ -818,13 +816,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.601Z"
+      "scrapedAt": "2026-09-24T08:46:44.273Z"
     },
     {
       "id": "coolmate-61558de100c9d01da61b2078",
       "brand": "Coolmate",
       "name": "Áo Polo nam Excool",
-      "price": 399000,
+      "price": 360000,
       "originalPrice": 399000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-polo-nam-excool-mem-min-thoang-mat",
@@ -853,13 +851,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.601Z"
+      "scrapedAt": "2026-09-24T08:46:44.273Z"
     },
     {
       "id": "coolmate-68479ee00dce4f7479187bfc",
       "brand": "Coolmate",
       "name": "Áo Polo nam Premium Aircool",
-      "price": 359000,
+      "price": 360000,
       "originalPrice": 399000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-polo-nam-premium-aircool",
@@ -887,13 +885,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.601Z"
+      "scrapedAt": "2026-09-24T08:46:44.273Z"
     },
     {
       "id": "coolmate-6a61c70517a470783e625433",
       "brand": "Coolmate",
       "name": "Polo thể thao nam Exdry Flexmotion",
-      "price": 269000,
+      "price": 270000,
       "originalPrice": 299000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/polo-the-thao-nam-exdry-flexmotion",
@@ -924,13 +922,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.601Z"
+      "scrapedAt": "2026-09-24T08:46:44.273Z"
     },
     {
       "id": "coolmate-6a4b14d4fa69fb3c646ad4a1",
       "brand": "Coolmate",
       "name": "Polo nam phối mesh CoolBack",
-      "price": 279000,
+      "price": 252000,
       "originalPrice": 279000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/polo-nam-phoi-mesh-coolback",
@@ -958,13 +956,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.601Z"
+      "scrapedAt": "2026-09-24T08:46:44.273Z"
     },
     {
       "id": "coolmate-6a14e3b3ed1a9f0bc940d7cb",
       "brand": "Coolmate",
       "name": "Áo Polo Pickleball nam Zero Mark",
-      "price": 459000,
+      "price": 414000,
       "originalPrice": 459000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-polo-pickleball-nam-zero-mark",
@@ -994,13 +992,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.601Z"
+      "scrapedAt": "2026-09-24T08:46:44.273Z"
     },
     {
       "id": "coolmate-6912d4fe02f6c51be5013e54",
       "brand": "Coolmate",
       "name": "Áo Polo Nam Pickleball Driveshot Essentials",
-      "price": 399000,
+      "price": 360000,
       "originalPrice": 399000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-polo-nam-pickleball-driveshot-essentials",
@@ -1030,7 +1028,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.602Z"
+      "scrapedAt": "2026-09-24T08:46:44.273Z"
     },
     {
       "id": "coolmate-68da3d95ef04586ab3228a11",
@@ -1054,11 +1052,11 @@
       ],
       "sizes": [
         "S",
-        "M",
         "L",
         "XL",
         "3XL",
-        "2XL"
+        "2XL",
+        "M"
       ],
       "material": "",
       "tags": [
@@ -1066,13 +1064,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.602Z"
+      "scrapedAt": "2026-09-24T08:46:44.273Z"
     },
     {
       "id": "coolmate-68d503fe84dc9844c96b0f39",
       "brand": "Coolmate",
       "name": "Polo thể thao Promax Sportline",
-      "price": 279000,
+      "price": 252000,
       "originalPrice": 279000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/polo-the-thao-promax-sportline1",
@@ -1101,13 +1099,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.602Z"
+      "scrapedAt": "2026-09-24T08:46:44.273Z"
     },
     {
       "id": "coolmate-68ce35b3da2aab0d8d6170ae",
       "brand": "Coolmate",
       "name": "Polo thể thao Promax Flexline Clash",
-      "price": 279000,
+      "price": 252000,
       "originalPrice": 279000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/polo-the-thao-promax-flexline-clash",
@@ -1137,13 +1135,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.602Z"
+      "scrapedAt": "2026-09-24T08:46:44.273Z"
     },
     {
       "id": "coolmate-68a562a9812f0c49b5677cc2",
       "brand": "Coolmate",
       "name": "Áo polo Pickleball Exdry",
-      "price": 399000,
+      "price": 360000,
       "originalPrice": 399000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-polo-pickleball-exdry",
@@ -1171,13 +1169,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.602Z"
+      "scrapedAt": "2026-09-24T08:46:44.273Z"
     },
     {
       "id": "coolmate-686cfb2babd8324f6716c286",
       "brand": "Coolmate",
       "name": "Áo Polo nam Premium Cotton Linen",
-      "price": 399000,
+      "price": 360000,
       "originalPrice": 399000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-polo-nam-premium-cotton-linen",
@@ -1206,13 +1204,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.611Z"
+      "scrapedAt": "2026-09-24T08:46:44.280Z"
     },
     {
       "id": "coolmate-6840301e4a05553bc8160bed",
       "brand": "Coolmate",
       "name": "Áo Polo nam Premium Pique",
-      "price": 399000,
+      "price": 360000,
       "originalPrice": 399000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-polo-nam-premium-pique",
@@ -1238,13 +1236,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.611Z"
+      "scrapedAt": "2026-09-24T08:46:44.280Z"
     },
     {
       "id": "coolmate-6837e1d5cefc03228f587d8a",
       "brand": "Coolmate",
       "name": "Áo Polo nam Pickleball Baseline",
-      "price": 379000,
+      "price": 342000,
       "originalPrice": 379000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-polo-nam-pickleball-baseline",
@@ -1272,13 +1270,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.611Z"
+      "scrapedAt": "2026-09-24T08:46:44.280Z"
     },
     {
       "id": "coolmate-682ee5af68a0132de8254ceb",
       "brand": "Coolmate",
       "name": "Polo thể thao nam Promax Sideflow",
-      "price": 249000,
+      "price": 225000,
       "originalPrice": 249000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/polo-the-thao-nam-promax-sideflow",
@@ -1307,7 +1305,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.611Z"
+      "scrapedAt": "2026-09-24T08:46:44.280Z"
     },
     {
       "id": "coolmate-662cb5a8517b04231c317648",
@@ -1341,13 +1339,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.611Z"
+      "scrapedAt": "2026-09-24T08:46:44.280Z"
     },
     {
       "id": "coolmate-619e010c7c427b5b583ec1e9",
       "brand": "Coolmate",
       "name": "Áo Polo Nam Cafe",
-      "price": 329000,
+      "price": 297000,
       "originalPrice": 329000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-polo-nam-cafe",
@@ -1377,13 +1375,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.611Z"
+      "scrapedAt": "2026-09-24T08:46:44.281Z"
     },
     {
       "id": "coolmate-659d0e98eaf3de748706cd1f",
       "brand": "Coolmate",
       "name": "Pack 3 Áo Polo nam Pique Cotton",
-      "price": 897000,
+      "price": 808000,
       "originalPrice": 897000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/pack-3-ao-polo-nam-pique-basic-vai-cotton-100-thoi-trang",
@@ -1411,13 +1409,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:56.611Z"
+      "scrapedAt": "2026-09-24T08:46:44.281Z"
     },
     {
       "id": "coolmate-65e99924b69f8f0646182b5c",
       "brand": "Coolmate",
       "name": "Áo Sơ Mi Dài Tay Essentials Cotton ",
-      "price": 399000,
+      "price": 360000,
       "originalPrice": 399000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-so-mi-essentials-100-cotton-dai-tay-mem-mai2",
@@ -1447,13 +1445,13 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:58.640Z"
+      "scrapedAt": "2026-09-24T08:46:45.847Z"
     },
     {
       "id": "coolmate-6643227a1a30830aff318af0",
       "brand": "Coolmate",
       "name": "Áo Sơ Mi Dài Tay Premium Dobby ",
-      "price": 599000,
+      "price": 540000,
       "originalPrice": 599000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-so-mi-nam-dai-tay-premium-dobby-100-cotton-chong-nhan-thoang-mat",
@@ -1480,13 +1478,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:58.640Z"
+      "scrapedAt": "2026-09-24T08:46:45.847Z"
     },
     {
       "id": "coolmate-6709d3f4e58f8b239702c315",
       "brand": "Coolmate",
       "name": "Áo sơ mi dài tay Modal Essential",
-      "price": 499000,
+      "price": 450000,
       "originalPrice": 499000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-so-mi-modal-essentials",
@@ -1506,8 +1504,8 @@
         "M",
         "L",
         "XL",
-        "2XL",
         "3XL",
+        "2XL",
         "S"
       ],
       "material": "Modal",
@@ -1515,13 +1513,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:58.640Z"
+      "scrapedAt": "2026-09-24T08:46:45.847Z"
     },
     {
       "id": "coolmate-6709d6b149cc3526d669a161",
       "brand": "Coolmate",
       "name": "Áo sơ mi dài tay Oxford Premium",
-      "price": 599000,
+      "price": 540000,
       "originalPrice": 599000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-so-mi-nam-dai-tay-oxford-premium",
@@ -1550,7 +1548,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:58.640Z"
+      "scrapedAt": "2026-09-24T08:46:45.847Z"
     },
     {
       "id": "coolmate-67316862583e7052d9076f0d",
@@ -1583,13 +1581,13 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:58.640Z"
+      "scrapedAt": "2026-09-24T08:46:45.847Z"
     },
     {
       "id": "coolmate-6709d5ac9d30e92c6f26c3b7",
       "brand": "Coolmate",
       "name": "Áo sơ mi dài tay cổ tàu Premium Poplin ",
-      "price": 449000,
+      "price": 405000,
       "originalPrice": 449000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-so-mi-nam-dai-tay-co-tau-premium-poplin",
@@ -1617,13 +1615,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:58.640Z"
+      "scrapedAt": "2026-09-24T08:46:45.847Z"
     },
     {
       "id": "coolmate-60b48e486dfb751d685e83a4",
       "brand": "Coolmate",
       "name": "Áo Sơ mi dài tay Café-DriS",
-      "price": 299000,
+      "price": 450000,
       "originalPrice": 499000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-so-mi-nam-dai-tay-cafe-dris-khu-mui",
@@ -1649,13 +1647,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:58.641Z"
+      "scrapedAt": "2026-09-24T08:46:45.847Z"
     },
     {
       "id": "coolmate-664340520764e2769f636943",
       "brand": "Coolmate",
       "name": "Áo Sơ Mi Dài Tay Premium Poplin ",
-      "price": 599000,
+      "price": 540000,
       "originalPrice": 599000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-so-mi-nam-dai-tay-premium-poplin-100-cotton-chong-nhan-truot-nuoc",
@@ -1683,13 +1681,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:57:58.641Z"
+      "scrapedAt": "2026-09-24T08:46:45.847Z"
     },
     {
       "id": "coolmate-633127cf95e4c74c770b51c9",
       "brand": "Coolmate",
       "name": "Áo Khoác Nam có mũ Daily Wear",
-      "price": 449000,
+      "price": 450000,
       "originalPrice": 499000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-khoac-nam-co-mu-daily-wear-truot-nuoc-chong-uv-99",
@@ -1715,13 +1713,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:00.620Z"
+      "scrapedAt": "2026-09-24T08:46:47.416Z"
     },
     {
       "id": "coolmate-6a18fcf78677c9385c428cd6",
       "brand": "Coolmate",
       "name": "Áo Hoodie chống nắng nam Quick Dry Sun Protection UPF50",
-      "price": 399000,
+      "price": 360000,
       "originalPrice": 399000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-hoodie-chong-nang-nam-quick-dry-sun-protection-upf50",
@@ -1747,13 +1745,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:00.620Z"
+      "scrapedAt": "2026-09-24T08:46:47.416Z"
     },
     {
       "id": "coolmate-6a5d99690ae4754b9e75fcfd",
       "brand": "Coolmate",
       "name": "Áo khoác chống nắng NAM Lightweight Sun Protection UPF50",
-      "price": 509000,
+      "price": 540000,
       "originalPrice": 599000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/mens-lightweight-upf50-sun-protection",
@@ -1780,13 +1778,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:00.620Z"
+      "scrapedAt": "2026-09-24T08:46:47.416Z"
     },
     {
       "id": "coolmate-6659aa7509a119252617ab30",
       "brand": "Coolmate",
       "name": "Áo Khoác Knit Đa Năng Chống UV",
-      "price": 424000,
+      "price": 450000,
       "originalPrice": 499000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-khoac-nam-knit-vai-cotton-thoang-mat-chong-uv",
@@ -1812,13 +1810,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:00.620Z"
+      "scrapedAt": "2026-09-24T08:46:47.416Z"
     },
     {
       "id": "coolmate-6732b77099064b41ec09a84d",
       "brand": "Coolmate",
       "name": "Áo khoác thể thao Windbreaker Ripstop",
-      "price": 539000,
+      "price": 540000,
       "originalPrice": 599000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-khoac-the-thao-windbreaker-nylon-ribstop",
@@ -1845,13 +1843,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:00.621Z"
+      "scrapedAt": "2026-09-24T08:46:47.417Z"
     },
     {
       "id": "coolmate-65a20cd31deded298a0c4ff2",
       "brand": "Coolmate",
       "name": "Quần Jeans Nam siêu nhẹ",
-      "price": 494000,
+      "price": 495000,
       "originalPrice": 549000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-jeans-nam-dang-straight-sieu-nhe",
@@ -1877,13 +1875,13 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:02.637Z"
+      "scrapedAt": "2026-09-24T08:46:49.152Z"
     },
     {
       "id": "coolmate-64195be1f65d050395796d42",
       "brand": "Coolmate",
       "name": "Quần Jeans Nam Copper Denim Straight",
-      "price": 599000,
+      "price": 540000,
       "originalPrice": 599000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/coolmate-x-copper-denim-quan-jeans-dang-straight",
@@ -1910,13 +1908,13 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:02.637Z"
+      "scrapedAt": "2026-09-24T08:46:49.152Z"
     },
     {
       "id": "coolmate-65517e27b03b3f20da06e50e",
       "brand": "Coolmate",
       "name": "Quần Jeans Nam Basics dáng Straight",
-      "price": 449000,
+      "price": 450000,
       "originalPrice": 499000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-jeans-nam-basics-dang-regular-straight",
@@ -1943,7 +1941,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:02.637Z"
+      "scrapedAt": "2026-09-24T08:46:49.152Z"
     },
     {
       "id": "coolmate-64199b8c00f7504a4362334a",
@@ -1976,13 +1974,13 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:02.637Z"
+      "scrapedAt": "2026-09-24T08:46:49.153Z"
     },
     {
       "id": "coolmate-641ab6cba435d04c7f280d59",
       "brand": "Coolmate",
       "name": "Quần Jeans Nam Copper Denim OG Slim",
-      "price": 509000,
+      "price": 540000,
       "originalPrice": 599000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/coolmate-x-copper-denim-quan-jeans-dang-og-slim",
@@ -2009,13 +2007,13 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:02.637Z"
+      "scrapedAt": "2026-09-24T08:46:49.153Z"
     },
     {
       "id": "coolmate-65517e27b03b3f20da06e53c",
       "brand": "Coolmate",
       "name": "Quần Jeans Nam Basics dáng Slim fit",
-      "price": 449000,
+      "price": 450000,
       "originalPrice": 499000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-jeans-nam-basics-dang-slim-fit",
@@ -2043,13 +2041,13 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:02.637Z"
+      "scrapedAt": "2026-09-24T08:46:49.153Z"
     },
     {
       "id": "coolmate-61c41e2bee3fea6751714e9f",
       "brand": "Coolmate",
       "name": "Quần Dài Nam Kaki Excool",
-      "price": 449000,
+      "price": 450000,
       "originalPrice": 499000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-dai-kaki-excool-co-gian",
@@ -2079,13 +2077,13 @@
         "chino"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:04.492Z"
+      "scrapedAt": "2026-09-24T08:46:51.181Z"
     },
     {
       "id": "coolmate-611b88b53154485cc757ef62",
       "brand": "Coolmate",
       "name": "Quần dài nam Daily Pants",
-      "price": 269000,
+      "price": 270000,
       "originalPrice": 299000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-dai-nam-daily-pants",
@@ -2113,13 +2111,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:04.492Z"
+      "scrapedAt": "2026-09-24T08:46:51.181Z"
     },
     {
       "id": "coolmate-66c33032c312d431f129d448",
       "brand": "Coolmate",
       "name": "Quần dài nam ECC Ripstop Pants",
-      "price": 314000,
+      "price": 315000,
       "originalPrice": 349000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-dai-nam-ecc-ripstop-pants",
@@ -2149,13 +2147,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:04.493Z"
+      "scrapedAt": "2026-09-24T08:46:51.182Z"
     },
     {
       "id": "coolmate-66602559fbc3b00cfb4ebf6f",
       "brand": "Coolmate",
       "name": "Quần Dài Nam ECC Warp Pants dáng Slim",
-      "price": 599000,
+      "price": 540000,
       "originalPrice": 599000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-dai-nam-ecc-pants-dang-slim-fit-thoang-mat",
@@ -2184,13 +2182,13 @@
         "slim-fit"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:04.493Z"
+      "scrapedAt": "2026-09-24T08:46:51.182Z"
     },
     {
       "id": "coolmate-65792be0fbe98b5c146c6393",
       "brand": "Coolmate",
       "name": "Quần Dài Nam Kaki Excool dáng Straight",
-      "price": 449000,
+      "price": 450000,
       "originalPrice": 499000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-dai-nam-kaki-excool-dang-regular-straight",
@@ -2218,13 +2216,47 @@
         "chino"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:04.493Z"
+      "scrapedAt": "2026-09-24T08:46:51.182Z"
+    },
+    {
+      "id": "coolmate-6aa791755e4a0a2bdb0a0d4a",
+      "brand": "Coolmate",
+      "name": "Quần Dài Nam Cotton Feel",
+      "price": 259000,
+      "originalPrice": 259000,
+      "currency": "VND",
+      "url": "https://www.coolmate.me/product/quan-dai-nam-cotton-feel",
+      "images": [
+        "https://n7media.coolmate.me/uploads/2026/09/23/quan-dai-nam-cotton-feel-den_6.jpg",
+        "https://n7media.coolmate.me/uploads/2026/09/23/quan-dai-nam-cotton-feel-den_7.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "male",
+      "colors": [
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "2XL",
+        "3XL",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:46:51.182Z"
     },
     {
       "id": "coolmate-66665e30c4692615713219e2",
       "brand": "Coolmate",
       "name": "Quần Jogger Thể Thao ExDry",
-      "price": 329000,
+      "price": 297000,
       "originalPrice": 329000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-jogger-the-thao-nam-co-gian-tham-hut-exdry",
@@ -2241,9 +2273,9 @@
       ],
       "sizes": [
         "M",
-        "L",
         "XL",
         "2XL",
+        "L",
         "3XL"
       ],
       "material": "",
@@ -2251,13 +2283,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:04.493Z"
+      "scrapedAt": "2026-09-24T08:46:51.182Z"
     },
     {
       "id": "coolmate-695d102b5cca2c581a38deca",
       "brand": "Coolmate",
       "name": "Quần joggers thể thao nam Flexline Active",
-      "price": 469000,
+      "price": 423000,
       "originalPrice": 469000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-jogger-the-thao-nam-flexline-active",
@@ -2284,13 +2316,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:04.493Z"
+      "scrapedAt": "2026-09-24T08:46:51.182Z"
     },
     {
       "id": "coolmate-6937c1491138b45f0c6f3d85",
       "brand": "Coolmate",
       "name": "Quần dài nam Outdoor Flex Pants",
-      "price": 599000,
+      "price": 540000,
       "originalPrice": 599000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-dai-nam-outdoor-flex-pants",
@@ -2317,13 +2349,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:04.493Z"
+      "scrapedAt": "2026-09-24T08:46:51.182Z"
     },
     {
       "id": "coolmate-691afc6c87b0c35cf73742b8",
       "brand": "Coolmate",
       "name": "Quần dài Outdoor túi hộp Utility Lightweight",
-      "price": 599000,
+      "price": 540000,
       "originalPrice": 599000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-dai-outdoor-tui-hop-utility-lightweight",
@@ -2339,8 +2371,8 @@
         "gray"
       ],
       "sizes": [
-        "3XL",
         "M",
+        "3XL",
         "2XL",
         "XL",
         "L"
@@ -2350,13 +2382,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:04.493Z"
+      "scrapedAt": "2026-09-24T08:46:51.182Z"
     },
     {
       "id": "coolmate-6532532ffd423f1b4642412f",
       "brand": "Coolmate",
       "name": "Quần Jogger Nam Daily Wear",
-      "price": 349000,
+      "price": 315000,
       "originalPrice": 349000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-joggers-the-thao-daily-wear",
@@ -2382,13 +2414,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:04.493Z"
+      "scrapedAt": "2026-09-24T08:46:51.182Z"
     },
     {
       "id": "coolmate-684ce42a37702042a9790835",
       "brand": "Coolmate",
       "name": "Quần dài Outdoor Function Pants",
-      "price": 699000,
+      "price": 630000,
       "originalPrice": 699000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-dai-outdoor-function-pants",
@@ -2416,13 +2448,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:04.493Z"
+      "scrapedAt": "2026-09-24T08:46:51.182Z"
     },
     {
       "id": "coolmate-676bbee4ce1aa807a934700b",
       "brand": "Coolmate",
       "name": "Quần Jogger nam thể thao Studio Woven",
-      "price": 399000,
+      "price": 360000,
       "originalPrice": 399000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-jogger-nam-the-thao-studio-woven",
@@ -2449,13 +2481,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:04.493Z"
+      "scrapedAt": "2026-09-24T08:46:51.182Z"
     },
     {
       "id": "coolmate-676b894c6f5ad87ce52a841e",
       "brand": "Coolmate",
       "name": "Quần Jogger nam thể thao Hybrid Woven",
-      "price": 379000,
+      "price": 342000,
       "originalPrice": 379000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-jogger-nam-the-thao-hybrid-woven",
@@ -2474,21 +2506,21 @@
         "M",
         "2XL",
         "3XL",
-        "L",
-        "XL"
+        "XL",
+        "L"
       ],
       "material": "",
       "tags": [
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:04.493Z"
+      "scrapedAt": "2026-09-24T08:46:51.182Z"
     },
     {
       "id": "coolmate-6732bc1852ab582832140fb2",
       "brand": "Coolmate",
       "name": "Quần dài chạy bộ Running Pant",
-      "price": 319000,
+      "price": 360000,
       "originalPrice": 399000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-dai-chay-bo-running-pant",
@@ -2514,7 +2546,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:04.493Z"
+      "scrapedAt": "2026-09-24T08:46:51.182Z"
     },
     {
       "id": "coolmate-6732ba4646aaf36143097848",
@@ -2546,13 +2578,46 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:04.493Z"
+      "scrapedAt": "2026-09-24T08:46:51.182Z"
+    },
+    {
+      "id": "coolmate-67049cd5e75bad0cf8292b54",
+      "brand": "Coolmate",
+      "name": "Quần dài kaki ECC Pants",
+      "price": 540000,
+      "originalPrice": 599000,
+      "currency": "VND",
+      "url": "https://www.coolmate.me/product/quan-dai-kaki-ecc-pants",
+      "images": [
+        "https://n7media.coolmate.me/uploads/November2025/quan-dai-kaki-ecc-pant-1-1-den.jpg",
+        "https://n7media.coolmate.me/uploads/November2025/quan-dai-kaki-ecc-pant-1-2-den.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "male",
+      "colors": [
+        "black",
+        "khaki"
+      ],
+      "sizes": [
+        "L",
+        "M",
+        "2XL",
+        "3XL",
+        "XL"
+      ],
+      "material": "kaki",
+      "tags": [
+        "chino"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-24T08:46:53.115Z"
     },
     {
       "id": "coolmate-672c920af4ae2a0939236e78",
       "brand": "Coolmate",
       "name": "Quần Jogger ECC Warp Knitting",
-      "price": 590000,
+      "price": 531000,
       "originalPrice": 590000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-jogger-ecc-warp-knitting",
@@ -2581,46 +2646,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:04.494Z"
-    },
-    {
-      "id": "coolmate-67049cd5e75bad0cf8292b54",
-      "brand": "Coolmate",
-      "name": "Quần dài kaki ECC Pants",
-      "price": 599000,
-      "originalPrice": 599000,
-      "currency": "VND",
-      "url": "https://www.coolmate.me/product/quan-dai-kaki-ecc-pants",
-      "images": [
-        "https://n7media.coolmate.me/uploads/November2025/quan-dai-kaki-ecc-pant-1-1-den.jpg",
-        "https://n7media.coolmate.me/uploads/November2025/quan-dai-kaki-ecc-pant-1-2-den.jpg"
-      ],
-      "category": "bottom",
-      "subcategory": "pants",
-      "gender": "male",
-      "colors": [
-        "black",
-        "khaki"
-      ],
-      "sizes": [
-        "L",
-        "M",
-        "2XL",
-        "3XL",
-        "XL"
-      ],
-      "material": "kaki",
-      "tags": [
-        "chino"
-      ],
-      "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:06.518Z"
+      "scrapedAt": "2026-09-24T08:46:55.320Z"
     },
     {
       "id": "coolmate-65798ace52b8b42f52482b67",
       "brand": "Coolmate",
       "name": "Quần Jogger Nam UT đa năng",
-      "price": 499000,
+      "price": 450000,
       "originalPrice": 499000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-ut-jogger-da-nang-co-gian",
@@ -2637,10 +2669,10 @@
         "green"
       ],
       "sizes": [
+        "M",
         "L",
         "XL",
         "2XL",
-        "M",
         "3XL"
       ],
       "material": "",
@@ -2648,7 +2680,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:08.347Z"
+      "scrapedAt": "2026-09-24T08:46:55.320Z"
     },
     {
       "id": "coolmate-6a9fdd14fe3d9220fd28424e",
@@ -2669,18 +2701,18 @@
         "black"
       ],
       "sizes": [
-        "L",
         "3XL",
-        "2XL",
+        "L",
         "M",
-        "XL"
+        "XL",
+        "2XL"
       ],
       "material": "",
       "tags": [
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.297Z"
+      "scrapedAt": "2026-09-24T08:46:57.034Z"
     },
     {
       "id": "coolmate-6a9e9341e76eea780606725c",
@@ -2714,7 +2746,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.297Z"
+      "scrapedAt": "2026-09-24T08:46:57.034Z"
     },
     {
       "id": "coolmate-6a9e807e41632c72b33e5b65",
@@ -2746,13 +2778,13 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.297Z"
+      "scrapedAt": "2026-09-24T08:46:57.034Z"
     },
     {
       "id": "coolmate-68f72c572b28ab58bf12e4f1",
       "brand": "Coolmate",
       "name": "Quần shorts nam Pickleball Exdry Essentials",
-      "price": 299000,
+      "price": 270000,
       "originalPrice": 299000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-shorts-nam-pickleball-exdry-essentials",
@@ -2779,7 +2811,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.297Z"
+      "scrapedAt": "2026-09-24T08:46:57.035Z"
     },
     {
       "id": "coolmate-6617587040fbdd2b1f09bd70",
@@ -2813,13 +2845,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.297Z"
+      "scrapedAt": "2026-09-24T08:46:57.035Z"
     },
     {
       "id": "coolmate-681dc640cca5bc2cd0683165",
       "brand": "Coolmate",
       "name": "Pack 3 Shorts mặc nhà Coolmate Basics",
-      "price": 199000,
+      "price": 225000,
       "originalPrice": 249000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/pack-3-shorts-mac-nha-coolmate-basics",
@@ -2845,13 +2877,13 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.297Z"
+      "scrapedAt": "2026-09-24T08:46:57.035Z"
     },
     {
       "id": "coolmate-68304544fe832e4fa670d4ae",
       "brand": "Coolmate",
       "name": "Shorts thể thao nam Promax FlexLine Active",
-      "price": 219000,
+      "price": 198000,
       "originalPrice": 219000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-shorts-the-thao-nam-promax-flexline-active",
@@ -2879,13 +2911,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.297Z"
+      "scrapedAt": "2026-09-24T08:46:57.035Z"
     },
     {
       "id": "coolmate-684ce68fea040708a10fa4c2",
       "brand": "Coolmate",
       "name": "Shorts thể thao nam 6 inch đai siêu co giãn",
-      "price": 239000,
+      "price": 216000,
       "originalPrice": 239000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-shorts-the-thao-6-inch-dai-sieu-co-gian",
@@ -2913,13 +2945,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.297Z"
+      "scrapedAt": "2026-09-24T08:46:57.035Z"
     },
     {
       "id": "coolmate-6a75adfb9ff7cf0f3653ed7b",
       "brand": "Coolmate",
       "name": "Quần short nam thể thao Maxcool",
-      "price": 129000,
+      "price": 117000,
       "originalPrice": 129000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-short-nam-the-thao-maxcool",
@@ -2946,7 +2978,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.297Z"
+      "scrapedAt": "2026-09-24T08:46:57.035Z"
     },
     {
       "id": "coolmate-6a670952d5e6a624ff545125",
@@ -2980,13 +3012,13 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.297Z"
+      "scrapedAt": "2026-09-24T08:46:57.035Z"
     },
     {
       "id": "coolmate-69b907ccca7a450b221aacfb",
       "brand": "Coolmate",
       "name": "Quần shorts nam Exdry ProActive World Cup",
-      "price": 379000,
+      "price": 405000,
       "originalPrice": 449000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-shorts-nam-exdry-proactive-world-cup",
@@ -3014,13 +3046,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.298Z"
+      "scrapedAt": "2026-09-24T08:46:57.035Z"
     },
     {
       "id": "coolmate-69b390e07729dd1dc46427cf",
       "brand": "Coolmate",
       "name": "Quần shorts nam logo basic Exdry Performance World Cup",
-      "price": 299000,
+      "price": 315000,
       "originalPrice": 349000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-shorts-nam-logo-basic-exdry-performance-",
@@ -3048,13 +3080,13 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.298Z"
+      "scrapedAt": "2026-09-24T08:46:57.035Z"
     },
     {
       "id": "coolmate-69a289e27206f15670438e5a",
       "brand": "Coolmate",
       "name": "Shorts chạy bộ nam Swift Run",
-      "price": 349000,
+      "price": 315000,
       "originalPrice": 349000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/shorts-chay-bo-swift-run",
@@ -3082,13 +3114,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.298Z"
+      "scrapedAt": "2026-09-24T08:46:57.035Z"
     },
     {
       "id": "coolmate-694f5dbdd16a97657c60d50c",
       "brand": "Coolmate",
       "name": "Quần shorts chạy trail Wildflow",
-      "price": 479000,
+      "price": 432000,
       "originalPrice": 479000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-shorts-chay-trail-wildflow",
@@ -3116,13 +3148,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.298Z"
+      "scrapedAt": "2026-09-24T08:46:57.035Z"
     },
     {
       "id": "coolmate-694f5aa73efb0c2a6b18bd63",
       "brand": "Coolmate",
       "name": "Quần shorts 2 lớp chạy trail Wildflow",
-      "price": 599000,
+      "price": 540000,
       "originalPrice": 599000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-shorts-2-lop-chay-trail-wildflow",
@@ -3150,13 +3182,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.298Z"
+      "scrapedAt": "2026-09-24T08:46:57.035Z"
     },
     {
       "id": "coolmate-691beb9c9ff6f27a483ec41c",
       "brand": "Coolmate",
       "name": "Short thể thao Promax Sideflow",
-      "price": 299000,
+      "price": 270000,
       "originalPrice": 299000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/shorts-the-thao-promax-sideflow",
@@ -3184,13 +3216,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.298Z"
+      "scrapedAt": "2026-09-24T08:46:57.036Z"
     },
     {
       "id": "coolmate-68cb673ca2154d02dc3d66ce",
       "brand": "Coolmate",
       "name": "Shorts thể thao Promax Flexline Clash",
-      "price": 249000,
+      "price": 225000,
       "originalPrice": 249000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-shorts-the-thao-promax-flexline-clash",
@@ -3218,13 +3250,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.298Z"
+      "scrapedAt": "2026-09-24T08:46:57.036Z"
     },
     {
       "id": "coolmate-68ac06dac7273103a71288e9",
       "brand": "Coolmate",
       "name": "Quần shorts Pickleball Smashshot Essentials",
-      "price": 329000,
+      "price": 297000,
       "originalPrice": 329000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-shorts-the-thao-nam-pickleball-smashshot-essentials",
@@ -3253,13 +3285,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.298Z"
+      "scrapedAt": "2026-09-24T08:46:57.036Z"
     },
     {
       "id": "coolmate-68ac04b6e056a901bb3bd2f2",
       "brand": "Coolmate",
       "name": "Quần shorts Pickleball Dinkshot Essentials",
-      "price": 329000,
+      "price": 297000,
       "originalPrice": 329000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-shorts-the-thao-nam-pickleball-dinkshort-essentials",
@@ -3289,13 +3321,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.298Z"
+      "scrapedAt": "2026-09-24T08:46:57.036Z"
     },
     {
       "id": "coolmate-6838027e3444e36eee632073",
       "brand": "Coolmate",
       "name": "Short nam 6inch Pickleball Dink Shot",
-      "price": 399000,
+      "price": 360000,
       "originalPrice": 399000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-shorts-the-thao-nam-6inch-dink-shot",
@@ -3323,7 +3355,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:10.298Z"
+      "scrapedAt": "2026-09-24T08:46:57.036Z"
     },
     {
       "id": "coolmate-6a9a2e83dcc12036ef2a8763",
@@ -3356,13 +3388,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:12.053Z"
+      "scrapedAt": "2026-09-24T08:46:58.816Z"
     },
     {
       "id": "coolmate-696733f19b3058131f1c3986",
       "brand": "Coolmate",
       "name": "Áo Polo thể thao nữ Promax Exdry",
-      "price": 224000,
+      "price": 225000,
       "originalPrice": 249000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-polo-the-thao-nu-promax-exdry",
@@ -3393,13 +3425,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:12.053Z"
+      "scrapedAt": "2026-09-24T08:46:58.816Z"
     },
     {
       "id": "coolmate-67c031e1b37a2a627c071d34",
       "brand": "Coolmate",
       "name": "Áo thun nữ chạy bộ Core Tee",
-      "price": 199000,
+      "price": 180000,
       "originalPrice": 199000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-thun-nu-chay-bo-core-tee-sieu-nhe",
@@ -3430,13 +3462,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:12.053Z"
+      "scrapedAt": "2026-09-24T08:46:58.816Z"
     },
     {
       "id": "coolmate-688886d7c93886098c63c7c8",
       "brand": "Coolmate",
       "name": "Tshirt chạy bộ nữ Graphic Rainbow",
-      "price": 239000,
+      "price": 216000,
       "originalPrice": 239000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/t-shirt-chay-bo-nu-graphic-rainbow",
@@ -3462,13 +3494,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:12.053Z"
+      "scrapedAt": "2026-09-24T08:46:58.817Z"
     },
     {
       "id": "coolmate-6937ac3d96eaf23549314bf5",
       "brand": "Coolmate",
       "name": "Áo thun nữ Pickleball Dinkshot Essentials ",
-      "price": 259000,
+      "price": 234000,
       "originalPrice": 259000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-thun-nu-pickleball-dinkshot-essentials",
@@ -3496,7 +3528,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:12.054Z"
+      "scrapedAt": "2026-09-24T08:46:58.817Z"
     },
     {
       "id": "coolmate-69b3bc88cb1c2c6a0233f93e",
@@ -3531,7 +3563,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:12.054Z"
+      "scrapedAt": "2026-09-24T08:46:58.817Z"
     },
     {
       "id": "coolmate-6a69c61b9d38b35dec3881c2",
@@ -3564,13 +3596,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:12.054Z"
+      "scrapedAt": "2026-09-24T08:46:58.817Z"
     },
     {
       "id": "coolmate-6a66e07f9e5d0847233909c0",
       "brand": "Coolmate",
       "name": "Tshirt cầu lông nữ Side Line Smash Energy",
-      "price": 349000,
+      "price": 315000,
       "originalPrice": 349000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/tshirt-cau-long-nu-side-line-smash-energy",
@@ -3596,13 +3628,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:12.054Z"
+      "scrapedAt": "2026-09-24T08:46:58.817Z"
     },
     {
       "id": "coolmate-6a66dcf3cd0c463ef47d2085",
       "brand": "Coolmate",
       "name": "Tshirt cầu lông nữ Graphic Slash Smash Energy",
-      "price": 329000,
+      "price": 297000,
       "originalPrice": 329000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/tshirt-cau-long-nu-graphic-slash-smash-energy",
@@ -3629,13 +3661,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:12.054Z"
+      "scrapedAt": "2026-09-24T08:46:58.817Z"
     },
     {
       "id": "coolmate-6a66d8224c28ab33d1396faf",
       "brand": "Coolmate",
       "name": "T-shirt cầu lông nữ Graphic Faded Smash Energy",
-      "price": 329000,
+      "price": 297000,
       "originalPrice": 329000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/t-shirt-cau-long-nu-graphic-faded-smash-energy",
@@ -3661,13 +3693,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:12.054Z"
+      "scrapedAt": "2026-09-24T08:46:58.817Z"
     },
     {
       "id": "coolmate-6a62cf4cd1c4f561d103daec",
       "brand": "Coolmate",
       "name": "Áo Croptank chạy bộ nữ Exdry Advance Motion",
-      "price": 179000,
+      "price": 162000,
       "originalPrice": 179000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/croptank-chay-bo-nu-exdry-advance-motion",
@@ -3694,13 +3726,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:12.054Z"
+      "scrapedAt": "2026-09-24T08:46:58.817Z"
     },
     {
       "id": "coolmate-6a154172d2f34027b0359d48",
       "brand": "Coolmate",
       "name": "Áo Tshirt Pickleball nữ cổ V Zero Mark",
-      "price": 359000,
+      "price": 324000,
       "originalPrice": 359000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-tshirt-pickleball-nu-co-v-zero-mark",
@@ -3728,13 +3760,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:12.054Z"
+      "scrapedAt": "2026-09-24T08:46:58.817Z"
     },
     {
       "id": "coolmate-6a1587503f44e52a4655a0a0",
       "brand": "Coolmate",
       "name": "Áo Polo Pickleball nữ Zero Mark",
-      "price": 399000,
+      "price": 360000,
       "originalPrice": 399000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-polo-pickleball-nu-zero-mark",
@@ -3761,13 +3793,13 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:12.054Z"
+      "scrapedAt": "2026-09-24T08:46:58.817Z"
     },
     {
       "id": "coolmate-6a157b403d143a685919ce11",
       "brand": "Coolmate",
       "name": "Áo Tshirt Pickleball nữ cổ tròn Zero Mark",
-      "price": 359000,
+      "price": 324000,
       "originalPrice": 359000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-tshirt-pickleball-nu-co-tron-zero-mark",
@@ -3795,13 +3827,13 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:12.054Z"
+      "scrapedAt": "2026-09-24T08:46:58.817Z"
     },
     {
       "id": "coolmate-6a19659623398a06e36fd98e",
       "brand": "Coolmate",
       "name": "Áo khoác nữ chống nắng AirSwing Cooling Sun Protection UPF50",
-      "price": 549000,
+      "price": 540000,
       "originalPrice": 599000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-khoac-nu-chong-nang-airswing-cooling-sun-protection-upf50",
@@ -3829,13 +3861,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:12.055Z"
+      "scrapedAt": "2026-09-24T08:46:58.817Z"
     },
     {
       "id": "coolmate-6a195312a2ab752a6766d4fa",
       "brand": "Coolmate",
       "name": "Áo khoác nữ chống nắng Slim Cooling Sun Protection UPF50",
-      "price": 599000,
+      "price": 540000,
       "originalPrice": 599000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-khoac-nu-chong-nang-slim-cooling-sun-protection-upf50",
@@ -3863,13 +3895,13 @@
         "slim-fit"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:12.055Z"
+      "scrapedAt": "2026-09-24T08:46:58.817Z"
     },
     {
       "id": "coolmate-6a196e65fd322756f70a4943",
       "brand": "Coolmate",
       "name": "Áo Shrug nữ chống nắng Cooling Sun Protection UPF50",
-      "price": 249000,
+      "price": 225000,
       "originalPrice": 249000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-shrug-nu-chong-nang-cooling-sun-protection-upf50",
@@ -3896,7 +3928,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:13.741Z"
+      "scrapedAt": "2026-09-24T08:47:00.574Z"
     },
     {
       "id": "coolmate-6a19685373a10a2a46660786",
@@ -3931,7 +3963,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:13.742Z"
+      "scrapedAt": "2026-09-24T08:47:00.574Z"
     },
     {
       "id": "coolmate-695e66a2b8bae46c1c59db49",
@@ -3964,13 +3996,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:13.742Z"
+      "scrapedAt": "2026-09-24T08:47:00.574Z"
     },
     {
       "id": "coolmate-693f8293e37e86532664a799",
       "brand": "Coolmate",
       "name": "Áo khoác thể thao nữ Studio",
-      "price": 594000,
+      "price": 630000,
       "originalPrice": 699000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-khoac-the-thao-nu-studio",
@@ -3997,13 +4029,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:13.742Z"
+      "scrapedAt": "2026-09-24T08:47:00.574Z"
     },
     {
       "id": "coolmate-690814c5978e3f3166745ff8",
       "brand": "Coolmate",
       "name": "Áo khoác thể thao nữ Flex Jacket",
-      "price": 469000,
+      "price": 495000,
       "originalPrice": 549000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-khoac-the-thao-nu-flex-jacket",
@@ -4032,13 +4064,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:13.742Z"
+      "scrapedAt": "2026-09-24T08:47:00.574Z"
     },
     {
       "id": "coolmate-68fcfea19ef24235c03e29e3",
       "brand": "Coolmate",
       "name": "Áo khoác nữ Track Jacket Windbreaker khoá kéo",
-      "price": 549000,
+      "price": 495000,
       "originalPrice": 549000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/ao-khoac-nu-track-jacket-windbreaker-khoa-keo",
@@ -4066,13 +4098,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:13.742Z"
+      "scrapedAt": "2026-09-24T08:47:00.574Z"
     },
     {
       "id": "coolmate-69cc78573057a52cae7ac9ea",
       "brand": "Coolmate",
       "name": "Quần leggings Sportswear High-waist",
-      "price": 429000,
+      "price": 387000,
       "originalPrice": 429000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/legging-sportwear-high-waist",
@@ -4099,13 +4131,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:15.550Z"
+      "scrapedAt": "2026-09-24T08:47:02.164Z"
     },
     {
       "id": "coolmate-67c6e9dc71a6dc2f855dd648",
       "brand": "Coolmate",
       "name": "Quần Legging Ribbed",
-      "price": 399000,
+      "price": 360000,
       "originalPrice": 399000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-legging-ribbed",
@@ -4132,13 +4164,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:15.550Z"
+      "scrapedAt": "2026-09-24T08:47:02.164Z"
     },
     {
       "id": "coolmate-69cc893c3497550a26056c0e",
       "brand": "Coolmate",
       "name": "Quần leggings Sportswear Classic",
-      "price": 459000,
+      "price": 414000,
       "originalPrice": 459000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/legging-sportwear-classic",
@@ -4166,7 +4198,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:15.550Z"
+      "scrapedAt": "2026-09-24T08:47:02.164Z"
     },
     {
       "id": "coolmate-6913f72517bf9748c27a9d2f",
@@ -4197,13 +4229,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:15.550Z"
+      "scrapedAt": "2026-09-24T08:47:02.164Z"
     },
     {
       "id": "coolmate-6900681bbab0460be70a915a",
       "brand": "Coolmate",
       "name": "Quần dài nữ Track Pants Windbreaker",
-      "price": 449000,
+      "price": 405000,
       "originalPrice": 449000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-dai-nu-track-pants-windbreaker",
@@ -4231,7 +4263,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:15.550Z"
+      "scrapedAt": "2026-09-24T08:47:02.164Z"
     },
     {
       "id": "coolmate-67c6cc1b4fec14043735974c",
@@ -4265,13 +4297,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:15.550Z"
+      "scrapedAt": "2026-09-24T08:47:02.164Z"
     },
     {
       "id": "coolmate-67c025abb82a4e1cb050955d",
       "brand": "Coolmate",
       "name": "Quần Legging Full Length chạy bộ Medium Support",
-      "price": 599000,
+      "price": 540000,
       "originalPrice": 599000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/legging-full-length-chay-bo-medium-support",
@@ -4298,7 +4330,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:15.550Z"
+      "scrapedAt": "2026-09-24T08:47:02.164Z"
     },
     {
       "id": "coolmate-6a9e6cd5b17e9c1bcf7ea322",
@@ -4332,13 +4364,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:17.538Z"
+      "scrapedAt": "2026-09-24T08:47:04.120Z"
     },
     {
       "id": "coolmate-693f80e86165f06afb5137af",
       "brand": "Coolmate",
       "name": "Quần shorts nữ chạy bộ 2 lớp Pace shorts 3.5IN",
-      "price": 379000,
+      "price": 342000,
       "originalPrice": 379000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-short-nu-chay-bo-2-lop-pace-shorts-35in",
@@ -4366,13 +4398,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:17.538Z"
+      "scrapedAt": "2026-09-24T08:47:04.120Z"
     },
     {
       "id": "coolmate-67c02f0324587a7a0f07b40b",
       "brand": "Coolmate",
       "name": "Quần shorts nữ chạy bộ 2 lớp 3.5 inch Core Shorts",
-      "price": 359000,
+      "price": 360000,
       "originalPrice": 399000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-short-nu-chay-bo-2-lop-35-inch-core-shorts",
@@ -4401,7 +4433,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:17.538Z"
+      "scrapedAt": "2026-09-24T08:47:04.120Z"
     },
     {
       "id": "coolmate-69e1a3dc6385e7353915a911",
@@ -4436,13 +4468,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:17.539Z"
+      "scrapedAt": "2026-09-24T08:47:04.120Z"
     },
     {
       "id": "coolmate-67c557446cf7802d2c2ca3f0",
       "brand": "Coolmate",
       "name": "Quần Shorts thể thao nữ Woven Short",
-      "price": 223000,
+      "price": 252000,
       "originalPrice": 279000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-short-the-thao-nu-woven-short",
@@ -4472,13 +4504,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:17.539Z"
+      "scrapedAt": "2026-09-24T08:47:04.120Z"
     },
     {
       "id": "coolmate-69843f3c959b205802384da9",
       "brand": "Coolmate",
       "name": "Quần Tights LunaFlex Exdry",
-      "price": 199000,
+      "price": 180000,
       "originalPrice": 199000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-tights-lunaflex-exdry",
@@ -4506,13 +4538,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:17.539Z"
+      "scrapedAt": "2026-09-24T08:47:04.120Z"
     },
     {
       "id": "coolmate-6a6702897909d5455c066080",
       "brand": "Coolmate",
       "name": "Quần shorts thể thao nữ 2 lớp Mesh Essentials",
-      "price": 349000,
+      "price": 315000,
       "originalPrice": 349000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-shorts-the-thao-nu-2-lop-mesh-essentials",
@@ -4539,13 +4571,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:17.539Z"
+      "scrapedAt": "2026-09-24T08:47:04.120Z"
     },
     {
       "id": "coolmate-6a66f83c092f245d5a5f2fc6",
       "brand": "Coolmate",
       "name": "Shorts cầu lông nữ Basic Smash Energy",
-      "price": 329000,
+      "price": 297000,
       "originalPrice": 329000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/shorts-cau-long-nu-basic-smash-energy",
@@ -4572,13 +4604,13 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:17.539Z"
+      "scrapedAt": "2026-09-24T08:47:04.121Z"
     },
     {
       "id": "coolmate-6a56e6d99d3f360c771d42cf",
       "brand": "Coolmate",
       "name": "Shorts Pickleball 2.5in 2 Lớp",
-      "price": 399000,
+      "price": 360000,
       "originalPrice": 399000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/shorts-pickleball-2-5in-2-lop",
@@ -4600,21 +4632,21 @@
         "XS",
         "XL",
         "L",
-        "M",
-        "S"
+        "S",
+        "M"
       ],
       "material": "",
       "tags": [
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:17.539Z"
+      "scrapedAt": "2026-09-24T08:47:04.121Z"
     },
     {
       "id": "coolmate-69d71a70c2c97804f32bbf56",
       "brand": "Coolmate",
       "name": "Quần shorts chạy bộ nữ tights fit Exdry co giãn",
-      "price": 299000,
+      "price": 270000,
       "originalPrice": 299000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-short-chay-bo-tights-fit-exdry-co-gian",
@@ -4640,13 +4672,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:17.539Z"
+      "scrapedAt": "2026-09-24T08:47:04.121Z"
     },
     {
       "id": "coolmate-69b3c2f356218a04765266ac",
       "brand": "Coolmate",
       "name": "Quần shorts nữ Exdry ProActive World Cup",
-      "price": 269000,
+      "price": 270000,
       "originalPrice": 299000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/short-nu-exdry-proacttive-world-cup",
@@ -4663,8 +4695,8 @@
         "navy"
       ],
       "sizes": [
-        "XL",
         "XS",
+        "XL",
         "L",
         "M",
         "S"
@@ -4674,7 +4706,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:17.539Z"
+      "scrapedAt": "2026-09-24T08:47:04.121Z"
     },
     {
       "id": "coolmate-693be33f7079ef6047673baf",
@@ -4709,13 +4741,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:17.539Z"
+      "scrapedAt": "2026-09-24T08:47:04.121Z"
     },
     {
       "id": "coolmate-6937a89a1dbce77a0449e1fb",
       "brand": "Coolmate",
       "name": "Quần shorts nữ chạy bộ Swift shorts 3.5IN",
-      "price": 299000,
+      "price": 270000,
       "originalPrice": 299000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-short-nu-chay-bo-swift-shorts-35in",
@@ -4744,7 +4776,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:17.539Z"
+      "scrapedAt": "2026-09-24T08:47:04.121Z"
     },
     {
       "id": "coolmate-6913f879b2c7ed1c653e3f78",
@@ -4775,13 +4807,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:17.539Z"
+      "scrapedAt": "2026-09-24T08:47:04.121Z"
     },
     {
       "id": "coolmate-6902e7232da9533483403eca",
       "brand": "Coolmate",
       "name": "Quần short chạy bộ cạp cao 3IN",
-      "price": 349000,
+      "price": 315000,
       "originalPrice": 349000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-short-chay-bo-cap-cao-3in",
@@ -4808,13 +4840,13 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:17.539Z"
+      "scrapedAt": "2026-09-24T08:47:04.121Z"
     },
     {
       "id": "coolmate-68638a721ac86905464a61b9",
       "brand": "Coolmate",
       "name": "Shorts nữ 3.5inch Pickleball Sideline",
-      "price": 429000,
+      "price": 387000,
       "originalPrice": 429000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/short-nu-35inch-pickleball-sideline",
@@ -4842,7 +4874,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:17.539Z"
+      "scrapedAt": "2026-09-24T08:47:04.121Z"
     },
     {
       "id": "coolmate-67c066e03217214d027c383a",
@@ -4876,13 +4908,13 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:17.539Z"
+      "scrapedAt": "2026-09-24T08:47:04.121Z"
     },
     {
       "id": "coolmate-67c52db812e83a207752556e",
       "brand": "Coolmate",
       "name": "Quần Shorts nữ chạy bộ 2 lớp Race Shorts",
-      "price": 399000,
+      "price": 450000,
       "originalPrice": 499000,
       "currency": "VND",
       "url": "https://www.coolmate.me/product/quan-shorts-nu-chay-bo-2-lop-race-shorts",
@@ -4909,7 +4941,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T17:58:17.539Z"
+      "scrapedAt": "2026-09-24T08:47:04.121Z"
     }
   ]
 }

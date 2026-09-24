@@ -1,6 +1,6 @@
 {
   "brand": "davies",
-  "scrapedAt": "2026-09-23T18:01:17.624Z",
+  "scrapedAt": "2026-09-24T08:50:18.386Z",
   "totalProducts": 306,
   "products": [
     {
@@ -33,7 +33,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.727Z"
+      "scrapedAt": "2026-09-24T08:50:17.526Z"
     },
     {
       "id": "davies-89434830",
@@ -63,7 +63,7 @@
         "oversize"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.728Z"
+      "scrapedAt": "2026-09-24T08:50:17.527Z"
     },
     {
       "id": "davies-89068699",
@@ -95,7 +95,7 @@
         "denim"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.729Z"
+      "scrapedAt": "2026-09-24T08:50:17.527Z"
     },
     {
       "id": "davies-89068661",
@@ -127,7 +127,7 @@
         "denim"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.730Z"
+      "scrapedAt": "2026-09-24T08:50:17.527Z"
     },
     {
       "id": "davies-89068607",
@@ -159,7 +159,7 @@
         "denim"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.731Z"
+      "scrapedAt": "2026-09-24T08:50:17.528Z"
     },
     {
       "id": "davies-89061450",
@@ -185,7 +185,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.732Z"
+      "scrapedAt": "2026-09-24T08:50:17.528Z"
     },
     {
       "id": "davies-86913446",
@@ -216,7 +216,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.733Z"
+      "scrapedAt": "2026-09-24T08:50:17.528Z"
     },
     {
       "id": "davies-86912617",
@@ -248,7 +248,7 @@
         "cotton"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.733Z"
+      "scrapedAt": "2026-09-24T08:50:17.529Z"
     },
     {
       "id": "davies-86912344",
@@ -279,7 +279,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.734Z"
+      "scrapedAt": "2026-09-24T08:50:17.529Z"
     },
     {
       "id": "davies-86901295",
@@ -311,7 +311,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.734Z"
+      "scrapedAt": "2026-09-24T08:50:17.529Z"
     },
     {
       "id": "davies-84197978",
@@ -343,7 +343,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.735Z"
+      "scrapedAt": "2026-09-24T08:50:17.530Z"
     },
     {
       "id": "davies-83312691",
@@ -373,7 +373,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.735Z"
+      "scrapedAt": "2026-09-24T08:50:17.530Z"
     },
     {
       "id": "davies-83312668",
@@ -404,7 +404,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.735Z"
+      "scrapedAt": "2026-09-24T08:50:17.530Z"
     },
     {
       "id": "davies-83022080",
@@ -434,7 +434,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.736Z"
+      "scrapedAt": "2026-09-24T08:50:17.531Z"
     },
     {
       "id": "davies-82788281",
@@ -464,7 +464,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.736Z"
+      "scrapedAt": "2026-09-24T08:50:17.531Z"
     },
     {
       "id": "davies-82788244",
@@ -494,7 +494,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.737Z"
+      "scrapedAt": "2026-09-24T08:50:17.531Z"
     },
     {
       "id": "davies-82788220",
@@ -524,7 +524,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.739Z"
+      "scrapedAt": "2026-09-24T08:50:17.531Z"
     },
     {
       "id": "davies-82299869",
@@ -555,7 +555,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.739Z"
+      "scrapedAt": "2026-09-24T08:50:17.532Z"
     },
     {
       "id": "davies-82299861",
@@ -585,7 +585,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.740Z"
+      "scrapedAt": "2026-09-24T08:50:17.532Z"
     },
     {
       "id": "davies-80066913",
@@ -615,7 +615,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.740Z"
+      "scrapedAt": "2026-09-24T08:50:17.532Z"
     },
     {
       "id": "davies-80066867",
@@ -645,7 +645,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.740Z"
+      "scrapedAt": "2026-09-24T08:50:17.533Z"
     },
     {
       "id": "davies-80066847",
@@ -675,7 +675,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.741Z"
+      "scrapedAt": "2026-09-24T08:50:17.533Z"
     },
     {
       "id": "davies-77532781",
@@ -705,7 +705,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.742Z"
+      "scrapedAt": "2026-09-24T08:50:17.534Z"
     },
     {
       "id": "davies-77532754",
@@ -735,7 +735,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.742Z"
+      "scrapedAt": "2026-09-24T08:50:17.534Z"
     },
     {
       "id": "davies-76631097",
@@ -766,7 +766,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.743Z"
+      "scrapedAt": "2026-09-24T08:50:17.534Z"
     },
     {
       "id": "davies-75130893",
@@ -798,7 +798,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.743Z"
+      "scrapedAt": "2026-09-24T08:50:17.535Z"
     },
     {
       "id": "davies-72423864",
@@ -829,7 +829,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.744Z"
+      "scrapedAt": "2026-09-24T08:50:17.535Z"
     },
     {
       "id": "davies-72423840",
@@ -861,7 +861,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.744Z"
+      "scrapedAt": "2026-09-24T08:50:17.535Z"
     },
     {
       "id": "davies-72423814",
@@ -892,7 +892,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.745Z"
+      "scrapedAt": "2026-09-24T08:50:17.535Z"
     },
     {
       "id": "davies-72163116",
@@ -922,7 +922,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.746Z"
+      "scrapedAt": "2026-09-24T08:50:17.535Z"
     },
     {
       "id": "davies-71185042",
@@ -952,7 +952,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.747Z"
+      "scrapedAt": "2026-09-24T08:50:17.536Z"
     },
     {
       "id": "davies-68973324",
@@ -983,7 +983,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.747Z"
+      "scrapedAt": "2026-09-24T08:50:17.536Z"
     },
     {
       "id": "davies-68973281",
@@ -1014,7 +1014,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.748Z"
+      "scrapedAt": "2026-09-24T08:50:17.536Z"
     },
     {
       "id": "davies-68973176",
@@ -1044,7 +1044,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.748Z"
+      "scrapedAt": "2026-09-24T08:50:17.537Z"
     },
     {
       "id": "davies-68973126",
@@ -1077,7 +1077,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.749Z"
+      "scrapedAt": "2026-09-24T08:50:17.537Z"
     },
     {
       "id": "davies-68972996",
@@ -1110,7 +1110,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.749Z"
+      "scrapedAt": "2026-09-24T08:50:17.537Z"
     },
     {
       "id": "davies-68847635",
@@ -1140,7 +1140,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.750Z"
+      "scrapedAt": "2026-09-24T08:50:17.537Z"
     },
     {
       "id": "davies-68812488",
@@ -1171,7 +1171,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.750Z"
+      "scrapedAt": "2026-09-24T08:50:17.538Z"
     },
     {
       "id": "davies-68812173",
@@ -1202,7 +1202,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.750Z"
+      "scrapedAt": "2026-09-24T08:50:17.538Z"
     },
     {
       "id": "davies-68811937",
@@ -1228,7 +1228,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.751Z"
+      "scrapedAt": "2026-09-24T08:50:17.538Z"
     },
     {
       "id": "davies-68811224",
@@ -1254,7 +1254,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.751Z"
+      "scrapedAt": "2026-09-24T08:50:17.538Z"
     },
     {
       "id": "davies-68810976",
@@ -1280,7 +1280,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.752Z"
+      "scrapedAt": "2026-09-24T08:50:17.539Z"
     },
     {
       "id": "davies-67560987",
@@ -1312,7 +1312,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.752Z"
+      "scrapedAt": "2026-09-24T08:50:17.539Z"
     },
     {
       "id": "davies-67560954",
@@ -1344,7 +1344,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.753Z"
+      "scrapedAt": "2026-09-24T08:50:17.539Z"
     },
     {
       "id": "davies-67560896",
@@ -1374,7 +1374,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.753Z"
+      "scrapedAt": "2026-09-24T08:50:17.539Z"
     },
     {
       "id": "davies-67560841",
@@ -1404,7 +1404,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.754Z"
+      "scrapedAt": "2026-09-24T08:50:17.540Z"
     },
     {
       "id": "davies-66843821",
@@ -1435,7 +1435,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.754Z"
+      "scrapedAt": "2026-09-24T08:50:17.540Z"
     },
     {
       "id": "davies-66536165",
@@ -1467,7 +1467,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.755Z"
+      "scrapedAt": "2026-09-24T08:50:17.540Z"
     },
     {
       "id": "davies-65986938",
@@ -1497,7 +1497,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.755Z"
+      "scrapedAt": "2026-09-24T08:50:17.541Z"
     },
     {
       "id": "davies-65986880",
@@ -1530,7 +1530,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.756Z"
+      "scrapedAt": "2026-09-24T08:50:17.541Z"
     },
     {
       "id": "davies-65898653",
@@ -1560,7 +1560,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.756Z"
+      "scrapedAt": "2026-09-24T08:50:17.541Z"
     },
     {
       "id": "davies-65627336",
@@ -1590,7 +1590,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.756Z"
+      "scrapedAt": "2026-09-24T08:50:17.541Z"
     },
     {
       "id": "davies-64720555",
@@ -1620,7 +1620,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.757Z"
+      "scrapedAt": "2026-09-24T08:50:17.541Z"
     },
     {
       "id": "davies-64375314",
@@ -1646,7 +1646,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.757Z"
+      "scrapedAt": "2026-09-24T08:50:17.542Z"
     },
     {
       "id": "davies-64375276",
@@ -1677,7 +1677,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.758Z"
+      "scrapedAt": "2026-09-24T08:50:17.542Z"
     },
     {
       "id": "davies-63574600",
@@ -1708,7 +1708,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.758Z"
+      "scrapedAt": "2026-09-24T08:50:17.542Z"
     },
     {
       "id": "davies-63006923",
@@ -1738,7 +1738,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.758Z"
+      "scrapedAt": "2026-09-24T08:50:17.542Z"
     },
     {
       "id": "davies-62433826",
@@ -1769,7 +1769,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.759Z"
+      "scrapedAt": "2026-09-24T08:50:17.543Z"
     },
     {
       "id": "davies-62431116",
@@ -1799,7 +1799,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.760Z"
+      "scrapedAt": "2026-09-24T08:50:17.543Z"
     },
     {
       "id": "davies-62257444",
@@ -1829,7 +1829,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.760Z"
+      "scrapedAt": "2026-09-24T08:50:17.543Z"
     },
     {
       "id": "davies-61938495",
@@ -1859,7 +1859,7 @@
         "vintage"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.761Z"
+      "scrapedAt": "2026-09-24T08:50:17.544Z"
     },
     {
       "id": "davies-61508103",
@@ -1889,7 +1889,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.763Z"
+      "scrapedAt": "2026-09-24T08:50:17.544Z"
     },
     {
       "id": "davies-61254349",
@@ -1919,7 +1919,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.763Z"
+      "scrapedAt": "2026-09-24T08:50:17.544Z"
     },
     {
       "id": "davies-60345641",
@@ -1949,7 +1949,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.764Z"
+      "scrapedAt": "2026-09-24T08:50:17.544Z"
     },
     {
       "id": "davies-60345594",
@@ -1979,7 +1979,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.764Z"
+      "scrapedAt": "2026-09-24T08:50:17.545Z"
     },
     {
       "id": "davies-58690755",
@@ -2010,7 +2010,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.765Z"
+      "scrapedAt": "2026-09-24T08:50:17.545Z"
     },
     {
       "id": "davies-58690726",
@@ -2040,7 +2040,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.765Z"
+      "scrapedAt": "2026-09-24T08:50:17.545Z"
     },
     {
       "id": "davies-56221921",
@@ -2070,7 +2070,7 @@
         "sporty"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.765Z"
+      "scrapedAt": "2026-09-24T08:50:17.545Z"
     },
     {
       "id": "davies-55900986",
@@ -2100,7 +2100,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.766Z"
+      "scrapedAt": "2026-09-24T08:50:17.546Z"
     },
     {
       "id": "davies-55277479",
@@ -2131,7 +2131,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.766Z"
+      "scrapedAt": "2026-09-24T08:50:17.546Z"
     },
     {
       "id": "davies-55127027",
@@ -2162,7 +2162,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.766Z"
+      "scrapedAt": "2026-09-24T08:50:17.546Z"
     },
     {
       "id": "davies-55119327",
@@ -2192,7 +2192,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.767Z"
+      "scrapedAt": "2026-09-24T08:50:17.546Z"
     },
     {
       "id": "davies-54436973",
@@ -2223,7 +2223,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.767Z"
+      "scrapedAt": "2026-09-24T08:50:17.547Z"
     },
     {
       "id": "davies-53160072",
@@ -2253,7 +2253,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.767Z"
+      "scrapedAt": "2026-09-24T08:50:17.547Z"
     },
     {
       "id": "davies-53156608",
@@ -2283,7 +2283,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.768Z"
+      "scrapedAt": "2026-09-24T08:50:17.547Z"
     },
     {
       "id": "davies-52906239",
@@ -2315,7 +2315,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.768Z"
+      "scrapedAt": "2026-09-24T08:50:17.548Z"
     },
     {
       "id": "davies-52764186",
@@ -2346,7 +2346,7 @@
         "chino"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.768Z"
+      "scrapedAt": "2026-09-24T08:50:17.548Z"
     },
     {
       "id": "davies-52764159",
@@ -2377,7 +2377,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.768Z"
+      "scrapedAt": "2026-09-24T08:50:17.548Z"
     },
     {
       "id": "davies-52318027",
@@ -2408,7 +2408,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.769Z"
+      "scrapedAt": "2026-09-24T08:50:17.548Z"
     },
     {
       "id": "davies-49229108",
@@ -2441,7 +2441,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.769Z"
+      "scrapedAt": "2026-09-24T08:50:17.549Z"
     },
     {
       "id": "davies-48456050",
@@ -2472,7 +2472,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.770Z"
+      "scrapedAt": "2026-09-24T08:50:17.549Z"
     },
     {
       "id": "davies-48455832",
@@ -2502,7 +2502,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.770Z"
+      "scrapedAt": "2026-09-24T08:50:17.549Z"
     },
     {
       "id": "davies-48455412",
@@ -2533,7 +2533,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.770Z"
+      "scrapedAt": "2026-09-24T08:50:17.550Z"
     },
     {
       "id": "davies-48455069",
@@ -2563,7 +2563,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.771Z"
+      "scrapedAt": "2026-09-24T08:50:17.550Z"
     },
     {
       "id": "davies-46230546",
@@ -2593,7 +2593,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.771Z"
+      "scrapedAt": "2026-09-24T08:50:17.550Z"
     },
     {
       "id": "davies-46115249",
@@ -2624,7 +2624,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.771Z"
+      "scrapedAt": "2026-09-24T08:50:17.550Z"
     },
     {
       "id": "davies-46115192",
@@ -2654,7 +2654,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.772Z"
+      "scrapedAt": "2026-09-24T08:50:17.550Z"
     },
     {
       "id": "davies-44210997",
@@ -2686,7 +2686,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.772Z"
+      "scrapedAt": "2026-09-24T08:50:17.551Z"
     },
     {
       "id": "davies-42139973",
@@ -2716,7 +2716,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.772Z"
+      "scrapedAt": "2026-09-24T08:50:17.551Z"
     },
     {
       "id": "davies-42139945",
@@ -2746,7 +2746,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.773Z"
+      "scrapedAt": "2026-09-24T08:50:17.551Z"
     },
     {
       "id": "davies-42139916",
@@ -2776,7 +2776,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.773Z"
+      "scrapedAt": "2026-09-24T08:50:17.552Z"
     },
     {
       "id": "davies-42139869",
@@ -2807,7 +2807,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.774Z"
+      "scrapedAt": "2026-09-24T08:50:17.552Z"
     },
     {
       "id": "davies-41790414",
@@ -2837,7 +2837,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.774Z"
+      "scrapedAt": "2026-09-24T08:50:17.552Z"
     },
     {
       "id": "davies-41697819",
@@ -2867,7 +2867,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.775Z"
+      "scrapedAt": "2026-09-24T08:50:17.552Z"
     },
     {
       "id": "davies-41284524",
@@ -2897,7 +2897,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.775Z"
+      "scrapedAt": "2026-09-24T08:50:17.552Z"
     },
     {
       "id": "davies-39601781",
@@ -2928,7 +2928,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.776Z"
+      "scrapedAt": "2026-09-24T08:50:17.553Z"
     },
     {
       "id": "davies-38733744",
@@ -2958,7 +2958,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.776Z"
+      "scrapedAt": "2026-09-24T08:50:17.553Z"
     },
     {
       "id": "davies-38733720",
@@ -2989,7 +2989,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.777Z"
+      "scrapedAt": "2026-09-24T08:50:17.553Z"
     },
     {
       "id": "davies-38542660",
@@ -3020,7 +3020,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.778Z"
+      "scrapedAt": "2026-09-24T08:50:17.554Z"
     },
     {
       "id": "davies-38542258",
@@ -3050,7 +3050,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.785Z"
+      "scrapedAt": "2026-09-24T08:50:17.558Z"
     },
     {
       "id": "davies-38320504",
@@ -3082,7 +3082,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.786Z"
+      "scrapedAt": "2026-09-24T08:50:17.558Z"
     },
     {
       "id": "davies-38320495",
@@ -3114,7 +3114,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.786Z"
+      "scrapedAt": "2026-09-24T08:50:17.559Z"
     },
     {
       "id": "davies-38164758",
@@ -3144,7 +3144,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.787Z"
+      "scrapedAt": "2026-09-24T08:50:17.559Z"
     },
     {
       "id": "davies-38164737",
@@ -3176,7 +3176,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.787Z"
+      "scrapedAt": "2026-09-24T08:50:17.559Z"
     },
     {
       "id": "davies-38164731",
@@ -3206,7 +3206,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.788Z"
+      "scrapedAt": "2026-09-24T08:50:17.560Z"
     },
     {
       "id": "davies-38164631",
@@ -3236,7 +3236,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.788Z"
+      "scrapedAt": "2026-09-24T08:50:17.560Z"
     },
     {
       "id": "davies-38164618",
@@ -3266,7 +3266,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.788Z"
+      "scrapedAt": "2026-09-24T08:50:17.560Z"
     },
     {
       "id": "davies-38164531",
@@ -3296,7 +3296,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.788Z"
+      "scrapedAt": "2026-09-24T08:50:17.560Z"
     },
     {
       "id": "davies-38164488",
@@ -3326,7 +3326,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.789Z"
+      "scrapedAt": "2026-09-24T08:50:17.561Z"
     },
     {
       "id": "davies-38163571",
@@ -3356,7 +3356,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.789Z"
+      "scrapedAt": "2026-09-24T08:50:17.561Z"
     },
     {
       "id": "davies-38035002",
@@ -3386,7 +3386,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.790Z"
+      "scrapedAt": "2026-09-24T08:50:17.561Z"
     },
     {
       "id": "davies-37919246",
@@ -3417,7 +3417,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.790Z"
+      "scrapedAt": "2026-09-24T08:50:17.561Z"
     },
     {
       "id": "davies-37919231",
@@ -3448,7 +3448,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.790Z"
+      "scrapedAt": "2026-09-24T08:50:17.562Z"
     },
     {
       "id": "davies-37919212",
@@ -3482,7 +3482,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.790Z"
+      "scrapedAt": "2026-09-24T08:50:17.562Z"
     },
     {
       "id": "davies-37919142",
@@ -3512,7 +3512,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.791Z"
+      "scrapedAt": "2026-09-24T08:50:17.562Z"
     },
     {
       "id": "davies-37918898",
@@ -3542,7 +3542,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.791Z"
+      "scrapedAt": "2026-09-24T08:50:17.563Z"
     },
     {
       "id": "davies-37918821",
@@ -3572,7 +3572,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.792Z"
+      "scrapedAt": "2026-09-24T08:50:17.563Z"
     },
     {
       "id": "davies-37781871",
@@ -3604,7 +3604,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.792Z"
+      "scrapedAt": "2026-09-24T08:50:17.563Z"
     },
     {
       "id": "davies-37738062",
@@ -3635,7 +3635,7 @@
         "denim"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.792Z"
+      "scrapedAt": "2026-09-24T08:50:17.563Z"
     },
     {
       "id": "davies-37553456",
@@ -3665,7 +3665,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.793Z"
+      "scrapedAt": "2026-09-24T08:50:17.564Z"
     },
     {
       "id": "davies-37553442",
@@ -3695,7 +3695,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.793Z"
+      "scrapedAt": "2026-09-24T08:50:17.564Z"
     },
     {
       "id": "davies-37192731",
@@ -3725,7 +3725,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.794Z"
+      "scrapedAt": "2026-09-24T08:50:17.564Z"
     },
     {
       "id": "davies-37192722",
@@ -3755,7 +3755,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.794Z"
+      "scrapedAt": "2026-09-24T08:50:17.565Z"
     },
     {
       "id": "davies-37192715",
@@ -3785,7 +3785,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.795Z"
+      "scrapedAt": "2026-09-24T08:50:17.565Z"
     },
     {
       "id": "davies-37080499",
@@ -3815,7 +3815,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.795Z"
+      "scrapedAt": "2026-09-24T08:50:17.565Z"
     },
     {
       "id": "davies-36847903",
@@ -3846,7 +3846,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.796Z"
+      "scrapedAt": "2026-09-24T08:50:17.566Z"
     },
     {
       "id": "davies-36847891",
@@ -3876,7 +3876,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.796Z"
+      "scrapedAt": "2026-09-24T08:50:17.566Z"
     },
     {
       "id": "davies-36831859",
@@ -3902,7 +3902,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.797Z"
+      "scrapedAt": "2026-09-24T08:50:17.566Z"
     },
     {
       "id": "davies-36613859",
@@ -3933,7 +3933,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.797Z"
+      "scrapedAt": "2026-09-24T08:50:17.567Z"
     },
     {
       "id": "davies-36500758",
@@ -3963,7 +3963,7 @@
         "chino"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.798Z"
+      "scrapedAt": "2026-09-24T08:50:17.567Z"
     },
     {
       "id": "davies-36204364",
@@ -3989,7 +3989,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.798Z"
+      "scrapedAt": "2026-09-24T08:50:17.567Z"
     },
     {
       "id": "davies-36188413",
@@ -4019,7 +4019,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.799Z"
+      "scrapedAt": "2026-09-24T08:50:17.568Z"
     },
     {
       "id": "davies-36085724",
@@ -4049,7 +4049,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.799Z"
+      "scrapedAt": "2026-09-24T08:50:17.568Z"
     },
     {
       "id": "davies-36085587",
@@ -4082,7 +4082,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.800Z"
+      "scrapedAt": "2026-09-24T08:50:17.568Z"
     },
     {
       "id": "davies-36085567",
@@ -4112,7 +4112,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.800Z"
+      "scrapedAt": "2026-09-24T08:50:17.569Z"
     },
     {
       "id": "davies-35947441",
@@ -4142,7 +4142,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.800Z"
+      "scrapedAt": "2026-09-24T08:50:17.569Z"
     },
     {
       "id": "davies-35947284",
@@ -4172,7 +4172,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.800Z"
+      "scrapedAt": "2026-09-24T08:50:17.569Z"
     },
     {
       "id": "davies-35947215",
@@ -4201,7 +4201,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.801Z"
+      "scrapedAt": "2026-09-24T08:50:17.570Z"
     },
     {
       "id": "davies-35608907",
@@ -4232,7 +4232,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.801Z"
+      "scrapedAt": "2026-09-24T08:50:17.570Z"
     },
     {
       "id": "davies-35298358",
@@ -4262,7 +4262,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.802Z"
+      "scrapedAt": "2026-09-24T08:50:17.571Z"
     },
     {
       "id": "davies-35298354",
@@ -4292,7 +4292,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.802Z"
+      "scrapedAt": "2026-09-24T08:50:17.572Z"
     },
     {
       "id": "davies-35298339",
@@ -4323,7 +4323,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.802Z"
+      "scrapedAt": "2026-09-24T08:50:17.572Z"
     },
     {
       "id": "davies-35148994",
@@ -4353,7 +4353,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.803Z"
+      "scrapedAt": "2026-09-24T08:50:17.572Z"
     },
     {
       "id": "davies-35148975",
@@ -4384,7 +4384,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.803Z"
+      "scrapedAt": "2026-09-24T08:50:17.573Z"
     },
     {
       "id": "davies-35148477",
@@ -4420,7 +4420,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.804Z"
+      "scrapedAt": "2026-09-24T08:50:17.573Z"
     },
     {
       "id": "davies-35148363",
@@ -4451,7 +4451,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.804Z"
+      "scrapedAt": "2026-09-24T08:50:17.574Z"
     },
     {
       "id": "davies-35011946",
@@ -4484,7 +4484,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.804Z"
+      "scrapedAt": "2026-09-24T08:50:17.574Z"
     },
     {
       "id": "davies-34605503",
@@ -4514,7 +4514,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.805Z"
+      "scrapedAt": "2026-09-24T08:50:17.574Z"
     },
     {
       "id": "davies-34605458",
@@ -4545,7 +4545,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.805Z"
+      "scrapedAt": "2026-09-24T08:50:17.575Z"
     },
     {
       "id": "davies-34605442",
@@ -4575,7 +4575,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.805Z"
+      "scrapedAt": "2026-09-24T08:50:17.575Z"
     },
     {
       "id": "davies-34605427",
@@ -4605,7 +4605,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.805Z"
+      "scrapedAt": "2026-09-24T08:50:17.576Z"
     },
     {
       "id": "davies-34605413",
@@ -4635,7 +4635,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.806Z"
+      "scrapedAt": "2026-09-24T08:50:17.576Z"
     },
     {
       "id": "davies-34605395",
@@ -4666,7 +4666,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.806Z"
+      "scrapedAt": "2026-09-24T08:50:17.576Z"
     },
     {
       "id": "davies-34605336",
@@ -4697,7 +4697,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.806Z"
+      "scrapedAt": "2026-09-24T08:50:17.577Z"
     },
     {
       "id": "davies-34605310",
@@ -4728,7 +4728,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.806Z"
+      "scrapedAt": "2026-09-24T08:50:17.577Z"
     },
     {
       "id": "davies-34605219",
@@ -4759,7 +4759,7 @@
         "denim"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.807Z"
+      "scrapedAt": "2026-09-24T08:50:17.577Z"
     },
     {
       "id": "davies-34605198",
@@ -4790,7 +4790,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.807Z"
+      "scrapedAt": "2026-09-24T08:50:17.578Z"
     },
     {
       "id": "davies-34605175",
@@ -4820,7 +4820,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.807Z"
+      "scrapedAt": "2026-09-24T08:50:17.578Z"
     },
     {
       "id": "davies-34417091",
@@ -4851,7 +4851,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.808Z"
+      "scrapedAt": "2026-09-24T08:50:17.578Z"
     },
     {
       "id": "davies-33530043",
@@ -4881,7 +4881,7 @@
         "chino"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.808Z"
+      "scrapedAt": "2026-09-24T08:50:17.579Z"
     },
     {
       "id": "davies-33428514",
@@ -4911,7 +4911,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.809Z"
+      "scrapedAt": "2026-09-24T08:50:17.580Z"
     },
     {
       "id": "davies-33409348",
@@ -4944,7 +4944,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.809Z"
+      "scrapedAt": "2026-09-24T08:50:17.580Z"
     },
     {
       "id": "davies-33386334",
@@ -4975,7 +4975,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.810Z"
+      "scrapedAt": "2026-09-24T08:50:17.580Z"
     },
     {
       "id": "davies-33386254",
@@ -5005,7 +5005,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.810Z"
+      "scrapedAt": "2026-09-24T08:50:17.580Z"
     },
     {
       "id": "davies-33306496",
@@ -5036,7 +5036,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.811Z"
+      "scrapedAt": "2026-09-24T08:50:17.581Z"
     },
     {
       "id": "davies-33306482",
@@ -5066,7 +5066,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.812Z"
+      "scrapedAt": "2026-09-24T08:50:17.581Z"
     },
     {
       "id": "davies-33195224",
@@ -5103,7 +5103,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.812Z"
+      "scrapedAt": "2026-09-24T08:50:17.581Z"
     },
     {
       "id": "davies-33163821",
@@ -5136,7 +5136,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.813Z"
+      "scrapedAt": "2026-09-24T08:50:17.582Z"
     },
     {
       "id": "davies-33163759",
@@ -5167,7 +5167,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.813Z"
+      "scrapedAt": "2026-09-24T08:50:17.584Z"
     },
     {
       "id": "davies-32817557",
@@ -5197,7 +5197,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.814Z"
+      "scrapedAt": "2026-09-24T08:50:17.584Z"
     },
     {
       "id": "davies-32817542",
@@ -5227,7 +5227,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.814Z"
+      "scrapedAt": "2026-09-24T08:50:17.584Z"
     },
     {
       "id": "davies-32649309",
@@ -5263,7 +5263,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.815Z"
+      "scrapedAt": "2026-09-24T08:50:17.585Z"
     },
     {
       "id": "davies-32149955",
@@ -5293,7 +5293,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.816Z"
+      "scrapedAt": "2026-09-24T08:50:17.586Z"
     },
     {
       "id": "davies-32110752",
@@ -5323,7 +5323,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.816Z"
+      "scrapedAt": "2026-09-24T08:50:17.586Z"
     },
     {
       "id": "davies-32046074",
@@ -5353,7 +5353,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.817Z"
+      "scrapedAt": "2026-09-24T08:50:17.586Z"
     },
     {
       "id": "davies-32045697",
@@ -5383,7 +5383,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.817Z"
+      "scrapedAt": "2026-09-24T08:50:17.587Z"
     },
     {
       "id": "davies-32002564",
@@ -5413,7 +5413,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.818Z"
+      "scrapedAt": "2026-09-24T08:50:17.587Z"
     },
     {
       "id": "davies-32000985",
@@ -5446,7 +5446,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.819Z"
+      "scrapedAt": "2026-09-24T08:50:17.587Z"
     },
     {
       "id": "davies-31923754",
@@ -5476,7 +5476,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.819Z"
+      "scrapedAt": "2026-09-24T08:50:17.588Z"
     },
     {
       "id": "davies-31870775",
@@ -5506,7 +5506,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.819Z"
+      "scrapedAt": "2026-09-24T08:50:17.588Z"
     },
     {
       "id": "davies-31870757",
@@ -5536,7 +5536,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.820Z"
+      "scrapedAt": "2026-09-24T08:50:17.588Z"
     },
     {
       "id": "davies-31870166",
@@ -5566,7 +5566,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.820Z"
+      "scrapedAt": "2026-09-24T08:50:17.588Z"
     },
     {
       "id": "davies-31870147",
@@ -5596,7 +5596,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.820Z"
+      "scrapedAt": "2026-09-24T08:50:17.589Z"
     },
     {
       "id": "davies-31813233",
@@ -5627,7 +5627,7 @@
         "minimalist"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.821Z"
+      "scrapedAt": "2026-09-24T08:50:17.589Z"
     },
     {
       "id": "davies-31812798",
@@ -5658,7 +5658,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.821Z"
+      "scrapedAt": "2026-09-24T08:50:17.590Z"
     },
     {
       "id": "davies-31723478",
@@ -5688,7 +5688,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.822Z"
+      "scrapedAt": "2026-09-24T08:50:17.590Z"
     },
     {
       "id": "davies-31568304",
@@ -5719,7 +5719,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.822Z"
+      "scrapedAt": "2026-09-24T08:50:17.590Z"
     },
     {
       "id": "davies-31012507",
@@ -5751,7 +5751,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.823Z"
+      "scrapedAt": "2026-09-24T08:50:17.591Z"
     },
     {
       "id": "davies-31012428",
@@ -5783,7 +5783,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.823Z"
+      "scrapedAt": "2026-09-24T08:50:17.591Z"
     },
     {
       "id": "davies-30535345",
@@ -5810,7 +5810,7 @@
         "denim"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.824Z"
+      "scrapedAt": "2026-09-24T08:50:17.592Z"
     },
     {
       "id": "davies-30535185",
@@ -5841,7 +5841,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.824Z"
+      "scrapedAt": "2026-09-24T08:50:17.595Z"
     },
     {
       "id": "davies-30535029",
@@ -5873,7 +5873,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.828Z"
+      "scrapedAt": "2026-09-24T08:50:17.596Z"
     },
     {
       "id": "davies-30535001",
@@ -5903,7 +5903,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.828Z"
+      "scrapedAt": "2026-09-24T08:50:17.596Z"
     },
     {
       "id": "davies-30534987",
@@ -5933,7 +5933,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.829Z"
+      "scrapedAt": "2026-09-24T08:50:17.597Z"
     },
     {
       "id": "davies-30534959",
@@ -5963,7 +5963,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.829Z"
+      "scrapedAt": "2026-09-24T08:50:17.597Z"
     },
     {
       "id": "davies-30003862",
@@ -5993,7 +5993,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.830Z"
+      "scrapedAt": "2026-09-24T08:50:17.598Z"
     },
     {
       "id": "davies-30003644",
@@ -6024,7 +6024,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.830Z"
+      "scrapedAt": "2026-09-24T08:50:17.599Z"
     },
     {
       "id": "davies-30003627",
@@ -6054,7 +6054,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.831Z"
+      "scrapedAt": "2026-09-24T08:50:17.600Z"
     },
     {
       "id": "davies-30003619",
@@ -6085,7 +6085,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.831Z"
+      "scrapedAt": "2026-09-24T08:50:17.600Z"
     },
     {
       "id": "davies-30003604",
@@ -6117,7 +6117,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.831Z"
+      "scrapedAt": "2026-09-24T08:50:17.600Z"
     },
     {
       "id": "davies-30003590",
@@ -6148,7 +6148,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.832Z"
+      "scrapedAt": "2026-09-24T08:50:17.601Z"
     },
     {
       "id": "davies-30003581",
@@ -6180,7 +6180,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.832Z"
+      "scrapedAt": "2026-09-24T08:50:17.601Z"
     },
     {
       "id": "davies-29954366",
@@ -6211,7 +6211,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.832Z"
+      "scrapedAt": "2026-09-24T08:50:17.601Z"
     },
     {
       "id": "davies-29488459",
@@ -6243,7 +6243,7 @@
         "chino"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.832Z"
+      "scrapedAt": "2026-09-24T08:50:17.602Z"
     },
     {
       "id": "davies-29488456",
@@ -6273,7 +6273,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.833Z"
+      "scrapedAt": "2026-09-24T08:50:17.602Z"
     },
     {
       "id": "davies-29091697",
@@ -6304,7 +6304,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.834Z"
+      "scrapedAt": "2026-09-24T08:50:17.603Z"
     },
     {
       "id": "davies-29066970",
@@ -6334,7 +6334,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.834Z"
+      "scrapedAt": "2026-09-24T08:50:17.603Z"
     },
     {
       "id": "davies-29066956",
@@ -6364,7 +6364,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:16.834Z"
+      "scrapedAt": "2026-09-24T08:50:17.604Z"
     },
     {
       "id": "davies-28837886",
@@ -6396,7 +6396,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.835Z"
+      "scrapedAt": "2026-09-24T08:50:17.604Z"
     },
     {
       "id": "davies-28837847",
@@ -6428,7 +6428,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.835Z"
+      "scrapedAt": "2026-09-24T08:50:17.604Z"
     },
     {
       "id": "davies-28703469",
@@ -6458,7 +6458,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.835Z"
+      "scrapedAt": "2026-09-24T08:50:17.605Z"
     },
     {
       "id": "davies-28565635",
@@ -6489,7 +6489,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:16.835Z"
+      "scrapedAt": "2026-09-24T08:50:17.605Z"
     },
     {
       "id": "davies-28506636",
@@ -6519,7 +6519,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.597Z"
+      "scrapedAt": "2026-09-24T08:50:18.369Z"
     },
     {
       "id": "davies-28128723",
@@ -6552,7 +6552,7 @@
         "chino"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.597Z"
+      "scrapedAt": "2026-09-24T08:50:18.369Z"
     },
     {
       "id": "davies-28118114",
@@ -6582,7 +6582,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.598Z"
+      "scrapedAt": "2026-09-24T08:50:18.369Z"
     },
     {
       "id": "davies-28118112",
@@ -6615,7 +6615,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.598Z"
+      "scrapedAt": "2026-09-24T08:50:18.370Z"
     },
     {
       "id": "davies-28118106",
@@ -6645,7 +6645,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.598Z"
+      "scrapedAt": "2026-09-24T08:50:18.370Z"
     },
     {
       "id": "davies-28118101",
@@ -6675,7 +6675,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.598Z"
+      "scrapedAt": "2026-09-24T08:50:18.370Z"
     },
     {
       "id": "davies-28118098",
@@ -6706,7 +6706,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.598Z"
+      "scrapedAt": "2026-09-24T08:50:18.370Z"
     },
     {
       "id": "davies-28114453",
@@ -6737,7 +6737,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.599Z"
+      "scrapedAt": "2026-09-24T08:50:18.370Z"
     },
     {
       "id": "davies-28114443",
@@ -6768,7 +6768,7 @@
         "smart-casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.599Z"
+      "scrapedAt": "2026-09-24T08:50:18.370Z"
     },
     {
       "id": "davies-28114421",
@@ -6798,7 +6798,7 @@
         "smart-casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.599Z"
+      "scrapedAt": "2026-09-24T08:50:18.370Z"
     },
     {
       "id": "davies-27702093",
@@ -6828,7 +6828,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.599Z"
+      "scrapedAt": "2026-09-24T08:50:18.371Z"
     },
     {
       "id": "davies-27702086",
@@ -6859,7 +6859,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.599Z"
+      "scrapedAt": "2026-09-24T08:50:18.371Z"
     },
     {
       "id": "davies-27603703",
@@ -6894,7 +6894,7 @@
         "smart-casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.600Z"
+      "scrapedAt": "2026-09-24T08:50:18.371Z"
     },
     {
       "id": "davies-27603695",
@@ -6925,7 +6925,7 @@
         "denim"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.600Z"
+      "scrapedAt": "2026-09-24T08:50:18.371Z"
     },
     {
       "id": "davies-27603690",
@@ -6955,7 +6955,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.600Z"
+      "scrapedAt": "2026-09-24T08:50:18.371Z"
     },
     {
       "id": "davies-27598246",
@@ -6989,7 +6989,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.600Z"
+      "scrapedAt": "2026-09-24T08:50:18.371Z"
     },
     {
       "id": "davies-27413081",
@@ -7020,7 +7020,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.600Z"
+      "scrapedAt": "2026-09-24T08:50:18.372Z"
     },
     {
       "id": "davies-27413052",
@@ -7051,7 +7051,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.601Z"
+      "scrapedAt": "2026-09-24T08:50:18.372Z"
     },
     {
       "id": "davies-27413036",
@@ -7081,7 +7081,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.601Z"
+      "scrapedAt": "2026-09-24T08:50:18.372Z"
     },
     {
       "id": "davies-27413023",
@@ -7111,7 +7111,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.601Z"
+      "scrapedAt": "2026-09-24T08:50:18.372Z"
     },
     {
       "id": "davies-27412999",
@@ -7145,7 +7145,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.601Z"
+      "scrapedAt": "2026-09-24T08:50:18.372Z"
     },
     {
       "id": "davies-27412958",
@@ -7175,7 +7175,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.601Z"
+      "scrapedAt": "2026-09-24T08:50:18.372Z"
     },
     {
       "id": "davies-27412944",
@@ -7210,7 +7210,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.602Z"
+      "scrapedAt": "2026-09-24T08:50:18.372Z"
     },
     {
       "id": "davies-27412837",
@@ -7241,7 +7241,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.602Z"
+      "scrapedAt": "2026-09-24T08:50:18.373Z"
     },
     {
       "id": "davies-27412535",
@@ -7274,7 +7274,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.602Z"
+      "scrapedAt": "2026-09-24T08:50:18.373Z"
     },
     {
       "id": "davies-27397096",
@@ -7304,7 +7304,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.602Z"
+      "scrapedAt": "2026-09-24T08:50:18.373Z"
     },
     {
       "id": "davies-27396761",
@@ -7334,7 +7334,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.602Z"
+      "scrapedAt": "2026-09-24T08:50:18.373Z"
     },
     {
       "id": "davies-27396547",
@@ -7370,7 +7370,7 @@
         "smart-casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.602Z"
+      "scrapedAt": "2026-09-24T08:50:18.373Z"
     },
     {
       "id": "davies-27366909",
@@ -7402,7 +7402,7 @@
         "minimalist"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.603Z"
+      "scrapedAt": "2026-09-24T08:50:18.373Z"
     },
     {
       "id": "davies-27366896",
@@ -7434,7 +7434,7 @@
         "minimalist"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.603Z"
+      "scrapedAt": "2026-09-24T08:50:18.374Z"
     },
     {
       "id": "davies-27116570",
@@ -7466,7 +7466,7 @@
         "basic"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.603Z"
+      "scrapedAt": "2026-09-24T08:50:18.374Z"
     },
     {
       "id": "davies-27116462",
@@ -7495,7 +7495,7 @@
         "basic"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.603Z"
+      "scrapedAt": "2026-09-24T08:50:18.374Z"
     },
     {
       "id": "davies-26932911",
@@ -7525,7 +7525,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.604Z"
+      "scrapedAt": "2026-09-24T08:50:18.374Z"
     },
     {
       "id": "davies-26744481",
@@ -7556,7 +7556,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.604Z"
+      "scrapedAt": "2026-09-24T08:50:18.374Z"
     },
     {
       "id": "davies-26581244",
@@ -7586,7 +7586,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.604Z"
+      "scrapedAt": "2026-09-24T08:50:18.374Z"
     },
     {
       "id": "davies-26549783",
@@ -7619,7 +7619,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.605Z"
+      "scrapedAt": "2026-09-24T08:50:18.374Z"
     },
     {
       "id": "davies-26549761",
@@ -7650,7 +7650,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.605Z"
+      "scrapedAt": "2026-09-24T08:50:18.374Z"
     },
     {
       "id": "davies-26549731",
@@ -7681,7 +7681,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.605Z"
+      "scrapedAt": "2026-09-24T08:50:18.375Z"
     },
     {
       "id": "davies-26549717",
@@ -7711,7 +7711,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.606Z"
+      "scrapedAt": "2026-09-24T08:50:18.375Z"
     },
     {
       "id": "davies-26549687",
@@ -7741,7 +7741,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.606Z"
+      "scrapedAt": "2026-09-24T08:50:18.375Z"
     },
     {
       "id": "davies-26445487",
@@ -7771,7 +7771,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.606Z"
+      "scrapedAt": "2026-09-24T08:50:18.375Z"
     },
     {
       "id": "davies-26441449",
@@ -7802,7 +7802,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.606Z"
+      "scrapedAt": "2026-09-24T08:50:18.375Z"
     },
     {
       "id": "davies-26430661",
@@ -7838,7 +7838,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.606Z"
+      "scrapedAt": "2026-09-24T08:50:18.375Z"
     },
     {
       "id": "davies-26429902",
@@ -7868,7 +7868,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.606Z"
+      "scrapedAt": "2026-09-24T08:50:18.375Z"
     },
     {
       "id": "davies-26429845",
@@ -7900,7 +7900,7 @@
         "basic"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.607Z"
+      "scrapedAt": "2026-09-24T08:50:18.376Z"
     },
     {
       "id": "davies-26429812",
@@ -7933,7 +7933,7 @@
         "oversize"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.607Z"
+      "scrapedAt": "2026-09-24T08:50:18.376Z"
     },
     {
       "id": "davies-26429768",
@@ -7967,7 +7967,7 @@
         "oversize"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.607Z"
+      "scrapedAt": "2026-09-24T08:50:18.376Z"
     },
     {
       "id": "davies-26429626",
@@ -7997,7 +7997,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.607Z"
+      "scrapedAt": "2026-09-24T08:50:18.376Z"
     },
     {
       "id": "davies-26207220",
@@ -8027,7 +8027,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.607Z"
+      "scrapedAt": "2026-09-24T08:50:18.376Z"
     },
     {
       "id": "davies-26207193",
@@ -8057,7 +8057,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.608Z"
+      "scrapedAt": "2026-09-24T08:50:18.376Z"
     },
     {
       "id": "davies-26207182",
@@ -8087,7 +8087,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.608Z"
+      "scrapedAt": "2026-09-24T08:50:18.377Z"
     },
     {
       "id": "davies-26207147",
@@ -8117,7 +8117,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.608Z"
+      "scrapedAt": "2026-09-24T08:50:18.377Z"
     },
     {
       "id": "davies-26207070",
@@ -8147,7 +8147,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.608Z"
+      "scrapedAt": "2026-09-24T08:50:18.377Z"
     },
     {
       "id": "davies-25451255",
@@ -8177,7 +8177,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.608Z"
+      "scrapedAt": "2026-09-24T08:50:18.377Z"
     },
     {
       "id": "davies-25451216",
@@ -8207,7 +8207,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.608Z"
+      "scrapedAt": "2026-09-24T08:50:18.377Z"
     },
     {
       "id": "davies-25193326",
@@ -8230,7 +8230,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.609Z"
+      "scrapedAt": "2026-09-24T08:50:18.377Z"
     },
     {
       "id": "davies-24677529",
@@ -8260,7 +8260,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.609Z"
+      "scrapedAt": "2026-09-24T08:50:18.377Z"
     },
     {
       "id": "davies-24677525",
@@ -8290,7 +8290,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.609Z"
+      "scrapedAt": "2026-09-24T08:50:18.377Z"
     },
     {
       "id": "davies-24677521",
@@ -8320,7 +8320,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.609Z"
+      "scrapedAt": "2026-09-24T08:50:18.377Z"
     },
     {
       "id": "davies-24403444",
@@ -8350,7 +8350,7 @@
         "cotton"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.609Z"
+      "scrapedAt": "2026-09-24T08:50:18.378Z"
     },
     {
       "id": "davies-24260265",
@@ -8380,7 +8380,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.610Z"
+      "scrapedAt": "2026-09-24T08:50:18.378Z"
     },
     {
       "id": "davies-24260230",
@@ -8410,7 +8410,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.610Z"
+      "scrapedAt": "2026-09-24T08:50:18.378Z"
     },
     {
       "id": "davies-24181024",
@@ -8440,7 +8440,7 @@
         "oversize"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.610Z"
+      "scrapedAt": "2026-09-24T08:50:18.378Z"
     },
     {
       "id": "davies-24180901",
@@ -8475,7 +8475,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.611Z"
+      "scrapedAt": "2026-09-24T08:50:18.378Z"
     },
     {
       "id": "davies-24038584",
@@ -8505,7 +8505,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.611Z"
+      "scrapedAt": "2026-09-24T08:50:18.379Z"
     },
     {
       "id": "davies-24036433",
@@ -8535,7 +8535,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.611Z"
+      "scrapedAt": "2026-09-24T08:50:18.379Z"
     },
     {
       "id": "davies-23841052",
@@ -8565,7 +8565,7 @@
         "oversize"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.612Z"
+      "scrapedAt": "2026-09-24T08:50:18.379Z"
     },
     {
       "id": "davies-23697522",
@@ -8596,7 +8596,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.612Z"
+      "scrapedAt": "2026-09-24T08:50:18.379Z"
     },
     {
       "id": "davies-23697093",
@@ -8626,7 +8626,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.613Z"
+      "scrapedAt": "2026-09-24T08:50:18.380Z"
     },
     {
       "id": "davies-23697081",
@@ -8656,7 +8656,7 @@
         "basic"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.613Z"
+      "scrapedAt": "2026-09-24T08:50:18.380Z"
     },
     {
       "id": "davies-23697072",
@@ -8687,7 +8687,7 @@
         "chino"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.613Z"
+      "scrapedAt": "2026-09-24T08:50:18.380Z"
     },
     {
       "id": "davies-23697050",
@@ -8717,7 +8717,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.613Z"
+      "scrapedAt": "2026-09-24T08:50:18.380Z"
     },
     {
       "id": "davies-23697007",
@@ -8747,7 +8747,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.613Z"
+      "scrapedAt": "2026-09-24T08:50:18.380Z"
     },
     {
       "id": "davies-23696996",
@@ -8777,7 +8777,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.614Z"
+      "scrapedAt": "2026-09-24T08:50:18.380Z"
     },
     {
       "id": "davies-23693362",
@@ -8807,7 +8807,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.614Z"
+      "scrapedAt": "2026-09-24T08:50:18.380Z"
     },
     {
       "id": "davies-23693355",
@@ -8837,7 +8837,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.614Z"
+      "scrapedAt": "2026-09-24T08:50:18.381Z"
     },
     {
       "id": "davies-23693337",
@@ -8872,7 +8872,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.615Z"
+      "scrapedAt": "2026-09-24T08:50:18.381Z"
     },
     {
       "id": "davies-23693105",
@@ -8902,7 +8902,7 @@
         "slim-fit"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.615Z"
+      "scrapedAt": "2026-09-24T08:50:18.381Z"
     },
     {
       "id": "davies-23693096",
@@ -8932,7 +8932,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.615Z"
+      "scrapedAt": "2026-09-24T08:50:18.381Z"
     },
     {
       "id": "davies-23412714",
@@ -8962,7 +8962,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.615Z"
+      "scrapedAt": "2026-09-24T08:50:18.381Z"
     },
     {
       "id": "davies-22483432",
@@ -8992,7 +8992,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.616Z"
+      "scrapedAt": "2026-09-24T08:50:18.382Z"
     },
     {
       "id": "davies-22483423",
@@ -9022,7 +9022,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.617Z"
+      "scrapedAt": "2026-09-24T08:50:18.382Z"
     },
     {
       "id": "davies-22483401",
@@ -9052,7 +9052,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.617Z"
+      "scrapedAt": "2026-09-24T08:50:18.382Z"
     },
     {
       "id": "davies-22483396",
@@ -9082,7 +9082,7 @@
         "casual"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.617Z"
+      "scrapedAt": "2026-09-24T08:50:18.382Z"
     },
     {
       "id": "davies-22483373",
@@ -9113,7 +9113,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.617Z"
+      "scrapedAt": "2026-09-24T08:50:18.382Z"
     },
     {
       "id": "davies-22483363",
@@ -9144,7 +9144,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.618Z"
+      "scrapedAt": "2026-09-24T08:50:18.383Z"
     },
     {
       "id": "davies-22483348",
@@ -9176,7 +9176,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.618Z"
+      "scrapedAt": "2026-09-24T08:50:18.383Z"
     },
     {
       "id": "davies-22483340",
@@ -9208,7 +9208,7 @@
         "streetwear"
       ],
       "inStock": false,
-      "scrapedAt": "2026-09-23T18:01:17.618Z"
+      "scrapedAt": "2026-09-24T08:50:18.383Z"
     },
     {
       "id": "davies-22128207",
@@ -9238,7 +9238,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.619Z"
+      "scrapedAt": "2026-09-24T08:50:18.383Z"
     },
     {
       "id": "davies-22128127",
@@ -9268,7 +9268,7 @@
         "minimalist"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.619Z"
+      "scrapedAt": "2026-09-24T08:50:18.383Z"
     },
     {
       "id": "davies-20897070",
@@ -9298,7 +9298,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.622Z"
+      "scrapedAt": "2026-09-24T08:50:18.385Z"
     },
     {
       "id": "davies-20897067",
@@ -9328,7 +9328,7 @@
         "streetwear"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.622Z"
+      "scrapedAt": "2026-09-24T08:50:18.385Z"
     },
     {
       "id": "davies-20826163",
@@ -9364,7 +9364,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.623Z"
+      "scrapedAt": "2026-09-24T08:50:18.385Z"
     },
     {
       "id": "davies-20793323",
@@ -9394,7 +9394,7 @@
         "casual"
       ],
       "inStock": true,
-      "scrapedAt": "2026-09-23T18:01:17.623Z"
+      "scrapedAt": "2026-09-24T08:50:18.385Z"
     }
   ]
 }

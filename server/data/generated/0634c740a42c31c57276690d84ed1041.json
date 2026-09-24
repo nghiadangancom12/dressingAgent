@@ -1,0 +1,6 @@
+{
+  "prompt": "Ảnh 1 là ảnh gương mặt của người dùng. Tạo một ảnh lookbook thời trang chụp toàn thân của CHÍNH người này: giữ nguyên gương mặt, kiểu tóc và màu da của người trong Ảnh 1, dựng phần thân phù hợp với vóc dáng được mô tả. Vóc dáng người mặc: cao 180 cm, nặng 70 kg — dáng người cao, vóc dáng cân đối. Cho người này mặc ĐÚNG và ĐỦ các món quần áo sau, chỉ lấy quần áo và bỏ qua hoàn toàn người mẫu xuất hiện trong các ảnh đó: Ảnh 2: Áo Thun Nam In Họa Tiết MTS 1363 (Couple TX); Ảnh 3: Quần Dài Biti’s Hunter Unisex Màu Đen ACMH01000DEN (Biti's); Ảnh 4: Giày Thể Thao Biti's Nam Soulmate Màu Trắng BSM004400TRG (Biti's). Giữ nguyên chính xác màu sắc, họa tiết, logo, kiểu dáng, form và chất liệu của từng món. Phong cách: japanese-streetwear, minimalist, casual-daily. Ánh sáng studio chuyên nghiệp, phông nền studio tối giản, tạo dáng tự nhiên, thấy rõ toàn bộ trang phục từ đầu đến chân, chất lượng chuẩn tạp chí thời trang.",
+  "imageUrl": "https://dashscope-463f.oss-accelerate.aliyuncs.com/1d/c0/20260924/10739b93/1790238882_d850503b.png?Expires=1790325282&OSSAccessKeyId=LTAI5tRcsWJEymQaTsKbKqGf&Signature=yHzaY0DqTBzx8Yno5FLSjw5N%2B6s%3D",
+  "usedReferences": 4,
+  "createdAt": "2026-09-24T08:34:47.034Z"
+}

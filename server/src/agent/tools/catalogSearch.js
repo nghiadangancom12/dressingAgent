@@ -44,15 +44,15 @@ const SEASON_CATEGORIES = {
 // ──────────────────────────────────────────────
 
 const STYLE_BRAND_AFFINITY = {
-  minimalist: { Uniqlo: 1.0, Routine: 0.7, Coolmate: 0.6, Torano: 0.6, Teelab: 0.5 },
-  basic:      { Uniqlo: 0.9, Coolmate: 0.9, Routine: 0.6, Torano: 0.6, Teelab: 0.6 },
-  casual:     { Coolmate: 0.8, Uniqlo: 0.8, Routine: 0.7, Teelab: 0.7, Torano: 0.6, "Biti's": 0.7 },
-  formal:     { Routine: 1.0, Aristino: 1.0, Torano: 0.8, Uniqlo: 0.5, Coolmate: 0.3 },
-  streetwear: { 'Dirty Coins': 1.0, Davies: 1.0, Teelab: 0.8, Routine: 0.7, Coolmate: 0.5, Uniqlo: 0.4 },
+  minimalist: { Uniqlo: 1.0, 'Libé': 0.9, 'The Blue T-shirt': 0.8, Routine: 0.7, Coolmate: 0.6, Torano: 0.6, Teelab: 0.5 },
+  basic:      { Uniqlo: 0.9, Coolmate: 0.9, 'The Blue T-shirt': 0.7, 'Couple TX': 0.7, Routine: 0.6, Torano: 0.6, Teelab: 0.6 },
+  casual:     { Coolmate: 0.8, Uniqlo: 0.8, 'Couple TX': 0.8, Routine: 0.7, Teelab: 0.7, Marc: 0.7, Torano: 0.6, "Biti's": 0.7 },
+  formal:     { Routine: 1.0, Aristino: 1.0, 'Eva de Eva': 0.9, Torano: 0.8, 'The Blue T-shirt': 0.7, Marc: 0.6, Uniqlo: 0.5, Coolmate: 0.3 },
+  streetwear: { 'Dirty Coins': 1.0, Davies: 1.0, Teelab: 0.8, Routine: 0.7, 'Coco Sin': 0.6, Coolmate: 0.5, Uniqlo: 0.4 },
   sporty:     { Coolmate: 1.0, "Biti's": 0.8, Uniqlo: 0.6, Routine: 0.3 },
-  korean:     { Routine: 0.9, Teelab: 0.7, Uniqlo: 0.6, Coolmate: 0.4 },
-  japanese:   { Uniqlo: 1.0, Routine: 0.5, Coolmate: 0.4 },
-  vintage:    { Routine: 0.7, Davies: 0.6, Uniqlo: 0.5, Coolmate: 0.3 },
+  korean:     { Marc: 0.9, OLV: 0.9, Routine: 0.9, 'Libé': 0.8, Teelab: 0.7, 'Eva de Eva': 0.7, Uniqlo: 0.6, Coolmate: 0.4 },
+  japanese:   { Uniqlo: 1.0, 'Libé': 0.8, Routine: 0.5, Coolmate: 0.4 },
+  vintage:    { OLV: 0.8, 'Libé': 0.7, Routine: 0.7, Davies: 0.6, Uniqlo: 0.5, Coolmate: 0.3 },
 };
 
 // ──────────────────────────────────────────────
@@ -532,6 +532,8 @@ export function searchByRules(query, context = {}) {
 
   for (const p of scored) {
     if (results.length >= 3) break;
+    // Already picked earlier as another brand's representative
+    if (results.includes(p)) continue;
 
     // Try to get at least one from each brand, but ONLY within the same category
     if (seenBrands.has(p.brand) && results.length < 3 && scored.length > 3) {
