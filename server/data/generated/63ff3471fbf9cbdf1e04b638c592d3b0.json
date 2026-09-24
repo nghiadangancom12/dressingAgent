@@ -1,0 +1,6 @@
+{
+  "prompt": "Ảnh 1 là ảnh gương mặt của người dùng. Tạo một ảnh lookbook thời trang chụp toàn thân của CHÍNH người này: giữ nguyên gương mặt, kiểu tóc và màu da của người trong Ảnh 1, dựng phần thân phù hợp với vóc dáng được mô tả. Vóc dáng người mặc: cao 175 cm, nặng 65 kg — chiều cao trung bình, vóc dáng cân đối. Cho người này mặc ĐÚNG và ĐỦ các món quần áo sau, chỉ lấy quần áo và bỏ qua hoàn toàn người mẫu xuất hiện trong các ảnh đó: Ảnh 2: AIRism Cotton Áo Thun Dáng Rộng | Tay Lỡ (Uniqlo); Ảnh 3: Quần Kaki Nam Premium Ống Ôm Trơn Form Slim Cropped (Routine); Ảnh 4: Giày Thể Thao Nam Biti's Soulmate Màu Kem BSM004400KEM (Biti's); Ảnh 5: Túi Đeo Chéo Đa Năng (Uniqlo). Giữ nguyên chính xác màu sắc, họa tiết, logo, kiểu dáng, form và chất liệu của từng món. Phong cách: minimalist, casual, korean-streetwear. Ánh sáng studio chuyên nghiệp, phông nền studio tối giản, tạo dáng tự nhiên, thấy rõ toàn bộ trang phục từ đầu đến chân, chất lượng chuẩn tạp chí thời trang.",
+  "imageUrl": "https://dashscope-463f.oss-accelerate.aliyuncs.com/1d/b4/20260924/10739b93/1790235849_782371ac.png?Expires=1790322250&OSSAccessKeyId=LTAI5tRcsWJEymQaTsKbKqGf&Signature=VxkLWsXnONaS4oBb8%2FHcF0Mo714%3D",
+  "usedReferences": 5,
+  "createdAt": "2026-09-24T07:44:15.149Z"
+}

@@ -1,0 +1,4158 @@
+{
+  "brand": "teelab",
+  "scrapedAt": "2026-09-23T18:01:16.555Z",
+  "totalProducts": 127,
+  "products": [
+    {
+      "id": "teelab-90306310",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Denim Essentials FW26 Pants PS149",
+      "price": 380000,
+      "originalPrice": 800000,
+      "currency": "VND",
+      "url": "https://teelab.vn/pants-ps149",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-18t105833-839.jpg?v=1789703957800",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-18t105828-810.jpg?v=1789703958867"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Denim",
+      "tags": [
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.504Z"
+    },
+    {
+      "id": "teelab-89629792",
+      "brand": "Teelab",
+      "name": "Teelab Alter Relaxed Fit Fleece Essentials FW26 Sweater HD147",
+      "price": 350000,
+      "originalPrice": 700000,
+      "currency": "VND",
+      "url": "https://teelab.vn/sweater-hd147",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-17t141140-939.jpg?v=1789629258480",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-17t141145-402.jpg?v=1789629258480"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Nỉ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.505Z"
+    },
+    {
+      "id": "teelab-89629790",
+      "brand": "Teelab",
+      "name": "Teelab Alter Relaxed Fit Fleece Essentials FW26 Polo Sweatshirt HD144",
+      "price": 380000,
+      "originalPrice": 700000,
+      "currency": "VND",
+      "url": "https://teelab.vn/sweater-hd144",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-10t140834-736.jpg?v=1789024696877",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-10t140826-764.jpg?v=1789024697953"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "beige",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Nỉ",
+      "tags": [
+        "smart-casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.505Z"
+    },
+    {
+      "id": "teelab-89408636",
+      "brand": "Teelab",
+      "name": "Teelab Alter Loose-Fit Nylon Essentials FW26 Windbreaker AK152",
+      "price": 420000,
+      "originalPrice": 750000,
+      "currency": "VND",
+      "url": "https://teelab.vn/windbreaker-ak152",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-21t142915-864.jpg?v=1789976823227",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-21t144528-894.jpg?v=1789976824273"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy",
+        "green"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.506Z"
+    },
+    {
+      "id": "teelab-89184397",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Waffle Essentials FW26 Henley TS442",
+      "price": 400000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts442",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-17t155658-764.jpg?v=1789636016923",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-17t155708-467.jpg?v=1789636016923"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.506Z"
+    },
+    {
+      "id": "teelab-89184395",
+      "brand": "Teelab",
+      "name": "Teelab Alter Raglan Cotton Essentials FW26 Long Sleeve TS440",
+      "price": 360000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts440",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-17t092912-283.jpg?v=1789612184703",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-17t092907-771.jpg?v=1789612185733"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "yellow",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.506Z"
+    },
+    {
+      "id": "teelab-88991848",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Nylon Essentials FW26 Bomber AK151",
+      "price": 450000,
+      "originalPrice": 850000,
+      "currency": "VND",
+      "url": "https://teelab.vn/bomber-ak151",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-04t142830-694.jpg?v=1788507214317",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-04t142822-457.jpg?v=1788507214850"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.507Z"
+    },
+    {
+      "id": "teelab-88894401",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton TI STAR Scribble Tee TS436",
+      "price": 380000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts436",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-14t113422-808.jpg?v=1789360715107",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-14t113415-718.jpg?v=1789360715903"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.507Z"
+    },
+    {
+      "id": "teelab-88811239",
+      "brand": "Teelab",
+      "name": "Teelab Alter Relaxed Fit Fleece Essentials FW26 Hoodie HD145",
+      "price": 450000,
+      "originalPrice": 850000,
+      "currency": "VND",
+      "url": "https://teelab.vn/hoodie-hd145",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-18t104451-807.jpg?v=1789703588953",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-18t104441-041.jpg?v=1789703590227"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Nỉ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.507Z"
+    },
+    {
+      "id": "teelab-88807474",
+      "brand": "Teelab",
+      "name": "Teelab Alter Slimfit Cotton Essentials FW26 Tee TS441",
+      "price": 220000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts441",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-28t104330-972.jpg?v=1787888845373",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-28t104340-666.jpg?v=1787888845373"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "slim-fit",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.507Z"
+    },
+    {
+      "id": "teelab-88347731",
+      "brand": "Teelab",
+      "name": "Teelab Alter Relaxed Fit Knit Essentials FW26 Sweater HD148",
+      "price": 550000,
+      "originalPrice": 850000,
+      "currency": "VND",
+      "url": "https://teelab.vn/sweater-hd148",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-10t095809-663.jpg?v=1789025047303",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-10t095817-514.jpg?v=1789025048280"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.508Z"
+    },
+    {
+      "id": "teelab-88310992",
+      "brand": "Teelab",
+      "name": "Teelab Alter Relaxed Fit Fleece Essentials FW26 Hoodie Zip HD146",
+      "price": 450000,
+      "originalPrice": 800000,
+      "currency": "VND",
+      "url": "https://teelab.vn/zip-hoodie-hd146",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-15t101518-827.jpg?v=1789442354393",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-15t101527-254.jpg?v=1789442354393"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Nỉ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.508Z"
+    },
+    {
+      "id": "teelab-88121517",
+      "brand": "Teelab",
+      "name": "Teelab Alter Relaxed Fit Fleece Essentials FW26 Pants PS148",
+      "price": 380000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://teelab.vn/pants-ps148",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-86.jpg?v=1787210559907",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-85.jpg?v=1787210560987"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Nỉ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.509Z"
+    },
+    {
+      "id": "teelab-87909384",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Cotton Essentials FW26 Long Sleeve TS439",
+      "price": 320000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts439",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-72.jpg?v=1787104289190",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-71.jpg?v=1787104290227"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.510Z"
+    },
+    {
+      "id": "teelab-87790306",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton Essentials FW26 Tee TS438",
+      "price": 220000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts438",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-28t152215-600.jpg?v=1787905493820",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-28t152211-433.jpg?v=1787905495003"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.511Z"
+    },
+    {
+      "id": "teelab-87790305",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Cotton Essentials FW26 Tee TS437",
+      "price": 220000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts437",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-12t114128-149.jpg?v=1789196825750",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-12t114133-033.jpg?v=1789196826587"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.512Z"
+    },
+    {
+      "id": "teelab-87581465",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Cotton Typo Shirt SS097",
+      "price": 300000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ss097",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-87.jpg?v=1787212452213",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-88.jpg?v=1787212453270"
+      ],
+      "category": "top",
+      "subcategory": "shirt",
+      "gender": "unisex",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.513Z"
+    },
+    {
+      "id": "teelab-87235157",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton TI STAR Ripple Tee TS435",
+      "price": 350000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts435",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-81.jpg?v=1787201041947",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-82.jpg?v=1787201042807"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.513Z"
+    },
+    {
+      "id": "teelab-87235156",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton TI STAR Coloring Tee TS434",
+      "price": 300000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts434",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-67.jpg?v=1787103902153",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-68.jpg?v=1787103902153"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.513Z"
+    },
+    {
+      "id": "teelab-87087415",
+      "brand": "Teelab",
+      "name": "Teelab Alter Boxy Cotton 24/7 Tee TS431",
+      "price": 250000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts431",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-99.jpg?v=1787539848193",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-98.jpg?v=1787539849417"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.514Z"
+    },
+    {
+      "id": "teelab-87085428",
+      "brand": "Teelab",
+      "name": "Teelab Alter Boxy Cotton 88 Tee TS430",
+      "price": 250000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts430",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-100.jpg?v=1787556169593",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-98-589f5230-cb44-44f8-aa48-4dcc707d7399.jpg?v=1787556171313"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.514Z"
+    },
+    {
+      "id": "teelab-87060117",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton Angel Tee TS433",
+      "price": 300000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts433",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-79.jpg?v=1787199075173",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-80.jpg?v=1787199076147"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.514Z"
+    },
+    {
+      "id": "teelab-87021601",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Fleece TI STAR Zip-Up Hoodie HD143",
+      "price": 500000,
+      "originalPrice": 800000,
+      "currency": "VND",
+      "url": "https://teelab.vn/zip-hoodie-hd143",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-08t102053-179.jpg?v=1788838891077",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-08t102047-930.jpg?v=1788838891923"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Nỉ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.515Z"
+    },
+    {
+      "id": "teelab-87006509",
+      "brand": "Teelab",
+      "name": "Teelab Alter Boxy Cotton Typo 7 Tee TS429",
+      "price": 250000,
+      "originalPrice": 500000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts429",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-08t104925-484.jpg?v=1788839389710",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-08t104820-033.jpg?v=1788839390980"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.515Z"
+    },
+    {
+      "id": "teelab-86334306",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular TI STAR Camo Raglan Long Sleeve TS423",
+      "price": 420000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts423",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-99-9f2599f3-20c8-4add-8d6f-109f4f6b79b7.jpg?v=1788247388860",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-100-035d2251-61e7-4602-99ea-f1ebace659c8.jpg?v=1788247389863"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.515Z"
+    },
+    {
+      "id": "teelab-86306629",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Fleece Camo Embroidered Hoodie HD142",
+      "price": 500000,
+      "originalPrice": 800000,
+      "currency": "VND",
+      "url": "https://teelab.vn/hoodie-hd142",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t161103-349.jpg?v=1787735479487",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t154343-313.jpg?v=1787735479487"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Nỉ",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.516Z"
+    },
+    {
+      "id": "teelab-85763087",
+      "brand": "Teelab",
+      "name": "Teelab Alter Longsleeve Raglan Cotton Dream Chasing Tee TS428",
+      "price": 350000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts428",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-09-01t142745-781.jpg?v=1788247716920",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-09-01t142735-013.jpg?v=1788247717807"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.516Z"
+    },
+    {
+      "id": "teelab-85657877",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton Long Sleeve TS425",
+      "price": 350000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts425",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-24t142612-102.jpg?v=1787556410060",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-24t142604-616.jpg?v=1787556411053"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "green"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.516Z"
+    },
+    {
+      "id": "teelab-85549074",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Khaki Plain Pants PS147",
+      "price": 350000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://teelab.vn/pants-ps147",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-48.jpg?v=1789620826370",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-47.jpg?v=1789620826370"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "beige",
+        "brown",
+        "khaki"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "chino"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.517Z"
+    },
+    {
+      "id": "teelab-84560848",
+      "brand": "Teelab",
+      "name": "Teelab Alter Jogger Khaki Essentials Twill Shorts SH015",
+      "price": 250000,
+      "originalPrice": 500000,
+      "currency": "VND",
+      "url": "https://teelab.vn/short-sh015",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-20.jpg?v=1785816056780",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-22.jpg?v=1785816058303"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "beige",
+        "khaki"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "chino"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.517Z"
+    },
+    {
+      "id": "teelab-84560845",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Denim Animal Jacket AK146",
+      "price": 800000,
+      "originalPrice": 1200000,
+      "currency": "VND",
+      "url": "https://teelab.vn/jacket-ak146",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-54.jpg?v=1786501101887",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-53.jpg?v=1786501103637"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Denim",
+      "tags": [
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.517Z"
+    },
+    {
+      "id": "teelab-83499390",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Pique Essentials Bermuda Shorts SH008",
+      "price": 320000,
+      "originalPrice": 350000,
+      "currency": "VND",
+      "url": "https://teelab.vn/short-sh008",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-57.jpg?v=1786501390387",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-58.jpg?v=1786501390387"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.517Z"
+    },
+    {
+      "id": "teelab-83499388",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Cotton TI STAR Rhinestone Long Sleeve TS420",
+      "price": 420000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts420",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-98-76a2dda0-5f2d-487b-98b4-b7706daab356.jpg?v=1788247186000",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-96-4137fc7e-6977-45b0-8ed2-be66f93f2286.jpg?v=1788247187147"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "gray",
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.518Z"
+    },
+    {
+      "id": "teelab-83427373",
+      "brand": "Teelab",
+      "name": "Teelab Alter Relaxed Windbreaker Tiger Checked Track Jacket AK147",
+      "price": 500000,
+      "originalPrice": 1200000,
+      "currency": "VND",
+      "url": "https://teelab.vn/bomber-ak147",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-09-01t143105-429.jpg?v=1788248343140",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-09-01t143110-173.jpg?v=1788248344067"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.518Z"
+    },
+    {
+      "id": "teelab-83427372",
+      "brand": "Teelab",
+      "name": "Teelab Alter Relaxed Fleece Essential Straight Pants PS146",
+      "price": 380000,
+      "originalPrice": 500000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ps-ps146",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-5.jpg?v=1784529725947",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-4.jpg?v=1784529727027"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.518Z"
+    },
+    {
+      "id": "teelab-83225504",
+      "brand": "Teelab",
+      "name": "Teelab Alter Slub-Cotton Longsleeve Animal Tee TS422",
+      "price": 420000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts422",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-24t143001-978.jpg?v=1787556853313",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-24t143014-446.jpg?v=1787556853313"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.519Z"
+    },
+    {
+      "id": "teelab-83186563",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Cotton Hand Write Tee TS419",
+      "price": 250000,
+      "originalPrice": 500000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts419",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-01t143218-444.jpg?v=1788247980203",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-01t143206-057.jpg?v=1788247981127"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.519Z"
+    },
+    {
+      "id": "teelab-83086113",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Cotton Animal Striped Tee TS418",
+      "price": 300000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts418",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-01t143511-365.jpg?v=1788248145463",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-01t143515-231.jpg?v=1788248146180"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "navy",
+        "red",
+        "brown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.519Z"
+    },
+    {
+      "id": "teelab-82357820",
+      "brand": "Teelab",
+      "name": "Teelab Alter Relaxed Fleece Star Ball Zip Hoodie HD140",
+      "price": 800000,
+      "originalPrice": 1200000,
+      "currency": "VND",
+      "url": "https://teelab.vn/zip-hoodie-hd140",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-07-02t142359-320.jpg?v=1782977203417",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-12t094509-192.jpg?v=1789181150487"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.520Z"
+    },
+    {
+      "id": "teelab-82204749",
+      "brand": "Teelab",
+      "name": "Teelab Alter Relaxed Khaki Jacket AK144",
+      "price": 700000,
+      "originalPrice": 1200000,
+      "currency": "VND",
+      "url": "https://teelab.vn/jacket-ak144",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-01t143354-116.jpg?v=1788248394003",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-01t143416-291.jpg?v=1788248396400"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "beige",
+        "khaki"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "chino"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.520Z"
+    },
+    {
+      "id": "teelab-82201013",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Pique Animal Polo AP079",
+      "price": 380000,
+      "originalPrice": 500000,
+      "currency": "VND",
+      "url": "https://teelab.vn/polo-ap079",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-25t160447-018.jpg?v=1787648714637",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-25t160428-641.jpg?v=1787648715523"
+      ],
+      "category": "top",
+      "subcategory": "polo",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "navy",
+        "beige",
+        "brown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "smart-casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.520Z"
+    },
+    {
+      "id": "teelab-82128203",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Jersey Mesh Star Ball Tee TS416",
+      "price": 300000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts416",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-24t145708-293.jpg?v=1787558241043",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-24t144019-010.jpg?v=1787558241043"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.521Z"
+    },
+    {
+      "id": "teelab-81402946",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton Star Made Long Sleeve TS400",
+      "price": 350000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts400",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-07t091633-490.jpg?v=1789469523790",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-07t095136-112.jpg?v=1789469524803"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.521Z"
+    },
+    {
+      "id": "teelab-81215589",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Slub-Cotton Seagull Tee TS413",
+      "price": 400000,
+      "originalPrice": 500000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts413",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-24t150043-917.jpg?v=1787559829433",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-24t150435-203.jpg?v=1787559830597"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.521Z"
+    },
+    {
+      "id": "teelab-81215586",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Slub-Cotton Mallard Tee TS414",
+      "price": 400000,
+      "originalPrice": 500000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts414",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-24t150157-941.jpg?v=1787559908237",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-24t150435-203-905aa176-7a8d-4b8f-9854-0829f6d115c4.jpg?v=1787559909150"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.522Z"
+    },
+    {
+      "id": "teelab-81182931",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Slub-Cotton Bear Tee TS412",
+      "price": 400000,
+      "originalPrice": 500000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts412",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-24t150235-567.jpg?v=1787559956353",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-24t150435-203-ed5787e3-e29a-4e43-97c7-4defd25ff75e.jpg?v=1787559957470"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.522Z"
+    },
+    {
+      "id": "teelab-81182899",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Slub-Cotton Bunny Tee TS411",
+      "price": 400000,
+      "originalPrice": 500000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts411",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-24t150303-374.jpg?v=1787560045370",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-24t150435-203-b0a62594-b71d-45a9-b11a-36c091931498.jpg?v=1787560046407"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.522Z"
+    },
+    {
+      "id": "teelab-81182868",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Slub-Cotton Tiger Tee TS410",
+      "price": 400000,
+      "originalPrice": 500000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts410",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-24t150338-005.jpg?v=1787560089263",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-24t150435-203-5d508c30-301f-4d6e-98ff-8f830c57bf2e.jpg?v=1787560090550"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.522Z"
+    },
+    {
+      "id": "teelab-81182842",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Slub-Cotton Turtle Tee TS409",
+      "price": 400000,
+      "originalPrice": 500000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts409",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-24t150119-861.jpg?v=1787560140823",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-24t150435-203-4963ceb0-e704-4b3d-8c23-4866b460e0f2.jpg?v=1787560141957"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.523Z"
+    },
+    {
+      "id": "teelab-81182814",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Slub-Cotton Leopard Tee TS408",
+      "price": 400000,
+      "originalPrice": 500000,
+      "currency": "VND",
+      "url": "https://teelab.vn/tee-ts408",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-24t150401-963.jpg?v=1787560186253",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-24t150435-203-79503a5f-ac54-4a0d-bf78-6892dfa91133.jpg?v=1787560187553"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.523Z"
+    },
+    {
+      "id": "teelab-81182754",
+      "brand": "Teelab",
+      "name": "Teelab Alter Wide Snow-Melt Premium Pants PS145",
+      "price": 350000,
+      "originalPrice": 500000,
+      "currency": "VND",
+      "url": "https://teelab.vn/pants-ps145",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-01t105905-605.jpg?v=1788236384207",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-01t105900-149.jpg?v=1788236384930"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.523Z"
+    },
+    {
+      "id": "teelab-81182192",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Cotton Error-Pocket Tee TS405",
+      "price": 250000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/a-o-thun-ts405",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-25t140356-758.jpg?v=1787642093993",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-08-25t140634-919.jpg?v=1787642095720"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.524Z"
+    },
+    {
+      "id": "teelab-81065172",
+      "brand": "Teelab",
+      "name": "Teelab Alter Long-Sleeve Oxford Stripe Shirt SS096",
+      "price": 320000,
+      "originalPrice": 500000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-so-mi-ss096",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-06-05t151050-088.jpg?v=1780649276070",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-06-05t151058-504.jpg?v=1780649276070"
+      ],
+      "category": "top",
+      "subcategory": "shirt",
+      "gender": "unisex",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.524Z"
+    },
+    {
+      "id": "teelab-81064951",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Striped Basic Tee TS403",
+      "price": 250000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-ts403",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t141347-645.jpg?v=1787642223337",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t141400-927.jpg?v=1787642225173"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "basic"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.524Z"
+    },
+    {
+      "id": "teelab-81064867",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Striped Basic Tee TS402",
+      "price": 280000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-tay-dai-ts402",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t141033-981.jpg?v=1787642308500",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t141005-425.jpg?v=1787642308500"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "basic",
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.524Z"
+    },
+    {
+      "id": "teelab-80929162",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton Ring Tee TS398",
+      "price": 250000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-ts398",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t141257-961.jpg?v=1787642402517",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t141239-305.jpg?v=1787642403520"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "navy"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.525Z"
+    },
+    {
+      "id": "teelab-80815873",
+      "brand": "Teelab",
+      "name": "Teelab Alter Long-Sleeve Striped Grunge Tee TS401",
+      "price": 320000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-tay-dai-ts401",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t144233-264.jpg?v=1787643862383",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t144251-373.jpg?v=1787643863803"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.525Z"
+    },
+    {
+      "id": "teelab-80689695",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Pique Resort Polo AP078",
+      "price": 350000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-polo-ap078",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t160647-000.jpg?v=1787649176593",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t160658-119.jpg?v=1787649177470"
+      ],
+      "category": "top",
+      "subcategory": "polo",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "smart-casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.525Z"
+    },
+    {
+      "id": "teelab-80688189",
+      "brand": "Teelab",
+      "name": "Teelab Alter Jersey Cotton-Mesh Number-8 Tee TS404",
+      "price": 280000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-ts404",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-56-d806ced5-8b4a-49bb-ae2f-7a93f665545c.jpg?v=1781489991763",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-57-01b57902-25ef-4849-a75d-90955e411c0d.jpg?v=1781489991763"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.526Z"
+    },
+    {
+      "id": "teelab-80688090",
+      "brand": "Teelab",
+      "name": "Teelab Alter Wide Denim Wide-Leg Pants PS144",
+      "price": 350000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/quan-jeans-ps144",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-72.jpg?v=1781659551447",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-71.jpg?v=1781659552527"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Denim",
+      "tags": [
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.526Z"
+    },
+    {
+      "id": "teelab-80583464",
+      "brand": "Teelab",
+      "name": "Teelab Alter Cuban Oxford Stripe Shirt SS095",
+      "price": 280000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-so-mi-ss095",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t161908-786.jpg?v=1787649616463",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t161847-848.jpg?v=1787649617487"
+      ],
+      "category": "top",
+      "subcategory": "shirt",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.526Z"
+    },
+    {
+      "id": "teelab-80570196",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton Tencel Tee TS397",
+      "price": 350000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-ts397",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-11t102605-405.jpg?v=1789097176677",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2026-09-11t100940-160.jpg?v=1789097176677"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.527Z"
+    },
+    {
+      "id": "teelab-80417639",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton Ivy-League Tee TS396",
+      "price": 380000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-ts396",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t143127-266.jpg?v=1787643143633",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t143053-281.jpg?v=1787643144727"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "navy",
+        "pink",
+        "purple"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.528Z"
+    },
+    {
+      "id": "teelab-80417540",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton Ti-Star-Camo Tee TS395",
+      "price": 380000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-ts395",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t152631-817.jpg?v=1787646443200",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t152553-482.jpg?v=1787646467383"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "green",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.529Z"
+    },
+    {
+      "id": "teelab-80275562",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton Ivy League Tee TS392",
+      "price": 250000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-ts392",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t151812-824.jpg?v=1787646577103",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t151842-089.jpg?v=1787646578043"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.530Z"
+    },
+    {
+      "id": "teelab-79915274",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Windbreaker Gingham Jacket AK145",
+      "price": 550000,
+      "originalPrice": 800000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-khoac-ak145",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-09-01t143021-226.jpg?v=1788248491843",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-09-01t143014-509.jpg?v=1788248492677"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.531Z"
+    },
+    {
+      "id": "teelab-79851516",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton Sakura Tee TS394",
+      "price": 280000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-ts394",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-26t143156-115.jpg?v=1787729536307",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-26t143107-413.jpg?v=1787729537280"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.531Z"
+    },
+    {
+      "id": "teelab-79719167",
+      "brand": "Teelab",
+      "name": "Teelab Alter Jogger Khaki Resort Shorts SH012",
+      "price": 250000,
+      "originalPrice": 400000,
+      "currency": "VND",
+      "url": "https://teelab.vn/quan-short-sh012",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-05-29t174331-884.jpg?v=1780053605590",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-05-29t174338-477.jpg?v=1785893459560"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "beige",
+        "khaki"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "chino"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.532Z"
+    },
+    {
+      "id": "teelab-79719083",
+      "brand": "Teelab",
+      "name": "Teelab Alter Jogger Khaki Essentials Shorts SH011",
+      "price": 250000,
+      "originalPrice": 400000,
+      "currency": "VND",
+      "url": "https://teelab.vn/quan-short-sh011",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-05-07t140241-955.jpg?v=1778137488500",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-05-07t140247-205.jpg?v=1785893558890"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "navy",
+        "green",
+        "beige",
+        "khaki"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "basic",
+        "chino"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.532Z"
+    },
+    {
+      "id": "teelab-79519025",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversize Cotton TI-STAR-Flame Tee TS385",
+      "price": 350000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-ts385",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t152049-320.jpg?v=1787646754447",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-25t152114-632.jpg?v=1787646755533"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.532Z"
+    },
+    {
+      "id": "teelab-79514143",
+      "brand": "Teelab",
+      "name": "Teelab Alter Loose Denim Essentials Pants PS140",
+      "price": 380000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://teelab.vn/quan-jeans-ps140",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-51-fb2ebdcf-8f0d-4579-95ed-94b76711732e.jpg?v=1781250022830",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-52-aa376afc-a825-4c60-b9a9-a2ea908544e2.jpg?v=1781250022830"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Denim",
+      "tags": [
+        "oversize",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.533Z"
+    },
+    {
+      "id": "teelab-79285246",
+      "brand": "Teelab",
+      "name": "Teelab Alter Boxy Cotton Heart Star Tee TS391",
+      "price": 250000,
+      "originalPrice": 400000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-ts391",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-97-25acb902-d953-4dc5-96c0-7ecb63c7bf71.jpg?v=1787729868577",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-98-1481c121-4cf7-4abf-956c-bae2b9cfd49d.jpg?v=1787729869763"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.533Z"
+    },
+    {
+      "id": "teelab-79195315",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Denim Tapered Pants PS142",
+      "price": 350000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/quan-jeans-ps142",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-04-27t172515-049.jpg?v=1777360967820",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-04-27t172518-557.jpg?v=1777360967820"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Denim",
+      "tags": [
+        "oversize",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.533Z"
+    },
+    {
+      "id": "teelab-78790381",
+      "brand": "Teelab",
+      "name": "Teelab Alter Straight Denim Solid Pants PS143",
+      "price": 380000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/quan-jeans-ps143",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-79-4353885e-e848-4d16-a40d-d31105f71661.jpg?v=1776759968403",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-80-71d8dd4d-7285-4c5b-8e51-0356ef892846.jpg?v=1776759968403"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Denim",
+      "tags": [
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.534Z"
+    },
+    {
+      "id": "teelab-78681888",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton TI STAR Leo Pattern Tee TS387",
+      "price": 350000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-ts387",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-99-fd8def71-2f5a-48f9-a5c3-3fb0cc3431d5.jpg?v=1787730073533",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-100-0c5e2e4d-1e5d-4a3a-af4b-6bab08583dfa.jpg?v=1787730074173"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.534Z"
+    },
+    {
+      "id": "teelab-78681691",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton TI STAR Leopard Tee TS383",
+      "price": 350000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-ts383",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t144641-509.jpg?v=1787730416390",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t144319-295.jpg?v=1787730416390"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy",
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.535Z"
+    },
+    {
+      "id": "teelab-78266028",
+      "brand": "Teelab",
+      "name": "Teelab Alter Cuban Oxford Essentials Shirt SS093",
+      "price": 280000,
+      "originalPrice": 400000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-so-mi-ss093",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-25t162655-176.jpg?v=1787650051527",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-98-081d5e8e-189b-4886-9840-ce37ba39ead7.jpg?v=1787650060120"
+      ],
+      "category": "top",
+      "subcategory": "shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "blue",
+        "gray",
+        "brown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.535Z"
+    },
+    {
+      "id": "teelab-78071048",
+      "brand": "Teelab",
+      "name": "Teelab Alter Jogger Fleece TL Embroidery Shorts SH009",
+      "price": 220000,
+      "originalPrice": 350000,
+      "currency": "VND",
+      "url": "https://teelab.vn/quan-short-h009",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-70.jpg?v=1776402315353",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-71.jpg?v=1785893689663"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Nỉ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.536Z"
+    },
+    {
+      "id": "teelab-78050670",
+      "brand": "Teelab",
+      "name": "Teelab Alter Relaxed Fleece TI STAR Shorts SH004",
+      "price": 280000,
+      "originalPrice": 350000,
+      "currency": "VND",
+      "url": "https://teelab.vn/quan-short-sh004",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-74.jpg?v=1776420520607",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-67.jpg?v=1785893822853"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.536Z"
+    },
+    {
+      "id": "teelab-78032265",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Cotton Embossed Tee TS380",
+      "price": 280000,
+      "originalPrice": 400000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-ts380",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t151034-564.jpg?v=1787732323603",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t151040-128.jpg?v=1787732334323"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.536Z"
+    },
+    {
+      "id": "teelab-78031932",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Denim Essentials Shorts SH007",
+      "price": 300000,
+      "originalPrice": 350000,
+      "currency": "VND",
+      "url": "https://teelab.vn/quan-short-sh007",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-56.jpg?v=1776329847260",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-57.jpg?v=1785893852663"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Denim",
+      "tags": [
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.537Z"
+    },
+    {
+      "id": "teelab-77876436",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton TI STAR Sakura Tee TS381",
+      "price": 350000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-ts381",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t145200-833.jpg?v=1787730756457",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t145208-255.jpg?v=1787730757347"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.537Z"
+    },
+    {
+      "id": "teelab-77254694",
+      "brand": "Teelab",
+      "name": "Teelab Alter Long Sleeve Oxford Essentials Shirt SS092",
+      "price": 300000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-so-mi-ss092",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-67.jpg?v=1778730584977",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-9.jpg?v=1780990882020"
+      ],
+      "category": "top",
+      "subcategory": "shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "blue",
+        "gray",
+        "brown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.538Z"
+    },
+    {
+      "id": "teelab-77227785",
+      "brand": "Teelab",
+      "name": "Teelab Alter Regular Fleece TI STAR Shorts SH005",
+      "price": 250000,
+      "originalPrice": 350000,
+      "currency": "VND",
+      "url": "https://teelab.vn/quan-short-sh005",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-25-5b768ca8-5022-4515-a3fc-61ed05492f59.jpg?v=1776850107577",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-26-16770452-5cfc-4896-9ddb-c8301f208111.jpg?v=1776850108573"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.538Z"
+    },
+    {
+      "id": "teelab-77158492",
+      "brand": "Teelab",
+      "name": "Teelab Alter Boxy Cotton World Tour Hoodie HD139",
+      "price": 400000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-hoodie-hd139",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-99-ef601a95-9eab-4ff9-b5a1-5baad0c369fc.jpg?v=1787709209817",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-98-839ae9a1-341a-46c7-bea7-4ce0ddc80f3c.jpg?v=1787709215510"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "navy",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.538Z"
+    },
+    {
+      "id": "teelab-77066433",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Windbreaker Essentials Shorts SH006",
+      "price": 220000,
+      "originalPrice": 350000,
+      "currency": "VND",
+      "url": "https://teelab.vn/quan-short-sh006",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-14.jpg?v=1775731474453",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-15-0acafeba-8575-4fd6-aadb-d6b7d3d717d1.jpg?v=1775731475387"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.539Z"
+    },
+    {
+      "id": "teelab-77056824",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Denim Pants PS134",
+      "price": 300000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/quan-jeans-ps134",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-23-beb1136f-c219-4425-b7d8-7e0a3472629e.jpg?v=1776849126233",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-22-cd54347d-c761-4bcd-9f3d-8805893006b8.jpg?v=1785894211263"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Denim",
+      "tags": [
+        "oversize",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.539Z"
+    },
+    {
+      "id": "teelab-76971628",
+      "brand": "Teelab",
+      "name": "Teelab Alter Boxy Cotton Wash Tee TS367",
+      "price": 250000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-ts367",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t145436-003-copy.jpg?v=1787731069473",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t145432-162-copy.jpg?v=1787731070750"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "gray",
+        "brown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.539Z"
+    },
+    {
+      "id": "teelab-76666794",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton Solid Tee TS382",
+      "price": 200000,
+      "originalPrice": 400000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-tron-ts382",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t150209-607.jpg?v=1787731551247",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t150218-928.jpg?v=1787731552160"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "navy",
+        "beige",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.540Z"
+    },
+    {
+      "id": "teelab-76664286",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Fleece World Tour Shorts SH003",
+      "price": 220000,
+      "originalPrice": 350000,
+      "currency": "VND",
+      "url": "https://teelab.vn/quan-short-sh003",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-32.jpg?v=1776853418833",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-33.jpg?v=1785893911837"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "gray",
+        "brown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.540Z"
+    },
+    {
+      "id": "teelab-76664061",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Fleece World Tour Shorts SH002",
+      "price": 250000,
+      "originalPrice": 350000,
+      "currency": "VND",
+      "url": "https://teelab.vn/quan-short-sh002",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-77.jpg?v=1775205440170",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-34.jpg?v=1785894001553"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "navy",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.540Z"
+    },
+    {
+      "id": "teelab-76609979",
+      "brand": "Teelab",
+      "name": "Teelab Alter Relaxed Cotton Stripe Polo AP076",
+      "price": 280000,
+      "originalPrice": 400000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-polo-ke-soc-ap076",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-47.jpg?v=1775109914177",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-48.jpg?v=1775110365710"
+      ],
+      "category": "top",
+      "subcategory": "polo",
+      "gender": "unisex",
+      "colors": [
+        "navy",
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton",
+        "smart-casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.540Z"
+    },
+    {
+      "id": "teelab-76604422",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Oxford TI STAR Shirt SS089",
+      "price": 280000,
+      "originalPrice": 400000,
+      "currency": "VND",
+      "url": "https://teelab.vn/so-mi-soc-ngan-tay-ss089",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-34.jpg?v=1774954164860",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-36.jpg?v=1774954198547"
+      ],
+      "category": "top",
+      "subcategory": "shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.541Z"
+    },
+    {
+      "id": "teelab-76492301",
+      "brand": "Teelab",
+      "name": "Teelab Alter Cuban Oxford Stripe Shirt SS091",
+      "price": 280000,
+      "originalPrice": 400000,
+      "currency": "VND",
+      "url": "https://teelab.vn/so-mi-tay-ngan-ss091",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-10-7ec60e37-7c4b-4de3-a2a4-c471c16a467c.jpg?v=1774920306967",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-10-fe5beb4a-cd72-4ea1-87e0-6e7d7fad9db9.jpg?v=1785897908113"
+      ],
+      "category": "top",
+      "subcategory": "shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.541Z"
+    },
+    {
+      "id": "teelab-76348453",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton Essentials Polo AP075",
+      "price": 220000,
+      "originalPrice": 400000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-polo-ap075",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-40.jpg?v=1774606682127",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-41.jpg?v=1774606682127"
+      ],
+      "category": "top",
+      "subcategory": "polo",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "navy",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton",
+        "smart-casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.541Z"
+    },
+    {
+      "id": "teelab-75948594",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton Essentials Tee TS379",
+      "price": 200000,
+      "originalPrice": 400000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-teelab-alter-oversize-cotton-in-essentials-unisex-ts379",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-37-7e54c044-ab7f-475e-a3cb-cf8f4399d3cb.jpg?v=1774955614723",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-15.jpg?v=1778832456797"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "navy",
+        "green",
+        "red",
+        "beige",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.541Z"
+    },
+    {
+      "id": "teelab-75948536",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton World Tour Japan Tee TS366",
+      "price": 250000,
+      "originalPrice": 400000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-teelab-alter-oversize-cotton-in-theu-world-tour-japan-unisex-ts366",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-26.jpg?v=1774949864747",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-25.jpg?v=1778832457103"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.542Z"
+    },
+    {
+      "id": "teelab-75948503",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Cotton World Tour Check Tee TS364",
+      "price": 250000,
+      "originalPrice": 400000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-teelab-alter-oversize-cotton-in-lu-a-world-tour-check-unisex-ts364",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-24.jpg?v=1774949274857",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-23.jpg?v=1775640750177"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "oversize",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.542Z"
+    },
+    {
+      "id": "teelab-74269101",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Denim Solid Shorts SH001",
+      "price": 280000,
+      "originalPrice": 400000,
+      "currency": "VND",
+      "url": "https://teelab.vn/quan-local-brand-unisex-teelab-short-jeans-wash-sh001",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-69-d63d0249-15bc-4cb5-94cf-e2477803511e.jpg?v=1776854084800",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-72-c9f894a4-3ece-4bb8-9f28-39cde598a32f.jpg?v=1785894050417"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "yellow"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Denim",
+      "tags": [
+        "oversize",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.542Z"
+    },
+    {
+      "id": "teelab-73977184",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Windbreaker Signature Jacket AK042",
+      "price": 400000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-khoac-teelab-signature-windbreaker-ak042",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-3.jpg?v=1775623214960",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-2-a40482b0-3aae-4d51-9cb0-908295ce2c67.jpg?v=1775623215843"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.543Z"
+    },
+    {
+      "id": "teelab-73977166",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Windbreaker Studio A/W Jacket AK055",
+      "price": 400000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-khoac-gio-unisex-teelab-studio-winter-a-w-2022-winter-jacket-ak055",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-4-19abf1c9-d532-4b8f-9641-a1364526e228.jpg?v=1775623461477",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-5-791d6713-e677-413a-930f-64541176ee2e.jpg?v=1775623461477"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.543Z"
+    },
+    {
+      "id": "teelab-73977158",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Windbreaker Active Jacket AK063",
+      "price": 400000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-khoac-gio-teelab-active-jacket-ak063",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-38-1767066352357-17337aec-79ef-4279-8f59-0749113bc797.jpg?v=1778832458677",
+        "https://bizweb.dktcdn.net/100/575/016/products/web2000x2500px40.jpg?v=1775623535967"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.543Z"
+    },
+    {
+      "id": "teelab-73977141",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Windbreaker Legacy Jacket AK074",
+      "price": 400000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-khoac-gio-teelab-local-brand-unisex-legacy-line-jacket-ak074",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ak074.jpg?v=1775641055047",
+        "https://bizweb.dktcdn.net/100/575/016/products/ak074-1.jpg?v=1775641055870"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.544Z"
+    },
+    {
+      "id": "teelab-73977081",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Oxford Long Sleeve Shirt SS066",
+      "price": 250000,
+      "originalPrice": 350000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-so-mi-dai-tay-teelab-local-brand-unisex-oxford-shirts-ss066",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-4.jpg?v=1775643317563",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066.jpg?v=1775643318580"
+      ],
+      "category": "top",
+      "subcategory": "shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.545Z"
+    },
+    {
+      "id": "teelab-73977071",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Felt Academy Varsity AK114",
+      "price": 420000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-khoac-teelab-local-brand-unisex-academy-colorific-varsity-ak114",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-13.jpg?v=1775705092187",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-17.jpg?v=1775705092937"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy",
+        "green",
+        "red"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.546Z"
+    },
+    {
+      "id": "teelab-73977069",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Felt Classic Varsity AK117",
+      "price": 420000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-khoac-local-brand-unisex-teelab-classic-varsity-ak117",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-20.jpg?v=1775705666137",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-23.jpg?v=1778832459940"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "beige",
+        "gray"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.547Z"
+    },
+    {
+      "id": "teelab-73977066",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Windbreaker Diode Jacket AK120",
+      "price": 420000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-khoac-gio-local-brand-unisex-teelab-diode-insulated-jacket-ak120",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-25.jpg?v=1775707688737",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-26.jpg?v=1775707689550"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "gray",
+        "brown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.548Z"
+    },
+    {
+      "id": "teelab-73977063",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Wool Simple Love Cardigan AK125",
+      "price": 450000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-khoac-len-local-brand-unisex-teelab-simple-love-with-teelab-ak125",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-78-62aa9ffd-5dfe-478f-a6bd-af8342729c11.jpg?v=1776855168610",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-79-03670a15-425a-4291-b577-d6852541ea22.jpg?v=1785894509523"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Len",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.548Z"
+    },
+    {
+      "id": "teelab-73977061",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Felt Preppy Varsity AK122",
+      "price": 450000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-khoac-local-brand-unisex-teelab-preppy-varsity-jacket-ak122",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-80-b3bb1c54-d52c-4cc7-ae33-a7a1297cce2c.jpg?v=1776855270827",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-82-55490ca8-c846-4733-9149-5880a254ef47.jpg?v=1776855270827"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "navy",
+        "gray"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.548Z"
+    },
+    {
+      "id": "teelab-73977048",
+      "brand": "Teelab",
+      "name": "Teelab Alter Boxy Cotton Striped Tee TS328",
+      "price": 250000,
+      "originalPrice": 350000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-local-brand-unisex-teelab-striped-tshirt-ts328",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-04-23t172810-224.jpg?v=1776940358397",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-04-23t172815-586.jpg?v=1776940358410"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy",
+        "red"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.549Z"
+    },
+    {
+      "id": "teelab-73977034",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Denim Wide Leg Pants PS116",
+      "price": 280000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/quan-dai-local-brand-unisex-teelab-jeans-ong-rong-ps116",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web2000x2500px4394a9c6b6875e4c.jpg?v=1779263097010",
+        "https://bizweb.dktcdn.net/100/575/016/products/web2000x2500px66.png?v=1785894378507"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "beige",
+        "gray",
+        "brown"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Denim",
+      "tags": [
+        "oversize",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.549Z"
+    },
+    {
+      "id": "teelab-73968095",
+      "brand": "Teelab",
+      "name": "Teelab Alter Semi Fleece Polo Sweater HD125",
+      "price": 400000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-polo-sweatshirt-teelab-basic-hd125",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-26t085242-811.jpg?v=1787709413253",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-08-26t085645-583.jpg?v=1787709414990"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy",
+        "red",
+        "beige",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Nỉ",
+      "tags": [
+        "smart-casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.549Z"
+    },
+    {
+      "id": "teelab-73965938",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Fleece Classic Pants PS125",
+      "price": 280000,
+      "originalPrice": 400000,
+      "currency": "VND",
+      "url": "https://teelab.vn/quan-ni-local-brand-unisex-teelab-classic-sweatpants-ps125",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-05-25t151920-727.jpg?v=1779697202587",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-05-25t151916-385.jpg?v=1785894333990"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "nỉ",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.550Z"
+    },
+    {
+      "id": "teelab-73965396",
+      "brand": "Teelab",
+      "name": "Teelab Alter Boxy Fleece Time Hoodie HD128",
+      "price": 450000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-hoodie-local-brand-unisex-teelab-time-hd128",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t092413-618.jpg?v=1787711142567",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t092317-637.jpg?v=1787711143807"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "beige",
+        "gray"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Nỉ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.550Z"
+    },
+    {
+      "id": "teelab-73965114",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Fleece World Tour Hoodie HD124",
+      "price": 450000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-hoodie-teelab-world-tour-hd124",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t091537-196.jpg?v=1787711269167",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t091631-880.jpg?v=1787711270133"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Nỉ",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.550Z"
+    },
+    {
+      "id": "teelab-73963884",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Windbreaker World Tour Jacket AK135",
+      "price": 450000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-khoac-bomber-du-local-brand-unisex-teelab-world-tour-ak135",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-05-25t144823-240.jpg?v=1779695458797",
+        "https://bizweb.dktcdn.net/100/575/016/products/ss066-2026-05-25t145042-530.jpg?v=1779695471023"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.550Z"
+    },
+    {
+      "id": "teelab-73963417",
+      "brand": "Teelab",
+      "name": "Teelab Alter Semi Fleece World Tour Hoodie HD130",
+      "price": 450000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-hoodie-local-brand-unisex-teelab-world-tour-hd130",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t091229-839.jpg?v=1787711394233",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t091145-989.jpg?v=1787711395590"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy",
+        "green",
+        "red",
+        "beige",
+        "gray"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Nỉ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.551Z"
+    },
+    {
+      "id": "teelab-73962856",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Windbreaker Alter Star Jacket AK138",
+      "price": 450000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-khoac-bomber-du-local-brand-unisex-teelab-alter-star-ak138",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ak138-den-1763975319278.jpg?v=1778832464247",
+        "https://bizweb.dktcdn.net/100/575/016/products/ak138-kem-1763975320702.jpg?v=1778832464247"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "beige"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.551Z"
+    },
+    {
+      "id": "teelab-73962822",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Windbreaker V Line Jacket AK140",
+      "price": 400000,
+      "originalPrice": 500000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-khoac-du-local-brand-unisex-teelab-v-line-ak140",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/ayr60375afix-6d9e0a6c-95e8-4e91-b98b-8f820bdd8836.jpg?v=1785894644197",
+        "https://bizweb.dktcdn.net/100/575/016/products/ayr60375-c2a4164f-47c4-480f-bd01-5ffea66c1e87.jpg?v=1785894645960"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.552Z"
+    },
+    {
+      "id": "teelab-73962607",
+      "brand": "Teelab",
+      "name": "Teelab Alter Semi Fleece Teddy Star Hoodie HD132",
+      "price": 450000,
+      "originalPrice": 560000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-hoodie-local-brand-unisex-chui-ni-bong-teelab-alter-teddy-hd132",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t092136-781.jpg?v=1787711575090",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t092053-923.jpg?v=1787711575957"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "navy",
+        "red",
+        "beige",
+        "gray"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Nỉ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.552Z"
+    },
+    {
+      "id": "teelab-73962468",
+      "brand": "Teelab",
+      "name": "Teelab Alter Boxy Knit Switzerland Sweater HD131",
+      "price": 450000,
+      "originalPrice": 600000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-sweater-local-brand-unisex-det-kim-thuy-si-teelab-world-tour-hd131",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t093606-463.jpg?v=1787712278327",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t093530-175.jpg?v=1787712279527"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "gray",
+        "brown"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "len",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.553Z"
+    },
+    {
+      "id": "teelab-73962285",
+      "brand": "Teelab",
+      "name": "Teelab Alter Semi Fleece Teddy Star Hoodie HD133",
+      "price": 480000,
+      "originalPrice": 700000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-hoodie-local-brand-unisex-raglan-teelab-teddy-alter-hd133",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-89-2f03d1f8-5a7d-4b48-9251-273abcf1746b-1766138316696.png?v=1778832465087",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-88-a06313b0-5734-42a3-a303-1ec6ec4e18ee-1766138318141.png?v=1778832465087"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "red"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Nỉ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.553Z"
+    },
+    {
+      "id": "teelab-73962165",
+      "brand": "Teelab",
+      "name": "Teelab Alter Semi Cotton World Tour Long Sleeve TS360",
+      "price": 300000,
+      "originalPrice": 400000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-soc-tay-dai-long-sleeve-boxy-teelab-world-tour-ts360",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web2000x2500px851649b1975f444f-19f9b8d3-a058-4aa3-908c-e03889474a61.jpg?v=1780115998980",
+        "https://bizweb.dktcdn.net/100/575/016/products/web2000x2500px93affcb9b483b4cf-c442f936-698d-4e55-87fe-6153839de939.jpg?v=1780116002493"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "navy",
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.553Z"
+    },
+    {
+      "id": "teelab-73962143",
+      "brand": "Teelab",
+      "name": "Teelab Alter Semi Cotton Teddy Star Long Sleeve TS362",
+      "price": 220000,
+      "originalPrice": 440000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-thun-soc-dai-tay-local-brand-unisex-teelab-teddy-alter-ts362",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-85-61f8ed8a-beac-4c9a-8e91-c4f8e92df6fd-1766137478151.png?v=1778832465257",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-84-09db044d-95ef-43fc-b0b5-ba20a823d263-1766137479162.png?v=1778832465257"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy",
+        "red"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.554Z"
+    },
+    {
+      "id": "teelab-73962017",
+      "brand": "Teelab",
+      "name": "Teelab Alter Semi Fleece Teddy Star Sweater HD134",
+      "price": 400000,
+      "originalPrice": 500000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-sweater-ni-bong-local-brand-unisex-teelab-teddy-alter-hd134",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t093954-118.jpg?v=1787712344437",
+        "https://bizweb.dktcdn.net/100/575/016/products/den-2026-08-26t094029-076.jpg?v=1787712345853"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "red",
+        "beige",
+        "gray"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Nỉ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.554Z"
+    },
+    {
+      "id": "teelab-73961782",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversized Premium Fleece Teddy Cardigan AK142",
+      "price": 450000,
+      "originalPrice": 500000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-cardigan-teelab-alter-oversize-ni-bong-premium-fleece-theu-teddy-alter-unisex-ak142",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-4-65df7727-24c8-48e9-bc6c-b7b5871bd71b-1768905547081.jpg?v=1778832465767",
+        "https://bizweb.dktcdn.net/100/575/016/products/web-2000-x-2500-px-3-df4503d9-b843-40ed-b1f9-90b3bbb341c3-1768905548041.jpg?v=1778832465767"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy",
+        "gray"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Nỉ",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.554Z"
+    },
+    {
+      "id": "teelab-73961534",
+      "brand": "Teelab",
+      "name": "Teelab Alter Oversize Fleece Signature Hoodie HD096",
+      "price": 400000,
+      "originalPrice": 499000,
+      "currency": "VND",
+      "url": "https://teelab.vn/ao-sweatshirt-local-brand-unisex-teelab-signature-sweatshirt-ver-2-hd096",
+      "images": [
+        "https://bizweb.dktcdn.net/100/575/016/products/than-3.jpg?v=1787712436943",
+        "https://bizweb.dktcdn.net/100/575/016/products/than.jpg?v=1787712444037"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "navy",
+        "red",
+        "beige",
+        "gray",
+        "pink"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Nỉ",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T18:01:16.555Z"
+    }
+  ]
+}

@@ -1,0 +1,5982 @@
+{
+  "brand": "dirtycoins",
+  "scrapedAt": "2026-09-23T17:59:26.602Z",
+  "totalProducts": 187,
+  "products": [
+    {
+      "id": "dirtycoins-1075963674",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DICO Gemstone Logo",
+      "price": 590000,
+      "originalPrice": 590000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dico-gemstone-logo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_c5be23e9b5c944e29874aadedc498faf.jpg",
+        "https://cdn.hstatic.net/products/200001142340/magnific_use-the-black-tshirt-refe_s7zrhajl8e_89a820eff03744b2b0c0c1be9272b9d5.png",
+        "https://cdn.hstatic.net/products/200001142340/magnific_use-the-white-tshirt-refe_lj2xhrhgv9_2f08ae7b78b945779afa108357ccaa50.png"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.921Z"
+    },
+    {
+      "id": "dirtycoins-1075963672",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Dico Bằng Black",
+      "price": 599000,
+      "originalPrice": 599000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dico-bang-black",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_bb860b766ba842fda243ffc4f1e0ac85.jpg",
+        "https://cdn.hstatic.net/products/200001142340/1a_b14fc04c1a704c0aa2dd1aca505b0ec3.jpg",
+        "https://cdn.hstatic.net/products/200001142340/7a_790388e726fd42e9b5b019c67e88e396.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.921Z"
+    },
+    {
+      "id": "dirtycoins-1075908140",
+      "brand": "Dirty Coins",
+      "name": "Quần Ngắn Dico Script Mesh",
+      "price": 620000,
+      "originalPrice": 620000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-ngan-dico-script-mesh",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/d__-_front_67ed5c15ee7e4614bb0ce3570c6ee7cc.jpg",
+        "https://cdn.hstatic.net/products/200001142340/68344319883116064_9158297976290573787_b9f449395a41c9860483a39a27194cdb_b6faac7daf65462fbd031791cfb27735.jpg",
+        "https://cdn.hstatic.net/products/200001142340/b_n_sao_c_a_img_9292__1__b1d415632c1445019b6820aa4583dd63.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "green",
+        "red",
+        "purple"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.921Z"
+    },
+    {
+      "id": "dirtycoins-1075908138",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Polo Dico Striped Star",
+      "price": 799000,
+      "originalPrice": 799000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-polo-dico-striped-star",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_6f1a961cb1e740cebc085d8c391b7d44.jpg",
+        "https://cdn.hstatic.net/products/200001142340/e4c4b177-66d5-46c9-973b-9d4f8ecb259a_528176697b0847748a8464fa882312a9.jpg",
+        "https://cdn.hstatic.net/products/200001142340/back_11690181d16e48589633db3bd492471d.jpg"
+      ],
+      "category": "top",
+      "subcategory": "polo",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "smart-casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.921Z"
+    },
+    {
+      "id": "dirtycoins-1075908137",
+      "brand": "Dirty Coins",
+      "name": "Áo Sơ Mi Dico Japanese Caro",
+      "price": 760000,
+      "originalPrice": 760000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-so-mi-dico-japanese-caro",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_d26f656d4fb043b0aa83915e576a831f.jpg",
+        "https://cdn.hstatic.net/products/200001142340/magnific_use-the-beige-shirt-refer_tcrbzszmzj_5b87936b5c0445489db2d528209443ed.png",
+        "https://cdn.hstatic.net/products/200001142340/magnific_realistic-smartphone-prod_if1x39gtve_90c711343919490aad620af87eca0299.png"
+      ],
+      "category": "top",
+      "subcategory": "shirt",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "beige"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.921Z"
+    },
+    {
+      "id": "dirtycoins-1075908136",
+      "brand": "Dirty Coins",
+      "name": "Áo Khoác Hoodie DirtyCoins Starlight",
+      "price": 1090000,
+      "originalPrice": 1090000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-hoodie-dirtycoins-starlight",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_1b3824861f1c4f36882724a25d701f37.jpg",
+        "https://cdn.hstatic.net/products/200001142340/4__2__e306ceb398904e5a9e0d36a04fa1e200.jpg",
+        "https://cdn.hstatic.net/products/200001142340/back_e48df28efa004f03af0dece6ad61d156.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "navy"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.921Z"
+    },
+    {
+      "id": "dirtycoins-1075559686",
+      "brand": "Dirty Coins",
+      "name": "Quần Ngắn Dù Dico Crinkled Script",
+      "price": 569000,
+      "originalPrice": 569000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-ngan-du-dico-crinkled-script",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_b553fa71631a49efb3beaa78772bb78b.jpg",
+        "https://cdn.hstatic.net/products/200001142340/hf_20260915_065113_ab3adf01-caae-4108-a980-da1d6cf40f1e_a19ecaad9fc04d8384bb53a43eba272d.png",
+        "https://cdn.hstatic.net/products/200001142340/magnific_lay-the-exact-referenced-_huxjhfgvql_3483ac782dc041e390fae92b768de923.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.921Z"
+    },
+    {
+      "id": "dirtycoins-1075559685",
+      "brand": "Dirty Coins",
+      "name": "Quần Ngắn Dù Dico Crinkled Outline",
+      "price": 569000,
+      "originalPrice": 569000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-ngan-du-dico-crinkled-outline",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_1ac3e0e09e4a40fcb2ebe1bdfe2166df.jpg",
+        "https://cdn.hstatic.net/products/200001142340/back_047b99e8fd2542babe7c3eabcb8eebd1.jpg",
+        "https://cdn.hstatic.net/products/200001142340/03_517309fdae574d4284d60005f3aebdb0.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "red"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.922Z"
+    },
+    {
+      "id": "dirtycoins-1075559683",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Tay Dài DICO Stardust",
+      "price": 550000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-tay-dai-dico-stardust",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_4afb5874eaee4bb59e81cb1418c5cafc.jpg",
+        "https://cdn.hstatic.net/products/200001142340/b_n_sao_c_a_img_8270__1__cffebccf22e44e729fae20ba34f6a5ff.jpg",
+        "https://cdn.hstatic.net/products/200001142340/b_n_sao_c_a_img_8748_f95dcc896aae4d6d84b86f41e290b6c1.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.922Z"
+    },
+    {
+      "id": "dirtycoins-1075559682",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Tay Dài DICO Meteor",
+      "price": 599000,
+      "originalPrice": 599000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-tay-dai-dico-meteor",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_27fc2fd74e654585aa1a4a47fc6075f2.jpg",
+        "https://cdn.hstatic.net/products/200001142340/1__1__4e4c0416d7b7461d9276324a54f005cf.jpg",
+        "https://cdn.hstatic.net/products/200001142340/7_0c1bb1683b64439d8b095e2aa897f627.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.922Z"
+    },
+    {
+      "id": "dirtycoins-1075559679",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DICO Silver Logo",
+      "price": 470000,
+      "originalPrice": 470000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dico-sliver-logo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/back_-_white_13b2a461d74841deab8d7aeda9d5dbcc.jpg",
+        "https://cdn.hstatic.net/products/200001142340/b_n_sao_c_a_img_8737_54c3d07fb22940138e7908e0ff46d769.jpg",
+        "https://cdn.hstatic.net/products/200001142340/b_n_sao_c_a_img_8761_0408197d401345b5b1f0b2d2047b5115.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.922Z"
+    },
+    {
+      "id": "dirtycoins-1075193435",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Regular Dico Puppies Golf Club",
+      "price": 520000,
+      "originalPrice": 520000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-regular-dico-puppies-golf-club",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__23__81bce6a05c344669ae471d8515483217.jpg",
+        "https://cdn.hstatic.net/products/200001142340/b_n_sao_c_a_img_0799_c66a8ad84dee48cc8cc90dfe748aef24.jpg",
+        "https://cdn.hstatic.net/products/200001142340/b_n_sao_c_a_img_0786_1a3daf1a8725453c901c93a3d3c4ed14.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.922Z"
+    },
+    {
+      "id": "dirtycoins-1075193434",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Regular Dico Fluffy Print",
+      "price": 450000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-regular-dico-fluffy-print",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__28__49959928285c4f43b3eed136ed64c304.jpg",
+        "https://cdn.hstatic.net/products/200001142340/dsc01798_f6795d3f7ae34b3da2bad899d1217cd0.jpg",
+        "https://cdn.hstatic.net/products/200001142340/dsc01592_87d56cfa438942beb1979b00379355ab.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.922Z"
+    },
+    {
+      "id": "dirtycoins-1074918905",
+      "brand": "Dirty Coins",
+      "name": "Áo thun DC x THÁI VG \"LÀM MẠNH\"",
+      "price": 450000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dc-x-thai-vg-lam-manh",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/l_m_m_nh_2_0990ae376b5148e389a437f4badb4dca.jpg",
+        "https://cdn.hstatic.net/products/200001142340/a9lm_76f2f9d2288746a5a9fedf0a414deb39.jpg",
+        "https://cdn.hstatic.net/products/200001142340/a2lm-compressed_ba917f133bae453a90163f41a0617a99.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.922Z"
+    },
+    {
+      "id": "dirtycoins-1074476979",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Slub Tay Dài Dico Y Logo",
+      "price": 599000,
+      "originalPrice": 599000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-slub-tay-dai-dico-y-logo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/m_t_tr__c__7__3b5b44cfa03e48f8bb50915cdb89527a.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_1_725641208_997119609707479_1405575553772651310_n_c65ad97612be4b56a42d02315318b9b8.jpg",
+        "https://cdn.hstatic.net/products/200001142340/m_t_sau__7__dbfb259de4ae438eb503e5ed186326ba.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.922Z"
+    },
+    {
+      "id": "dirtycoins-1074476978",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DirtyCoins Soccer Jersey YOTH",
+      "price": 620000,
+      "originalPrice": 620000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-soccer-jersey-yoth",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__14__0c95854be080490eb3c32f6e3d5d8abf.jpg",
+        "https://cdn.hstatic.net/products/200001142340/dc_15-60905__1__8bbe8907eec545dead70f83d5eaee9d5.jpg",
+        "https://cdn.hstatic.net/products/200001142340/dc_15-60947__1__84aa66d728664da382df333725174cb1.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.923Z"
+    },
+    {
+      "id": "dirtycoins-1074476977",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DirtyCoins Soccer Jersey Street Cult",
+      "price": 585000,
+      "originalPrice": 585000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-soccer-jersey-street-cult",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_4_a7d2b02eaa7946cf996bd54f557bdcfe.jpg",
+        "https://cdn.hstatic.net/products/200001142340/dc_15-61068__1__ca4d5588f2a84c1a8f44c1f4a0211465.jpg",
+        "https://cdn.hstatic.net/products/200001142340/b_n_sao_c_a_img_4460_c249dea821b843158aebb5a0a058961e.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "yellow"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "",
+      "tags": [
+        "streetwear"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.923Z"
+    },
+    {
+      "id": "dirtycoins-1074476976",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DirtyCoins Soccer Jersey Sparkle",
+      "price": 595000,
+      "originalPrice": 595000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-soccer-jersey-sparkle",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_1_1bca511b3cf148779972fa0e8b2b58a3.jpg",
+        "https://cdn.hstatic.net/products/200001142340/b_n_sao_c_a_img_5242-compressed_86ccebb5a9a54db7878592ed8a44f6ec.jpg",
+        "https://cdn.hstatic.net/products/200001142340/b_n_sao_c_a_img_9170_b3698853eb5c45aa89ad8ebc2b8ecb7f.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.923Z"
+    },
+    {
+      "id": "dirtycoins-1074476975",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DirtyCoins Soccer Jersey Checker",
+      "price": 585000,
+      "originalPrice": 585000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-soccer-jersey-checker",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_3_15e2d9d394e1430fa3c8aed99631db32.jpg",
+        "https://cdn.hstatic.net/products/200001142340/dc_15-61125__1__ab4ec0a6222942b8ab2f154a6f288583.jpg",
+        "https://cdn.hstatic.net/products/200001142340/dc_15-61158__1__b2086a05a251440ebda98ef1fadcfdcc.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "red"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.923Z"
+    },
+    {
+      "id": "dirtycoins-1074476974",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DirtyCoins Soccer Jersey Bold Stripe",
+      "price": 615000,
+      "originalPrice": 615000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-soccer-jersey-bold-stripe",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_2_ae4dc71731d640c6a6847cce14475cce.jpg",
+        "https://cdn.hstatic.net/products/200001142340/dc_15-60515_a32996ffbc664ea6ad9598d4fb68b190.jpg",
+        "https://cdn.hstatic.net/products/200001142340/dc_15-60501_5915919a403e44e986918ac5cc8fbd66.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.924Z"
+    },
+    {
+      "id": "dirtycoins-1074275357",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Relaxed Boxy DC Wavy Logo",
+      "price": 450000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-relaxed-boxy-dc-wavy-logo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/font__1__8cc5a55b1af4439f8ab9485d0bca4a97.jpg",
+        "https://cdn.hstatic.net/products/200001142340/front__31__85be5e478c1b443cab70e96ae415b337.jpg",
+        "https://cdn.hstatic.net/products/200001142340/back__27__39583aea812647faa2d5e9ba5bf88177.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.924Z"
+    },
+    {
+      "id": "dirtycoins-1074244853",
+      "brand": "Dirty Coins",
+      "name": "Áo thun tay dài Raglan Waffle Dico Star",
+      "price": 599000,
+      "originalPrice": 599000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-tay-dai-raglan-waffle-dico-star",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__13__b9134812c7254fc4b4016a5cf898a0d3.jpg",
+        "https://cdn.hstatic.net/products/200001142340/b_n_sao_c_a_img_0228_d130bff59f06435598d39eb7f3cd7db9.jpg",
+        "https://cdn.hstatic.net/products/200001142340/b_n_sao_c_a_img_0233_5134460717014a249682906171a113ac.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.924Z"
+    },
+    {
+      "id": "dirtycoins-1074244852",
+      "brand": "Dirty Coins",
+      "name": "Áo thun tay dài Dico Regal Crest",
+      "price": 650000,
+      "originalPrice": 650000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-tay-dai-dico-regal-crest",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__11__abd2948cb8cc497bbec168511acc9e85.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_724648150_997119623040811_6822327085651162479_n_fbd000aac91d4909b45af56b65eb2960.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_724958587_997119626374144_8666603010788167461_n_2a92056a5e6c4d8d827d2e122cf1476f.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.924Z"
+    },
+    {
+      "id": "dirtycoins-1074066677",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Dico Young Hustler",
+      "price": 499000,
+      "originalPrice": 499000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dico-young-hustler",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__20__25d678ae7504440a80b49998a4faac79.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_ban-sao-cua-img-2195-1_4912dc1dded24718ac0adb8139810540.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_ban-sao-cua-img-2200-compressed_1a457e45860141d4864db9d075ba35d6.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:21.924Z"
+    },
+    {
+      "id": "dirtycoins-1074066676",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Dico Star Emblem",
+      "price": 489000,
+      "originalPrice": 489000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dico-star-emblem",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__21__6ea69d4e69054ed6bd81280df5abdd2c.jpg",
+        "https://cdn.hstatic.net/products/200001142340/b_n_sao_c_a_quality_restoration_20260522181713237_777c39ff6f1c4e74a23e005d3fcd1bea.jpg",
+        "https://cdn.hstatic.net/products/200001142340/b_n_sao_c_a_quality_restoration_20260522181711344_ead7154affa14b29b0be003e98b7161c.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.924Z"
+    },
+    {
+      "id": "dirtycoins-1074066675",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Dico Sport Club Union Waffle",
+      "price": 450000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dico-sport-club-union-waffle",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__22__af814238f9174dc6a8e7f469ffb5fc08.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_ban-sao-cua-img-9580-compressed_d4a029cbb5d442d3bf47e93cfbeb8a4e.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_ban-sao-cua-img-9578-compressed_97a30dc544984646babf36643b6b1cae.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "",
+      "tags": [
+        "sporty"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.924Z"
+    },
+    {
+      "id": "dirtycoins-1074066674",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Dico Puppies Golf Club",
+      "price": 520000,
+      "originalPrice": 520000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dico-puppies-golf-club",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__24__e4450ace2ebc4493aa6edf8c854b87e7.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_ban-sao-cua-img-9321-compressed_587f2664aedf44509bd676c82b8a793e.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_ban-sao-cua-img-9325_df8f458511e64a1eb652afc2d7e07dc2.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.924Z"
+    },
+    {
+      "id": "dirtycoins-1074066673",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Dico Leopard Wavy Logo",
+      "price": 450000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dico-leopard-wavy-logo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__25__b2eb2b9a927c464fb135d0ec090904e2.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_ban-sao-cua-img-1065-compressed_9ef6d4f1df654ff19f5324f8e5592362.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_ban-sao-cua-img-1056_a01b75d5c2a5443aa892f8be498f2e37.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.924Z"
+    },
+    {
+      "id": "dirtycoins-1074066672",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Dico Healthy And Rich",
+      "price": 460000,
+      "originalPrice": 460000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dico-healthy-and-rich",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__26__bfaf59b9e75949ff984587662fde205a.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_ban-sao-cua-img-8291-compressed-compressed_0a4d901b0da44fd1be9ffbd83db4182c.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_ban-sao-cua-img-8290-1-1-compressed_3ac1f166dc474318be00660136437838.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "navy"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.925Z"
+    },
+    {
+      "id": "dirtycoins-1074066671",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Dico Candy Bee",
+      "price": 460000,
+      "originalPrice": 460000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dico-candy-bee",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__29__ecec6c688732461a9e5aa01769bc6bc0.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_ban-sao-cua-img-1236-compressed_c710f531489940acba5110bacf06c1a8.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_ban-sao-cua-img-1254-compressed_90e65b9b41274088ba5b6a8bf402f3f3.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.925Z"
+    },
+    {
+      "id": "dirtycoins-1074022068",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Dico Key Fob",
+      "price": 499000,
+      "originalPrice": 499000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dico-key-fob",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/back_77c8b0d6883f4a0e88d432928beac540.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_8_ban-sao-cua-img-2245-1_3d165baf5eb946e1979689f03a1ce1c2.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_ban-sao-cua-img-2249-1_e10dcff1e2cb47c7805df079506f706e.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.925Z"
+    },
+    {
+      "id": "dirtycoins-1074019724",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Dico Fluffy Wavy Logo",
+      "price": 450000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dico-fluffy-wavy-logo-black",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__27__a958390ee9e942f5b010098b5f6b8d09.jpg",
+        "https://cdn.hstatic.net/products/200001142340/b_n_sao_c_a_img_1415-compressed_684a4206b7004ff89686714b5b82b5dc.jpg",
+        "https://cdn.hstatic.net/products/200001142340/b_n_sao_c_a_img_7179_6d0c097b6b1c4011bef2ce68cf6840ea.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.925Z"
+    },
+    {
+      "id": "dirtycoins-1073629617",
+      "brand": "Dirty Coins",
+      "name": "Áo thun DC x BR Ribbed Crop Tank Top",
+      "price": 350000,
+      "originalPrice": 350000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dc-x-br-ribbed-crop-tank-top",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_151-2_0475681708d84a91808c304e4f820225.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_11-8e7f9ddb-c877-4e3f-8cc5-b099cdf6f494_7e14d14601b54502a1fdad93fde79559.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_copy-of-img-5541_a9f019ee99104b10844fc4745cd800b2.jpg"
+      ],
+      "category": "top",
+      "subcategory": "top",
+      "gender": "unisex",
+      "colors": [
+        "brown"
+      ],
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.925Z"
+    },
+    {
+      "id": "dirtycoins-1073625906",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DCxRS Big Logo",
+      "price": 479000,
+      "originalPrice": 479000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dcxrs-big-logo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__30__1ad2336c791442bca770c9eb3f19bb4d.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls1462-compressed-3_58d5964a47c3489995229146863a94ff.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls1499-compressed_b61dde282cf04981bbc227d796e18db6.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.925Z"
+    },
+    {
+      "id": "dirtycoins-1073619565",
+      "brand": "Dirty Coins",
+      "name": "Vớ Signature Y Socks",
+      "price": 89000,
+      "originalPrice": 89000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/vo-signature-y-socks",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front-white_b49a75777041488ea04c3af94e92988a.jpg",
+        "https://cdn.hstatic.net/products/200001142340/78897708221-5481310705895857078-n-875e627a-5bce-4f5f-a86d-29d005672819_e28c808b2dc74023ad14a729826f328e.jpg",
+        "https://cdn.hstatic.net/products/200001142340/78927708218-4734490945818354664-n-ca68c030-ab63-4436-ac40-33d5c980d3d3_07963152a1614e95be6916b51fc76453.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.926Z"
+    },
+    {
+      "id": "dirtycoins-1073619554",
+      "brand": "Dirty Coins",
+      "name": "Quần ngắn Sweatshorts Baggy Logo Patched",
+      "price": 499000,
+      "originalPrice": 499000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-ngan-sweatshorts-baggy-logo-patched",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-30-1737522617805_3d6c3b2f4c2a4253b8547cfdad343b46.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_dsc06223_787eb60d031d4a6f976a74a7b467192d.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_8_dsc06240_987682b5cc71455db7b33182a99f03cd.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "NỈ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.926Z"
+    },
+    {
+      "id": "dirtycoins-1073619553",
+      "brand": "Dirty Coins",
+      "name": "Quần ngắn Striped Script Logo",
+      "price": 550000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-ngan-striped-script-logo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_1-70d3870e-75c5-4035-9a72-166b7f87c6a2_d9baff8296174d63a884734a89f4d9d6.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_z7126666252956-e82b3341055d3a069085c32ea4426e60_a3f55161b1474161a2be3b2f9630e48d.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_484811062-636819772404133-8772064815883893258-n_5b583b17ee0a4c6c8f409237691131fc.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "gray",
+        "orange"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.926Z"
+    },
+    {
+      "id": "dirtycoins-1073619550",
+      "brand": "Dirty Coins",
+      "name": "Quần ngắn DirtyCoins Curve Ripstop Shorts",
+      "price": 445000,
+      "originalPrice": 445000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-ngan-dirtycoins-curve-ripstop-shorts",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-17-1755574439666_406931a69590491993255248359a1bd7.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-5828-compressed-bf9f0b36-c62c-46aa-ab7c-06f2a3258b2a_ee3413a6c7a744b5aafffc47e9d6becd.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-5819-compressed_2f6d0b26d3e243d3b427c99583f91bdf.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "red"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.926Z"
+    },
+    {
+      "id": "dirtycoins-1073619546",
+      "brand": "Dirty Coins",
+      "name": "Quần Dài Wide Metal Label Trouser Pants",
+      "price": 299000,
+      "originalPrice": 299000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-dai-wide-metal-label-trouser-pants",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_1-1ff98863-3e2e-45f6-9177-692e17f002e3_3b5b0025c38942f9aee5f72252578a09.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_1-2ed36f1c-2507-4a3a-8acb-6ce2bfd771aa_66f8e923c5ce49e48d52918d0b2da909.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_1-7a91d995-223d-4591-a04b-8523157413be__1__87b3a0e617664c87997ddf8d559a1476.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "beige",
+        "brown"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.926Z"
+    },
+    {
+      "id": "dirtycoins-1073619545",
+      "brand": "Dirty Coins",
+      "name": "Quần Dài Sweatpants DirtyCoins Star",
+      "price": 350000,
+      "originalPrice": 350000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-dai-sweatpants-dirtycoins-star",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-10-1735801344806_5c685d41175f4cf8a66959f3703ed4f6.jpg",
+        "https://cdn.hstatic.net/products/200001142340/8648220-7625106675963312136-n-2d75ccea-d9b3-4fc9-a9bd-d11269fc957b__1__9fa7bf0867924b859548e2f0ed6dc840.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-7862-compressed-547dfa00-2dac-45f4-9127-2bd24c65626a__1__6c89a7619469481ea892fd0748028d55.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "blue"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "NỈ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.926Z"
+    },
+    {
+      "id": "dirtycoins-1073619536",
+      "brand": "Dirty Coins",
+      "name": "Quần Dài DCxRS Logo Embroidery Raw Denim",
+      "price": 820000,
+      "originalPrice": 820000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-dai-dcxrs-logo-embroidery-raw-denim",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_44-1f841137-fa4f-4263-886e-900da7c334db_afbefc1ae2104b85a49966442676ce27.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dsc04450-compressed-f3b91c27-f3bd-468b-a3b7-18dbaf2e5f46_628683a088db44269b033de4c16df01a.jpg",
+        "https://cdn.hstatic.net/products/200001142340/_6_dico-x-rls9722-copy-compressed-08238205-d381-4655-aeb2-bd936234211d_a7f218f3110347a5b582cacb1cd6eee5.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "material": "Denim",
+      "tags": [
+        "denim"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:21.927Z"
+    },
+    {
+      "id": "dirtycoins-1073619533",
+      "brand": "Dirty Coins",
+      "name": "Quần dài Cargo Pants Big Pounch",
+      "price": 790000,
+      "originalPrice": 790000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-dai-cargo-pants-big-pounch",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_1-c4255c5d-cd9c-4edc-8df2-17f047355d56_4bfe6bcdf8064b1f8576d22101a44a42.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dsc06341_73c2a61569b3470582a0fd085f1b86bf.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dsc06392_81a3ce15f0694f9b92ecabe35c81de97.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "brown"
+      ],
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.927Z"
+    },
+    {
+      "id": "dirtycoins-1073619504",
+      "brand": "Dirty Coins",
+      "name": "Vớ DCxRS Logo",
+      "price": 89000,
+      "originalPrice": 89000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/vo-dcxrs-logo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/artboard-6-1764396803713_06dd9b77f0a242009b464356c9018253.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_a-59653a6f-7753-43d3-8167-37065fd60dfe_b0aa636cb6694911bf5a6e8f38bfcd8d.jpg",
+        "https://cdn.hstatic.net/products/200001142340/sock__1__c9ad5c6bfffe472b98fd3243fe6f2229.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.927Z"
+    },
+    {
+      "id": "dirtycoins-1073619502",
+      "brand": "Dirty Coins",
+      "name": "Túi Xách Mini Bowler Bag Patches ‘Y’ Logo",
+      "price": 899000,
+      "originalPrice": 899000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/tui-xach-mini-bowler-bag-patches-y-logo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/2-2-1735530122047_1fc1db2d683a44d0881fae484d52cf4a.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_473071200-588485737237537-99278108323849425-n_d9e90e6a06f9406e82e0720108258aec.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_473076663-588485710570873-2084753400797981004-n_37a938300f704847be31b2b8c8d6075e.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "yellow"
+      ],
+      "sizes": [],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.927Z"
+    },
+    {
+      "id": "dirtycoins-1073619499",
+      "brand": "Dirty Coins",
+      "name": "Túi xách DirtyCoins Logo Mini Bowler Bag",
+      "price": 1390000,
+      "originalPrice": 1390000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/tui-xach-dirtycoins-logo-mini-bowler-bag",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/m_t_tr__c_3bc214ce41904e2ca4ec502fc64731a0.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_imgi-45-607834289-18330945061241981-7155155504073648334-n_36028b37d1f1483cb67bd4cfaccaefe7.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_imgi-44-608204842-18330945031241981-5205966027842618281-n_459dc55d06a74434bfb61fc17ba8a733.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.927Z"
+    },
+    {
+      "id": "dirtycoins-1073619496",
+      "brand": "Dirty Coins",
+      "name": "Túi xách DirtyCoins Logo Bowler Bag",
+      "price": 1190000,
+      "originalPrice": 1190000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/tui-xach-dirtycoins-logo-bowler-bag",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_15_41d3abc022064db3bb83b88666c74d49.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dsc07325-compressed-b69642b0-b506-4ba9-84c2-de2afa7595a7_45322875458744d0a55827195ac674a4.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_472001486-583778927708218-4734490945818354664-n_e97bfd85e647403492385724f821fc5e.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "green",
+        "red",
+        "orange"
+      ],
+      "sizes": [],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.927Z"
+    },
+    {
+      "id": "dirtycoins-1073619493",
+      "brand": "Dirty Coins",
+      "name": "Túi xách Checkerboard Print Mini Bowler Bag",
+      "price": 1200000,
+      "originalPrice": 1200000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/tui-xach-checkerboard-print-mini-bowler-bag",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/m_t_tr__c_106ab3b3ee304622a192d9a1e5e9ca42.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_8_z5348010991518-cc9e766e596440c1f50d57a8e576bd5d_b138f713b3c442d6b258bfce71dd2b31.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_83_a07bd0d0ef3a42a588b7f6292a3f26a7.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "blue"
+      ],
+      "sizes": [],
+      "material": "",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:21.927Z"
+    },
+    {
+      "id": "dirtycoins-1073619487",
+      "brand": "Dirty Coins",
+      "name": "Túi Mini Pounch Logo Patched Heart",
+      "price": 299000,
+      "originalPrice": 299000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/tui-mini-pounch-logo-patched-heart",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__34__6366cdf552484fc08dd81d356bc7dd73.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dsc06168__1__883d6cd349e34aadb99314b0e85a72fc.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_copy-of-img-5541-0cfcb5b6-4b6e-44e4-bfcc-c19c66eac979__1__59bf77f11e4d4e1d983c8af32d2391a0.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "red",
+        "yellow"
+      ],
+      "sizes": [],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.179Z"
+    },
+    {
+      "id": "dirtycoins-1073619485",
+      "brand": "Dirty Coins",
+      "name": "Túi Mini Bowler DCxRS Western Studs",
+      "price": 1500000,
+      "originalPrice": 1500000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/tui-mini-bowler-dcxrs-western-studs",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__54__8af93136e07b4d1eae78854694646908.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls9955-compressed-4_51ebd6cac8964995a5a39930213bad27.jpg",
+        "https://cdn.hstatic.net/products/200001142340/mgi_7_dico-x-rls9900-compressed-3-57f44210-aa89-47f8-8e10-8020d7bff7c7_cef56b6fc9c3403e9d5fc2a78e6bf2b3.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.179Z"
+    },
+    {
+      "id": "dirtycoins-1073619483",
+      "brand": "Dirty Coins",
+      "name": "Túi Mini Bowler DCxRS Snake Leather",
+      "price": 1500000,
+      "originalPrice": 1500000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/tui-mini-bowler-dcxrs-snake-leather",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/back_3596e29c62db4cef8a9019155aa34534.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dsc03982-compressed-6-compressed_0197842bf52f474b923accd6620858e8.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_dsc03720-compressed-5-3e105a89-84f5-4b09-a4a1-0463fbdb10ad_2aa599b27c3d4a2f81fc1aceded9465d.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "orange"
+      ],
+      "sizes": [],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.180Z"
+    },
+    {
+      "id": "dirtycoins-1073619480",
+      "brand": "Dirty Coins",
+      "name": "Túi Chéo Crossbody Bag Logo Patches",
+      "price": 590000,
+      "originalPrice": 590000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/tui-cheo-crossbody-bag-logo-patches-silver",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__37__2ecc32e46eef4f48a176c71179c8188d.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_z7166524863786-d11f5500e7e44226190040fdaf263b5f-compressed_5db3f3c8697a44b8882296b626e14637.jpg",
+        "https://cdn.hstatic.net/products/200001142340/back__30__d064bcb1a348468ebc4b9b5b19a89840.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [],
+      "material": "POLYESTER",
+      "tags": [
+        "slim-fit"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.180Z"
+    },
+    {
+      "id": "dirtycoins-1073619477",
+      "brand": "Dirty Coins",
+      "name": "Túi Bowler DCxRS Western Studs",
+      "price": 1590000,
+      "originalPrice": 1590000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/tui-bowler-dcxrs-western-studs-black",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_mat-sau-70af876f-2dab-4821-85f9-b74b5e684b5c_18f725fef1fd49f8a5bd9e778484bdd7.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls9988-compressed_3383b999e6e5435d8de71502599284b4.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_mat-truoc-6cf33a1d-e5e5-4e3b-b860-4d27b0cbdc4f_27ad6735aa334a189c9d4e71b189e879.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:23.180Z"
+    },
+    {
+      "id": "dirtycoins-1073619476",
+      "brand": "Dirty Coins",
+      "name": "Túi Bowler DCxRS Snake Leather",
+      "price": 1590000,
+      "originalPrice": 1590000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/tui-bowler-dcxrs-snake-leather",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_mat-truoc-ce42eda9-b3b9-4009-a7c6-820cda253235_83824d1b1b0147c9b3ba1abeedf7982e.jpg",
+        "https://cdn.hstatic.net/products/200001142340/_5_dico-x-rls0787-copy-compressed-a37f04d8-79aa-4fe9-a500-89a2e81496c3_d1055b5f6d6847969c4c74919dd4ab5b.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls0758-compressed-36e16ed1-7a2f-4243-a044-afa1d94bbcd3_3ed14fcb3cfb4187a053fbce68d91651.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "orange"
+      ],
+      "sizes": [],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:23.180Z"
+    },
+    {
+      "id": "dirtycoins-1073619474",
+      "brand": "Dirty Coins",
+      "name": "Quần Ngắn Sweatshort DirtyCoins Star",
+      "price": 350000,
+      "originalPrice": 350000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-ngan-sweatshort-dirtycoins-star",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-9-1735801366740_1560aa1ac19a4cdfad3e827e0967919a.jpg",
+        "https://cdn.hstatic.net/products/200001142340/6b70d372c981e82a16ac40-compressed-16467291-0a92-450e-a02b-ed187db91b2d_a57e75c3fda540ac85d91270197adb20.jpg",
+        "https://cdn.hstatic.net/products/200001142340/fce4c651df5bf5e869ee0c-compressed-d0cc7007-1bb5-4f2e-b153-ca3fb3de1d0d_2867ca2cc5ca478ba3144083c3828c67.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "blue"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "NỈ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.181Z"
+    },
+    {
+      "id": "dirtycoins-1073619473",
+      "brand": "Dirty Coins",
+      "name": "Quần Ngắn Striped Maple Leaf",
+      "price": 550000,
+      "originalPrice": 550000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-ngan-striped-maple-leaf",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/2-69-1764662786540_1a11957fad904d5295dbd8c2cac7444c.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_z7247048177984-996f34aeed830fa15e48e4819a6023b7_2cc35a9071f54520aa963f9ae35e1131.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_z7247048151264-c7537b45f8720ddf55ee10da6c512f75_82e7412def264e838806abdefa75a2f1.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "gray"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.181Z"
+    },
+    {
+      "id": "dirtycoins-1073619472",
+      "brand": "Dirty Coins",
+      "name": "Quần Ngắn Nylon Shorts Script Logo",
+      "price": 560000,
+      "originalPrice": 560000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-ngan-nylon-shorts-script-logo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-6-1718941534032_a7d8b0b517bf49ae95c41120cbbfbecb.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_2-b71a99bd-3a9b-4d84-87f2-ae71d0b8d3f1_552030f7f79e4662947a649b3a2656a5.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_artboard-1-copy-2-accc83d3-df86-456d-95fd-5b6790162906_69af11d0f3874cc9bc0609ee3fa31229.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:23.181Z"
+    },
+    {
+      "id": "dirtycoins-1073619468",
+      "brand": "Dirty Coins",
+      "name": "Quần ngắn Double Knee Shorts Distressed",
+      "price": 590000,
+      "originalPrice": 590000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-ngan-double-knee-shorts-distressed",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-37-1739175716872_a21b2413609a440b9b103a9a297eaf53.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dc-tet3964-1_6dc1c7a851e444e78fb3c70c8c76ea93.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_copy-of-img-5541-e7927d21-101c-45dd-ad6f-1632cf0a72f1_153592c3e7cc47fdbefbda8d300931e5.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "blue"
+      ],
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.181Z"
+    },
+    {
+      "id": "dirtycoins-1073619466",
+      "brand": "Dirty Coins",
+      "name": "Quần ngắn Denim Shorts Studs",
+      "price": 590000,
+      "originalPrice": 590000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-ngan-denim-shorts-studs",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_1-1801aebb-748e-4268-8994-13c3e3c246b5_1cd183425f6c4b71a7f319bab20e6a14.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_2-f6b9e68e-fc05-4255-8841-112f686c4451_0770f6740fa64e50b4728182cfe9be01.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_artboard-1-copy-2-03d09d43-bc86-408a-bc0a-f7b3e6491538_f3f6870533e9489fa52d962b72a5f7e9.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "blue"
+      ],
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "material": "Denim",
+      "tags": [
+        "cotton",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.182Z"
+    },
+    {
+      "id": "dirtycoins-1073619465",
+      "brand": "Dirty Coins",
+      "name": "Quần Ngắn Denim Baggy Embroidery Logo",
+      "price": 690000,
+      "originalPrice": 690000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-ngan-denim-baggy-embroidery-logo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_1-61e699dd-5311-4a93-bf89-6977dae6d0bd_200e8e0a13524e32a095212b1bfde20d.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_2-8f6f89c0-6d6c-40f0-89f9-ed2e7546bdd9_0ba516cafbc849578237ba56274b304b.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_artboard-1-copy-2-6725a28e-7e5e-4046-b77e-c44d1f578dfe_a2d1a10c86c44b02b946b4e19e56a6d1.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "blue"
+      ],
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "material": "Denim",
+      "tags": [
+        "cotton",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.182Z"
+    },
+    {
+      "id": "dirtycoins-1073619464",
+      "brand": "Dirty Coins",
+      "name": "Quần ngắn Cargo Shorts Drawstring",
+      "price": 695000,
+      "originalPrice": 695000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-ngan-cargo-shorts-drawstring",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/2-26-1759917100338_4ecbe87cf61f4697afaf42bcd397b799.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dsc07292-compressed_ed76988b4839440cba1d2b76009b27f6.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dsc07270-compressed_b0a11568e5fd4e5a8659c88b16df3f02.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "green"
+      ],
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton",
+        "denim"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:23.182Z"
+    },
+    {
+      "id": "dirtycoins-1073619463",
+      "brand": "Dirty Coins",
+      "name": "Quần ngắn Cargo Camo Patched",
+      "price": 529000,
+      "originalPrice": 529000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-ngan-cargo-camo-patched",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-4-1730690598905_2342eb36ae7d46dbb041a99945da673e.jpg",
+        "https://cdn.hstatic.net/products/200001142340/778894374888-247227346984257369-n-912b2e0d-bd3d-4d11-bce1-5f4d04dd167d_efed25c735574b42a6880eede505950b.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-6329-compressed-c38694d9-4296-46ea-b713-75b177d56155_398e6e44a37d42bcbce0f325cb09da6d.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "shorts",
+      "gender": "unisex",
+      "colors": [
+        "green"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "chino"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:23.183Z"
+    },
+    {
+      "id": "dirtycoins-1073619461",
+      "brand": "Dirty Coins",
+      "name": "Quần Dài Sweatpants DCxRS Faded Sheriff",
+      "price": 875000,
+      "originalPrice": 875000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-dai-sweatpants-dcxrs-faded-sheriff",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-71-1764392567707_275595ab63c04477aa5f37fcd871e4d0.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls8526-compressed-18364971-c8a9-4f8a-82dc-0c8cab7bce43_fdc0c047c3e449f39461fdf4ff97d684.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls8555-compressed_2e2bb03b65e847d2b97ad83e76a2f66e.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "NỈ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:23.183Z"
+    },
+    {
+      "id": "dirtycoins-1073619460",
+      "brand": "Dirty Coins",
+      "name": "Quần dài DirtyCoins Comfy Essential Jeans",
+      "price": 790000,
+      "originalPrice": 790000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-dai-dirtycoins-comfy-essential-jeans",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_1-63b26a60-2caf-4f8c-965a-302f4dab30f9_29d32c6c829c429baab7c173ea88a7d9.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_copy-of-img-1256-1-compressed_d08106d1cc304ac28e813edf8b98ff6b.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_177_d6252a125dc242faaa262daf3ecb1493.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "blue"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.183Z"
+    },
+    {
+      "id": "dirtycoins-1073619459",
+      "brand": "Dirty Coins",
+      "name": "Quần dài Denim Pants Wash Flame",
+      "price": 790000,
+      "originalPrice": 790000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-dai-denim-pants-wash-flame",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-46-1742894458437_349203365b0f4b21927fa08a7b90048a.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_z7000785062148-af59200b58230c25471e74156a422aa6_01469afc14e544cfbfd7941b1d07d1b5.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_z7000784764780-aaf089fd20a0cea22b873cc629f34446_c667479b271a4cba8407f26f8a48febf.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "material": "Denim",
+      "tags": [
+        "cotton",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.183Z"
+    },
+    {
+      "id": "dirtycoins-1073619457",
+      "brand": "Dirty Coins",
+      "name": "Quần dài Denim Pants Stain Distress",
+      "price": 790000,
+      "originalPrice": 790000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-dai-denim-pants-stain-distress",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-38-1739175779158_b97552a842cc41a8a8d8d472ec255705.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_copy-of-img-5541-e6461f0a-21b9-4a24-ad99-29fe70dfac28_ec7bffcd97564e6b8699c84ef7ec8c2c.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_z7000813479733-f57d88ffe7728a82d2287ce9d62330b3_3b6fd4c2f30143c4abdde3a976a0d0ef.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "blue"
+      ],
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "material": "Denim",
+      "tags": [
+        "cotton",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.184Z"
+    },
+    {
+      "id": "dirtycoins-1073619455",
+      "brand": "Dirty Coins",
+      "name": "Quần dài Denim Pants Double Knee",
+      "price": 790000,
+      "originalPrice": 790000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-dai-denim-pants-double-knee",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-42-1740204736601_2628b9eaede84453ab0b9d29073f6129.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_z7000803636646-eb77d6fca5254b53b7170ceb471918a3_dd2e0903376a47c69218af8d1285806f.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_z7000803833775-763751035e74c5c3f74545a773d3fa3b_b1f4aa3ead93451e90637349db0670a6.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "brown"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "material": "Denim",
+      "tags": [
+        "cotton",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.184Z"
+    },
+    {
+      "id": "dirtycoins-1073619454",
+      "brand": "Dirty Coins",
+      "name": "Quần dài Denim Pants Baggy Destroy",
+      "price": 790000,
+      "originalPrice": 790000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-dai-denim-pants-baggy-destroy",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-47-1734688164912_fd2a29f88edc427585ad4b319b2a5edc.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_dsc06141_46295033af74451b9a6afe28d8fbc1dc.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_8_dsc06164_4db3e2111f4a4ab293277c939d248fe7.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "blue"
+      ],
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "material": "Denim",
+      "tags": [
+        "cotton",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.184Z"
+    },
+    {
+      "id": "dirtycoins-1073619453",
+      "brand": "Dirty Coins",
+      "name": "Quần dài Denim Pants 'Y' Embroidery",
+      "price": 790000,
+      "originalPrice": 790000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-dai-denim-pants-y-embroidery",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_1-ff052270-6218-448d-9e38-dcfbf32e70c5_27e855d96f5e4cc1b92100016b771572.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_lsr03177-compressed_e4d09183137f49d09a7b538644f4bd92.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_2-f30db60a-39e0-44b3-be80-57747ec52a70_a2d293a8914647169291eab1435572a0.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "blue"
+      ],
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "material": "Denim",
+      "tags": [
+        "cotton",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.184Z"
+    },
+    {
+      "id": "dirtycoins-1073619452",
+      "brand": "Dirty Coins",
+      "name": "Quần Dài Denim DCxRS Sheriff Embroidery",
+      "price": 880000,
+      "originalPrice": 880000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-dai-denim-dcxrs-sheriff-embroidery",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/mat-truoc-2-1764392276472_599928d7944f4446861c517f2ce2d546.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls1182-compressed-1_cb99c34c1a274569a32bd5eccfa78e18.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls1189-compressed-3-compressed_f0dcd0696a5e4516b600279657d33814.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "material": "Denim",
+      "tags": [
+        "denim"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:23.184Z"
+    },
+    {
+      "id": "dirtycoins-1073619451",
+      "brand": "Dirty Coins",
+      "name": "Quần dài Denim Cargo Pants Splicing",
+      "price": 790000,
+      "originalPrice": 790000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-dai-denim-cargo-pants-splicing",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_1-fa68946b-12a8-44ab-95e5-0c911691fc7d_9859df605af34e5b8677112a573049aa.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_z7000790097212-dee466d63a8b8b5c50e128e7021ce31d_35156d4f65f24605845dd67c4177e8c9.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_z7000790292991-8fd39df5183bef5e77c9b2d4cc03db57_0bc4109392f147dfa2cd5fdb7f935a38.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "blue"
+      ],
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "material": "Denim",
+      "tags": [
+        "cotton",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.184Z"
+    },
+    {
+      "id": "dirtycoins-1073619450",
+      "brand": "Dirty Coins",
+      "name": "Quần dài Denim Baggy Frayed Logo",
+      "price": 790000,
+      "originalPrice": 790000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-dai-denim-baggy-frayed-logo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-1-1744429772654_126f76fb72df4151b20ea50fd02d3571.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-0101-compressed_82001d7a8d2c43baa57cdfc4ca2c9c18.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-9552-compressed_89425c2cfdfe40c3bfcefa618f2174cf.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "material": "Denim",
+      "tags": [
+        "cotton",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.185Z"
+    },
+    {
+      "id": "dirtycoins-1073619449",
+      "brand": "Dirty Coins",
+      "name": "Quần Dài Cargo Pants Patched Logo",
+      "price": 690000,
+      "originalPrice": 690000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-dai-cargo-pants-patched-logo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-25-1721292898450_2ebebf6694f84209b06b0d238fcec80e.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_2-22c02a1d-37eb-4227-8aef-10d86c929247_30e55a3ecbc046a9b3fd85a98e5bf790.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_artboard-1-copy-2-3977c9c3-788c-47e8-92df-babb583464f9_5fea7066a60a42949efc867e0e7977e9.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "green"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.185Z"
+    },
+    {
+      "id": "dirtycoins-1073619448",
+      "brand": "Dirty Coins",
+      "name": "Quần Dài Cargo Pants Drawstring",
+      "price": 865000,
+      "originalPrice": 865000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/quan-dai-cargo-pants-drawstring",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/2-27-1759916063196_6e473ad1d72140afb4e8de8ece12661e.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dsc07160_4f8b4af545d64bdfb4f398768c09970f.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dsc07170_87527162b8c9410f918289661c6da82a.jpg"
+      ],
+      "category": "bottom",
+      "subcategory": "pants",
+      "gender": "unisex",
+      "colors": [
+        "green"
+      ],
+      "sizes": [
+        "26",
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton",
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.185Z"
+    },
+    {
+      "id": "dirtycoins-1073619133",
+      "brand": "Dirty Coins",
+      "name": "Nón Y Logo Cap",
+      "price": 369000,
+      "originalPrice": 369000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/non-y-logo-cap",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/side_10d2ce26c73447729b72a256bab22290.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_y-cap-black_b18478053035442f935deea69223ccb7.jpg",
+        "https://cdn.hstatic.net/products/200001142340/78927708218-4734490945818354664-n-517d74d1-c83f-4d6b-b525-f23d7aff7d5b_2b85bb75dc8648278fd810f23aab0de7.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [],
+      "material": "COTTON",
+      "tags": [
+        "cotton",
+        "chino"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.185Z"
+    },
+    {
+      "id": "dirtycoins-1073619132",
+      "brand": "Dirty Coins",
+      "name": "Nón Mesh Cap Wavy Dico Jr",
+      "price": 390000,
+      "originalPrice": 390000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/non-mesh-cap-wavy-dico-jr",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/left_side_e43d14abecd341b19632cb25032b9ca5.jpg",
+        "https://cdn.hstatic.net/products/200001142340/778894374888-247227346984257369-n-61d8a8e5-794c-49de-8338-e975e4c5e755_054334f090db4924b673b03d3cf92f82.jpg",
+        "https://cdn.hstatic.net/products/200001142340/front__38__a15eb3390e544784a0c25419d6a3ebdb.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "blue"
+      ],
+      "sizes": [],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.185Z"
+    },
+    {
+      "id": "dirtycoins-1073619131",
+      "brand": "Dirty Coins",
+      "name": "Nón Mesh Cap DirtyCoins Wavy Get Shoot",
+      "price": 385000,
+      "originalPrice": 385000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/non-mesh-cap-dirtycoins-wavy-get-shoot",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/left_side__1__1b46551bf2294f208078a9d5c56351ae.jpg",
+        "https://cdn.hstatic.net/products/200001142340/front__39__fe0f2957618c4b2ea8c58bb49066bed3.jpg",
+        "https://cdn.hstatic.net/products/200001142340/side__1__751f17150acc4a6fa4e7d3368f566a60.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "brown"
+      ],
+      "sizes": [],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:23.185Z"
+    },
+    {
+      "id": "dirtycoins-1073619130",
+      "brand": "Dirty Coins",
+      "name": "Nón Lưới DCxRS Tongue Embroidery",
+      "price": 435000,
+      "originalPrice": 435000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/non-luoi-dcxrs-tongue-embroidery",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/49.1-1764389480188_ebedf36f3cf24c7ea5cdc014baf9b3ba.jpg",
+        "https://cdn.hstatic.net/products/200001142340/mgi_8_dico-x-rls1789-compressed-2-1d75513a-1801-442f-b12c-c5a3909b1e8c_7493cff8a42a44c2b4a2d24cb54aa200.jpg",
+        "https://cdn.hstatic.net/products/200001142340/_7_dico-x-rls1782-copy-compressed-52fd1158-f45f-41a4-a843-724b56c8a9b5_79e5258c1e2041bf90bbd305da2cc9d2.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "green"
+      ],
+      "sizes": [],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.186Z"
+    },
+    {
+      "id": "dirtycoins-1073619129",
+      "brand": "Dirty Coins",
+      "name": "Nón Lưới DCxRS Cow Printed Beige",
+      "price": 450000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/non-luoi-dcxrs-cow-printed-beige",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/nghieng-1764390061888_d6a357c2dcbc4e85914a48dbfd2fd8b1.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls1472-compressed_5170223eb3e44a25a31db9ff6f983d29.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_chinh-dien_ef244135af724c24bd7cfa0355e13048.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "beige"
+      ],
+      "sizes": [],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:23.186Z"
+    },
+    {
+      "id": "dirtycoins-1073619128",
+      "brand": "Dirty Coins",
+      "name": "Nón len Dico Star",
+      "price": 370000,
+      "originalPrice": 370000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/non-len-dico-star",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_truoc-dd00456b-476f-49fa-8689-e87f5410f0d7_17252087c0b843b29854e934d1577389.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_demo-1-420735b3-d36f-404f-be1e-daa7968dc117_94549770ab7f419388cf573092aba46c.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-162824-0-compressed_682b3252fdd04e9b97fc48652cd7e596.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "green"
+      ],
+      "sizes": [],
+      "material": "len",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.186Z"
+    },
+    {
+      "id": "dirtycoins-1073619127",
+      "brand": "Dirty Coins",
+      "name": "Nón DC x RS Logo Wavy Embroidery",
+      "price": 425000,
+      "originalPrice": 425000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/non-dc-x-rs-logo-wavy-embroidery",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/left_side__2__c30414e4cd9248148ae7a5c243a3f80f.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls1386-compressed_8b8a8a30ed5549828ea142e7c28cc3d0.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-2390-1-compressed_c3e6d593e677463681356badbe2c0d9b.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [],
+      "material": "",
+      "tags": [
+        "chino"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.186Z"
+    },
+    {
+      "id": "dirtycoins-1073619125",
+      "brand": "Dirty Coins",
+      "name": "Nón Cap DirtyCoins Racing Crew Embroidery",
+      "price": 570000,
+      "originalPrice": 570000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/non-cap-dirtycoins-racing-crew-embroidery",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/2-34-1762828143026_56ddc48e19184afa87a016dbae2a0546.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dsc02740-compressed_1f17b077ef624403b8b5275b44a4ff97.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_1-08af1422-fe0c-44ee-99a0-ff9b715ae7ee_9631cbdc92cf4607b2eee4dc6f26d3b0.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [],
+      "material": "DENIM",
+      "tags": [
+        "denim"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:23.186Z"
+    },
+    {
+      "id": "dirtycoins-1073619123",
+      "brand": "Dirty Coins",
+      "name": "Nón Cap Dico Script Embroidery",
+      "price": 399000,
+      "originalPrice": 399000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/no-n-cap-dico-script-embroidery",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/left_side__3__08b01044e949428e9629f3a3d2b1e38e.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dsc02884-compressed_5704b477a40f42e68fe05b1e5cb79b65.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-5797-ea750a4d-ed36-416a-875e-2b10e8fb8335_3003dbd8cbe2496b8ac31af139700c6c.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "beige"
+      ],
+      "sizes": [],
+      "material": "DENIM",
+      "tags": [
+        "denim"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:23.186Z"
+    },
+    {
+      "id": "dirtycoins-1073619122",
+      "brand": "Dirty Coins",
+      "name": "Nón Cap Denim Washed Logo Embroidery",
+      "price": 375000,
+      "originalPrice": 375000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/non-cap-denim-washed-logo-embroidery",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/left_side__4__db5391f78f074544b779df8502444e8a.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_img-9988-compressed-a09d666d-3336-4743-bf04-53bf473dc7cf_76f2aa777e11413099184fa563004587.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-9989-compressed_96353822a80a45b5b2f6c81a1dc2d2df.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [],
+      "material": "Denim",
+      "tags": [
+        "denim"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:23.186Z"
+    },
+    {
+      "id": "dirtycoins-1073619120",
+      "brand": "Dirty Coins",
+      "name": "Móc Khóa DCxRS Star",
+      "price": 190000,
+      "originalPrice": 190000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/moc-khoa-dcxrs-star",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__43__7fe16671e499463597423b1e0985d0d0.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_detail-1-3225cb8b-418d-4ce0-bcf1-d8103deb22d9_813afe56db4f4b0ca73a5888cd74795c.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_detail-2-4901155b-1938-4244-bd87-80803405475b_d9f9a7a88e90454f8a8bbc93caa207e5.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.186Z"
+    },
+    {
+      "id": "dirtycoins-1073619115",
+      "brand": "Dirty Coins",
+      "name": "Khăn Bandana Signature Y Pattern",
+      "price": 190000,
+      "originalPrice": 190000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/khan-bandana-signature-y-pattern",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/8e176-8f90-49d1-9080-e7d769e2af14-12cec15e-e4ee-4928-ae64-afe23de00af0_a74f0a544a7c4c808cd3df8145548f14.jpg",
+        "https://cdn.hstatic.net/products/200001142340/501f6-bcd8-4987-b758-9a646f8be515-e284dcc8-3c64-45e8-90ee-ce5b218201ff_8b527239e0244e5d85e6ddfb2c248406.jpg",
+        "https://cdn.hstatic.net/products/200001142340/776d1-f4d7-4403-8123-421f72333b6c-a4fdaef2-ac08-4d10-ae47-5459ee0d700c_1ed4210b03bf43028345f0bcc072d98b.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:23.187Z"
+    },
+    {
+      "id": "dirtycoins-1073619114",
+      "brand": "Dirty Coins",
+      "name": "Khăn Bandana DCxRS",
+      "price": 190000,
+      "originalPrice": 190000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/khan-bandana-dcxrs",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__44__1bff9b4b51764d5aae8f6b9bfb56b009.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls0512-compressed-4_c38267ef85ee44b9a3f5dafe750eb41a.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls0497-compressed-2_d0603c33e8b148cc98e0e2705117032f.jpg"
+      ],
+      "category": "accessory",
+      "subcategory": "accessory",
+      "gender": "unisex",
+      "colors": [
+        "brown"
+      ],
+      "sizes": [],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.187Z"
+    },
+    {
+      "id": "dirtycoins-1073619113",
+      "brand": "Dirty Coins",
+      "name": "Dép Mule Slides DirtyCoins Signature Y Logo",
+      "price": 750000,
+      "originalPrice": 750000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/dep-mule-slides-dirtycoins-signature-y-logo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/side__5__17d854940eab44b2bdebde74a54d0522.jpg",
+        "https://cdn.hstatic.net/products/200001142340/side_1_7f2132679e074e95af4b41890869fcef.jpg",
+        "https://cdn.hstatic.net/products/200001142340/sole_93f7c6a961884b69a0d928948f90eb5d.jpg"
+      ],
+      "category": "shoes",
+      "subcategory": "sandal",
+      "gender": "unisex",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.187Z"
+    },
+    {
+      "id": "dirtycoins-1073619112",
+      "brand": "Dirty Coins",
+      "name": "Dép DirtyCoins Print Slides",
+      "price": 479000,
+      "originalPrice": 479000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/dep-dirtycoins-print-slides",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/h_nh_1_98749bc38a954a5191d42e6607993725.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_10_lsr7550_deda72b012864d209a47aa25fb79d263.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_layer-6-compressed_f3714f61139d462e974efb191092c8df.jpg"
+      ],
+      "category": "shoes",
+      "subcategory": "sandal",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "36",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.187Z"
+    },
+    {
+      "id": "dirtycoins-1073619111",
+      "brand": "Dirty Coins",
+      "name": "Dép DirtyCoins Embossed Slides",
+      "price": 629000,
+      "originalPrice": 629000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/dep-dirtycoins-embossed-slides",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/h_nh_1_47135d54c5d6420684373bb736a6b7d0.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_art01792-min_5d6ff2def8d34542a98f179ea571ea84.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_449392181-457939333625512-940852569994462712-n_32565e05fea04f58a23d81b66bfb120c.jpg"
+      ],
+      "category": "shoes",
+      "subcategory": "sandal",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.187Z"
+    },
+    {
+      "id": "dirtycoins-1073619110",
+      "brand": "Dirty Coins",
+      "name": "Dép Boston Mules DirtyCoins Script",
+      "price": 790000,
+      "originalPrice": 790000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/dep-boston-mules-dirtycoins-script",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/side_01_34932f0ddb3a4cf6bc0c2f8f7126d4ff.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_layer-7-compressed-144ddd2d-1452-4653-af95-5f920f3d6af7_b7df67f7f255431e897a93b2c1fd68a4.jpg",
+        "https://cdn.hstatic.net/products/200001142340/side_01_8dc78b3f64b84c659ef12ddb767c69f1.jpg"
+      ],
+      "category": "shoes",
+      "subcategory": "sandal",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "gray",
+        "brown",
+        "pink"
+      ],
+      "sizes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.187Z"
+    },
+    {
+      "id": "dirtycoins-1073619109",
+      "brand": "Dirty Coins",
+      "name": "Dép Arizona Slides Letter Monogram",
+      "price": 690000,
+      "originalPrice": 690000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/dep-arizona-slides-letter-monogram",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/side__6__9afcaf696bc8483893c22eab85ef4c35.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_lsr02834-compressed_4d2bd2e9a544476db2184734f09d4dad.jpg",
+        "https://cdn.hstatic.net/products/200001142340/side_1__1__b99dd0cdcd6c48a3ad840d494bcf5a94.jpg"
+      ],
+      "category": "shoes",
+      "subcategory": "sandal",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "beige"
+      ],
+      "sizes": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:23.187Z"
+    },
+    {
+      "id": "dirtycoins-1073619097",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Tay Dài Waffle DirtyCoins Script",
+      "price": 520000,
+      "originalPrice": 520000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-tay-dai-waffle-dirtycoins-script",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__14__5541d085bb234f80a73c4e3ac7e80290.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-2653-1_ea6cf8be645641468f46be73f3802a33.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-2647-1_a3aaee0b488d47558b7b50191e12879b.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.467Z"
+    },
+    {
+      "id": "dirtycoins-1073619096",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Tay Dài Raglan DCxRS Faded Print",
+      "price": 599000,
+      "originalPrice": 599000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-tay-dai-raglan-dcxrs-faded-print",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front-black_6ae0cfa715ec4e8bb57cde1f700061b2.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_img-9529-compressed_c9e2a121754a482bb7e0f684aaf6f043.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls8420-compressed_514eaae8023f4a3e94f432b6aa40d94b.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "red"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.467Z"
+    },
+    {
+      "id": "dirtycoins-1073619095",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Tay Dài DCxRS Flame Tongue",
+      "price": 520000,
+      "originalPrice": 520000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-tay-dai-dcxrs-flame-tongue",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/ao_thun_tay_dai_dcxrs_flame_tongue_1_8c012a1b2e5e4287a2b1e78ff96670b1.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls2003-compressed-3_fac18d877f534bdea6bc9fd9444b96bb.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls1960-compressed-1_9f078ad38ac84efd90df62548200898e.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.467Z"
+    },
+    {
+      "id": "dirtycoins-1073619094",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Tank Top DirtyCoins Printed Label",
+      "price": 380000,
+      "originalPrice": 380000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-tank-top-dirtycoins-printed-label",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-49-1743497011364_bc9ba8f2e50f4f1093591319f37ea979.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_copy-of-img-5541-d641d28f-306e-41cc-ac35-7faea43a00c0_8b26926e492f407ea1bc0941ac041afd.jpg",
+        "https://cdn.hstatic.net/products/200001142340/1-36-1738666493963_9e886180bdf64aed91af7ad0f15af244.jpg"
+      ],
+      "category": "top",
+      "subcategory": "top",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.467Z"
+    },
+    {
+      "id": "dirtycoins-1073619093",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Tank Top DCxRS British Passport",
+      "price": 435000,
+      "originalPrice": 435000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-tank-top-dcxrs-british-passport",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/23-1-1764388933196_cb465e3372d24dfc808ce3aa9ffc2949.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls0787-copy-compressed_9516945a7c07430d8003c200cbdeb96f.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls0758-compressed_affcfa47b61944b29530f705a49469fd.jpg"
+      ],
+      "category": "top",
+      "subcategory": "top",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "sporty",
+        "cotton"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:24.468Z"
+    },
+    {
+      "id": "dirtycoins-1073619092",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Soccer Jersey Wild Fire",
+      "price": 610000,
+      "originalPrice": 610000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-soccer-jersey-wild-fire",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__12__72825b1955424bfda994d4b9c25d5c5b.jpg",
+        "https://cdn.hstatic.net/products/200001142340/c-tet3913-compressed-1-compressed-dbfdf053-b7b1-467a-8ef2-5c43eefb7a64_7b396c3e1549453286c372ff4c3afb58.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-2492-compressed_261e34f8914d4294b99e18740f844afb.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "green"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.468Z"
+    },
+    {
+      "id": "dirtycoins-1073619091",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Soccer Jersey Striped",
+      "price": 565000,
+      "originalPrice": 565000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-soccer-jersey-striped-baby-blue-white",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__22__8993257d3b8c440e9804a9e5a2c2c847.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_img-0596-compressed-b78dd110-aba9-4ee6-8979-7b6d6f25065d_fd675c8072db4c90bed9eea571828803.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-0597-compressed_f19ef2b4d5ca4983b2384a097a69a689.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.468Z"
+    },
+    {
+      "id": "dirtycoins-1073619090",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Soccer Jersey DirtyCoins",
+      "price": 585000,
+      "originalPrice": 585000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-soccer-jersey-dirtycoins",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__11__7e7189e1065a4c47b0de5a5757758ead.jpg",
+        "https://cdn.hstatic.net/products/200001142340/c-tet3913-compressed-1-compressed-dbfdf053-b7b1-467a-8ef2-5c43eefb7a64_a0bbd3969c4b4289a3c3ba656155cdce.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_img-9955-compressed_7f7e2db348bb4cf7aebd74c05944c538.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "blue"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.468Z"
+    },
+    {
+      "id": "dirtycoins-1073619089",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Soccer Jersey Dico Seven",
+      "price": 599000,
+      "originalPrice": 599000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-soccer-jersey-dico-seven",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__52__622813ad20e44728af76cc56865c0001.jpg",
+        "https://cdn.hstatic.net/products/200001142340/dc_15-60569-compressed_c3405f75e887496883a12fcee0179be4.jpg",
+        "https://cdn.hstatic.net/products/200001142340/b_n_sao_c_a_img_3030_f3263a290c734e34bd22264b19d237cc.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "green",
+        "red"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.468Z"
+    },
+    {
+      "id": "dirtycoins-1073619087",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Relaxed Boxy Puppies Hangouts",
+      "price": 450000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-relaxed-boxy-puppies-hangouts",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/mat_truoc_ecd73719d34d48449ab6fe54cb6dae7d.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-3851-compressed-1_bb77edd9b8cd493d93bb40f518a3771f.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-3855-compressed_93d271cb5db0436a9656f239feed005c.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.468Z"
+    },
+    {
+      "id": "dirtycoins-1073619086",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Relaxed Boxy Dico Lil Dino",
+      "price": 450000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-relaxed-boxy-dico-lil-dino",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__53__67accd8728ff4ff69e381a433295dc82.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-0497-compressed_fab21ec3082a45ad955da03c59217ec7.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_img-0454-compressed_eebbb95f28f64e5381b91ea5f1a78be4.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.468Z"
+    },
+    {
+      "id": "dirtycoins-1073619085",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Polo Soccer Jersey Striped",
+      "price": 565000,
+      "originalPrice": 565000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-polo-soccer-jersey-striped",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__8__4d588d467f00417b90a1b7c17a31be07.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_227_img-7127-compressed_6898f2a0adb54c519ead54d5f013eaca.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_228_img-7128-compressed_7aaa514173684ed9add7607a19b37eb4.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "smart-casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.468Z"
+    },
+    {
+      "id": "dirtycoins-1073619083",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Polo DCxRS Embroidery",
+      "price": 560000,
+      "originalPrice": 560000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-polo-dcxrs-embroidery",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__17__6dde542dedaa49b180a5e9e8ca5b3658.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls0965-copy-compressed-2-compressed-5__3__8446d1d3130343e1b32ffe923b12ed94.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls0972-compressed-4__3__27c827483d074da8a36db4ea7fdd4125.jpg"
+      ],
+      "category": "top",
+      "subcategory": "polo",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "smart-casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.468Z"
+    },
+    {
+      "id": "dirtycoins-1073619082",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Polo DCxRS Classic Patches",
+      "price": 679000,
+      "originalPrice": 679000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-polo-dcxrs-classic-patches",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1__7__3c5fd3c2ae9245ffb226e3964e4e0dc0.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls8305-copy-compressed_d8614fdd6cac408c85e45bae3b1e90a7.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls8320-compressed_33d285445fc64dd282b0f776fb398b07.jpg"
+      ],
+      "category": "top",
+      "subcategory": "polo",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "smart-casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.469Z"
+    },
+    {
+      "id": "dirtycoins-1073619080",
+      "brand": "Dirty Coins",
+      "name": "Áo thun More Money More Problems T-shirt",
+      "price": 390000,
+      "originalPrice": 390000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-more-money-more-problems-t-shirt",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-8-1703304356378_161da56668ad4470995ee79d549910fb.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_mmden-compressed_e62dbabee346474b9d19d762c1f7133b.jpg",
+        "https://cdn.hstatic.net/products/200001142340/1-9-1703304384758_3b2b6110f7234f6e8d58179578ed6249.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:24.469Z"
+    },
+    {
+      "id": "dirtycoins-1073619078",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Logo Football Jersey",
+      "price": 450000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-logo-football-jersey",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-19-1706165355005_5cd1657fb1304db6813e6feef8d07767.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_8_dsc07317-min-compressed_c2f93b2086514bb08d842b129a9a1e9d.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_445369023-437257409027038-3663473250113781874-n_add82309631e4cf58b001a483f9d26fc.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "green",
+        "red",
+        "gray"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Polyester",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.469Z"
+    },
+    {
+      "id": "dirtycoins-1073619076",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Knit Polo Rope Embroidery",
+      "price": 749000,
+      "originalPrice": 749000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-knit-polo-rope-embroidery",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/knit-polo_black-01-1746254392194_1147c139e89e41869fec7a62aeee878e.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dirtycoins-1239345-compressed__1__ffd7d5c3cc6f420b8a0236284815b17e.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dirtycoins-1239475-1_e752080d34f648e19cb4e2c1ff9cdc73.jpg"
+      ],
+      "category": "top",
+      "subcategory": "polo",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "len",
+      "tags": [
+        "cotton",
+        "smart-casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.469Z"
+    },
+    {
+      "id": "dirtycoins-1073619074",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Knit Polo Premium Garment",
+      "price": 690000,
+      "originalPrice": 690000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-knit-polo-premium-garment",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/truoc-3-1765002448662_3ff40c1966e7426d9da8b97dd67a5307.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-9675-compressed-compressed_934ae80ca5104704ac5906048c933de3.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_ban-sao-cua-img-7148-compressed_9875f690a5de477cba695ce86647096b.jpg"
+      ],
+      "category": "top",
+      "subcategory": "polo",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "navy",
+        "blue",
+        "green"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "smart-casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.469Z"
+    },
+    {
+      "id": "dirtycoins-1073619073",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Jersey Football Y2K",
+      "price": 450000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-jersey-football-y2k",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-36-1734504504316_91c078a9e7ff4ee8adbccc635184ccb5.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_471832082-583778897708221-5481310705895857078-n_f76cbfcf87ae41e381c0c61945704848.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-2793-compressed_0295fcffcfa14e699a779c12dfcda3fc.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Polyester",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.469Z"
+    },
+    {
+      "id": "dirtycoins-1073619072",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Jersey Crop Top DCxRS Star 01",
+      "price": 400000,
+      "originalPrice": 400000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-jersey-crop-top-dcxrs-star-01",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_1-0963b049-9cae-4a67-b3ca-fb4012d942c5_c4f441bf5b5a4ef0a742516f526a85e5.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls1576-copy-compressed_f0be7d77cf73435c90973870d96c19ad.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_dico-x-rls1597-compressed-1_2cacb160e00d4928b1c42867f39d5b2d.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:24.469Z"
+    },
+    {
+      "id": "dirtycoins-1073619070",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Internet Friends Relaxed T-shirt",
+      "price": 390000,
+      "originalPrice": 390000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-internet-friends-relaxed-t-shirt",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/e846e0c2-f736-4a96-84ec-c809a8b49158_23e4168ced1342549b1e8b63d3263edc.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dirtycoins9175-copy_763b44cbabcd43dba10e5e62a5c636ca.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_72_7437ecbc7c8349cf98071cf08fb63427.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:24.469Z"
+    },
+    {
+      "id": "dirtycoins-1073619068",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun If I Play I Play To Win",
+      "price": 320000,
+      "originalPrice": 320000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-if-i-play-i-play-to-win",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_1-6a8e3ea7-0c2c-4c4e-a6d6-c2877ebfe0b0_67659d47d2214b739ab4945996da2bde.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_ban-sao-cua-quality-restoration-20241108220058693-compressed_b4caaae0bb4446fd9bd2d5b19e6df0fc.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_467123201-481870994283332-6489195015379185259-n_9b0cc44b78b646a4917f6cf9030498b2.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.469Z"
+    },
+    {
+      "id": "dirtycoins-1073619066",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Hanoi Lover",
+      "price": 280000,
+      "originalPrice": 280000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-hanoi-lover",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-44-1741081802966_32ab3cbd5f4e497dae5692d9242196a5.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-9449-compressed_110bc075dc7b4a529993482e82b2458c.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-8712-compressed_da898f2186f0435eb5198d9f35f6c235.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "green"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.469Z"
+    },
+    {
+      "id": "dirtycoins-1073619064",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Gradient Regular T-shirt",
+      "price": 275000,
+      "originalPrice": 275000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-gradient-regular-t-shirt",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_125_fc2b2d273dbf475eacb35fcba975faa6.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dirtycoins9740-copy_c13a5555bc82408e814702b0974b80bc.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_125-1_7feb16a7a33c4f1c819e66c8ba05f17e.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.470Z"
+    },
+    {
+      "id": "dirtycoins-1073619063",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Football Jersey Saigon Star Big Mesh",
+      "price": 290000,
+      "originalPrice": 290000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-football-jersey-saigon-star-big-mesh",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-13-1731403273894_ea215fd8f13e4f1eb3b4a023a1f622a9.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-0956-compressed-3_0439dc3c66f847e8b3a0343ef8e22171.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_z6296038041905-1f0d5a116f43a7a6bce63d6e008420a8_a88989679ed04e2f9820372bfa037bea.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "blue",
+        "red"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Polyester",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.470Z"
+    },
+    {
+      "id": "dirtycoins-1073619060",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Feelin Peace T-shirt",
+      "price": 390000,
+      "originalPrice": 390000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-feelin-peace-t-shirt",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_66_c9a11971bb1e4117bce8335f1f65d98a.jpg",
+        "https://cdn.hstatic.net/products/200001142340/-sid-5f2048-nc-ohc-xhzbsw5qzxeq7knvggegsn0-nc-ht-scontent-fsgn8-3-fna-_424d579bfc2749aba72d7645786330cc.jpg",
+        "https://cdn.hstatic.net/products/200001142340/id-5f2048-nc-ohc-ithzipkxpwiq7knvghh9tlh-nc-ht-scontent-fhan4-6-fna-oh_4a6f5d25090745bb8a4fd595c8142fc7.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "blue",
+        "yellow"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.470Z"
+    },
+    {
+      "id": "dirtycoins-1073619057",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DirtyCoins With Colibri",
+      "price": 389000,
+      "originalPrice": 389000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-with-colibri",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-1746671884147_fb36d0b4f15b48d3b77b0b768014f6fc.png",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-6098-compressed_9620ca09c9ff4276a2dd6e2afee03752.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-6099-compressed_bf9913cdd3ae4f52928b9e1b99ab66a7.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:24.470Z"
+    },
+    {
+      "id": "dirtycoins-1073619056",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Dirtycoins Western Logo Print",
+      "price": 390000,
+      "originalPrice": 390000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-western-logo-print",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-2-1744795682916_14ba69eafa4a4bdabfe2c0e92ffc0b83.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_lsr02913-min-compressed_24baa38f142b40d89fe1df38ebee2132.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_lsr02917-min-compressed_072630d62bc4499b83843115bf5c9219.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "green"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.470Z"
+    },
+    {
+      "id": "dirtycoins-1073619053",
+      "brand": "Dirty Coins",
+      "name": "Áo thun DirtyCoins Wavy Logo T-Shirt",
+      "price": 390000,
+      "originalPrice": 390000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-wavy-logo-t-shirt",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_34-5787f2b6-6d9a-4dcd-a181-9a07e5b0eaf4_fdb72dbf663844cc930fbf420e140a86.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-0778-compressed_d7b32baae0e04d6a8b7f4c8882d20cd1.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-0609-compressed_9a5e040b5c424aa1af0d8900ce49901f.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "green"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.470Z"
+    },
+    {
+      "id": "dirtycoins-1073619051",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DirtyCoins Striped Destroy All Print",
+      "price": 379000,
+      "originalPrice": 379000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-striped-destroy-all-print",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-9---copy-1755575337085_685c8b1ac9b14c53ab58e6cb6f11ead9.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-6340-compressed_0f375232770d49b981b39f1309fe6f1c.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_z7000675418592-30067f5bb06b6223fb7f7a8df04e4b88_4808288bbc0d4ba1b3f991a385dd440f.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "blue",
+        "red"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.470Z"
+    },
+    {
+      "id": "dirtycoins-1073619050",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DirtyCoins Stripe Tee Trompe Loeil Print",
+      "price": 525000,
+      "originalPrice": 525000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-stripe-tee-trompe-loeil-print",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_1-1b37dc3a-f5f6-4ea4-b366-8ac438b87aee_27365b5b327d45f8b44dbd04d0e9fa60.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-3904-compressed_761b8b8dff034dc28692d8ebddc28618.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_ban-sao-cua-img-5137-compressed_26ba2cf407094b47b13479dba6ce298e.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.470Z"
+    },
+    {
+      "id": "dirtycoins-1073619046",
+      "brand": "Dirty Coins",
+      "name": "Áo thun DirtyCoins Spray Logo T-Shirt",
+      "price": 390000,
+      "originalPrice": 390000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-spray-logo-t-shirt",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/black-back_dc28fb57525c4498bacfae3879259a9b.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dsc07033_1cb0255f92a8463e8da41b61f844c304.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dsc07042_81c0ac1004bf476796f76a1f5a92a5d3.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:24.470Z"
+    },
+    {
+      "id": "dirtycoins-1073619044",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DirtyCoins Seven Cherry",
+      "price": 455000,
+      "originalPrice": 455000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-seven-cherry",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/back_84ae100523644df29e75d3839687bbb1.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-5690-compressed_2328baf7669f4a44bcc1ce8ac5867f25.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dsc02450-compressed_211abd06e43645189ddf98ef6392b51d.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.470Z"
+    },
+    {
+      "id": "dirtycoins-1073619040",
+      "brand": "Dirty Coins",
+      "name": "Áo thun DirtyCoins Serif T-Shirt",
+      "price": 390000,
+      "originalPrice": 390000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-serif-t-shirt",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_1-d0eaf35f-e785-419b-a853-998dbca6ab26_eeaf29eb984f438b9e1a5bb8e90b8fe0.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_z7126620876715-21516df318199dcf03ce8572a6158ef5_7570a3d7231b426ea807832c03dda0ab.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_2-567f3c17-53cc-4590-8aea-f472edeb100a_5e84a9fff95648449dd7044822e9bde2.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "blue"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:24.471Z"
+    },
+    {
+      "id": "dirtycoins-1073613028",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Bomber Striped Maple Leaf",
+      "price": 795000,
+      "originalPrice": 795000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-bomber-striped-maple-leaf",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_1275b9b7f3084f94bda57b278a898762.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-9967-compressed-2eba9b2a-4473-415f-8768-cb8180abb951_60784519df2548f183da5a8a1794349f.jpg",
+        "https://cdn.hstatic.net/products/200001142340/back_5cc2b01a22b347ec9852ea93e8bb855c.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "gray"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:24.471Z"
+    },
+    {
+      "id": "dirtycoins-1073612716",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DirtyCoins Patch In Heart",
+      "price": 455000,
+      "originalPrice": 455000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-patch-in-heart",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/black-front__2__6833ea97c15b4ec99537bbc9fe563b8d.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_quality-restoration-20251018053236417-compressed_d0ecd21b65b24c7f86d03461f16a80ec.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_quality-restoration-20251018050803585-compressed_568f973784944663954fd823fc043dfb.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.647Z"
+    },
+    {
+      "id": "dirtycoins-1073612531",
+      "brand": "Dirty Coins",
+      "name": "Áo thun DirtyCoins Logo T-shirt",
+      "price": 450000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-logo-t-shirt",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__6__65cd185d6c3e4ca08f1bd804b09a495f.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dsc05278-compressed_690488860a1c4160bd8c3e80330a3db3.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dsc05276-compressed_649f4d64392140b3bf60fc7f50189b99.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.647Z"
+    },
+    {
+      "id": "dirtycoins-1073612416",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DirtyCoins Lil Pony",
+      "price": 455000,
+      "originalPrice": 455000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-lil-pony",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-2-1762309750614_0c11fd529eb04d12bd180cfcbf108447.png",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dsc02552-compressed_6867b48c4b14417e99be8373eea92fed.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-8132-compressed_1470b1269eb5430cb7e6227694b04943.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.647Z"
+    },
+    {
+      "id": "dirtycoins-1073612382",
+      "brand": "Dirty Coins",
+      "name": "Áo thun DirtyCoins Graffiti Pony Print",
+      "price": 425000,
+      "originalPrice": 425000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-graffiti-pony-print",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_1-071f1d3c-e200-4414-bfa6-f78474f2a7e7_725772b422bc4524b3cd7a4d916b45bf.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-1607-1_e7c2a149f61f44e3b2a97aa6e3b4bc6f.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-1620-1_645cb26212e440578a80c3dadfa32631.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.647Z"
+    },
+    {
+      "id": "dirtycoins-1073612346",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DirtyCoins Fade Relaxed Wild West",
+      "price": 449000,
+      "originalPrice": 449000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-fade-relaxed-wild-west",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-20-1750746248180_e412b19f24b349e28e8936910257c492.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_img-3031-min-compressed_842a195a7afd4e94bd6a71c9abe8da27.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_z7174374516486-61148a993efaa8e32d43538c7dc02501_ed06605cba194f1280a43b5f23b0c35f.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.647Z"
+    },
+    {
+      "id": "dirtycoins-1073612331",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DirtyCoins Endless Summer",
+      "price": 420000,
+      "originalPrice": 420000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dirtycoins-endless-summer",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__5__f7bb7ba737904a6f952587a9a1bfeb5d.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_img-9614-compressed_4a4653b62eec485fa2eb0b195c496aaf.jpg",
+        "https://cdn.hstatic.net/products/200001142340/back__5__7b109652c9174ad8bd37a6053e8e082d.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:25.647Z"
+    },
+    {
+      "id": "dirtycoins-1073612316",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Dico Star Embroidery",
+      "price": 399000,
+      "originalPrice": 399000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dico-star-embroidery",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-41-1762836942298_0b8a2006fcf84904a33c817ec23b8984.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-5766-compressed_fe19db6900c241d9be9e89950c964131.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-5773-1_7cde3fa0990441b783afc5ba4456ddce.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "navy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.647Z"
+    },
+    {
+      "id": "dirtycoins-1073612278",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Dico Mate T-shirt",
+      "price": 450000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dico-mate-t-shirt",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/black-back_cc1bd33f253542f3827ce6fbeb7c26ad.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_ban-sao-cua-img-7864-compressed_80081f20429f4b63ab576ca01df8ded2.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_ban-sao-cua-img-7863-compressed_22fd81bfa03b426d8624c7f156efb414.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "beige"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.647Z"
+    },
+    {
+      "id": "dirtycoins-1073612265",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Dico Lil Dino Red T-shirt",
+      "price": 390000,
+      "originalPrice": 390000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dico-lil-dino-red-t-shirt",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_10_61_a88243488af541c2ba8349a0c3a4077c.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_img-9684-compressed-compressed-1_8ccc45904ef446118222ef5f126586a8.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_8_img-9679-compressed-compressed-1_f3b687d34ea94f6f9d4733e486b5460b.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "red"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.648Z"
+    },
+    {
+      "id": "dirtycoins-1073612257",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Dico Lil Dino Green T-shirt",
+      "price": 390000,
+      "originalPrice": 390000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dico-lil-dino-green-t-shirt",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_11-c1d0bf47-dab2-4e76-b1d6-618b47200c28_394722d08a8f45d4b67ffc5e16e42915.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_img-9684-compressed-compressed-1_c2df6817bb4b4c49989f77b9eec82f73.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_8_img-9679-compressed-compressed-1_9b06498f64f04117a60a824e16e13e77.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "green"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.648Z"
+    },
+    {
+      "id": "dirtycoins-1073602813",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Dico Jr Variation",
+      "price": 395000,
+      "originalPrice": 395000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dico-jr-variation",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/black_front_192aa129da254bf1bc9a415841f64956.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-jr-den-compressed_51a7cd46dac44ae5ba657d7b76e953fb.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_smoooth-1-compressed_24f1986ab7f04de9baf1a34f3dccfaa5.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.648Z"
+    },
+    {
+      "id": "dirtycoins-1073602789",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun Dico Fluffy Print",
+      "price": 450000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dico-fluffy-print",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__33__3be435522b4d42c8a416b4dab8c06cd4.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_8_img-9504-so-1111111_aaa1b79fabf94256b785e746fa84dd14.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_img-9506-so11_41bad4ba4d59431d96f24d358b10ff22.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.648Z"
+    },
+    {
+      "id": "dirtycoins-1073602766",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DCxRS UK Tongue Ringer Tee",
+      "price": 399000,
+      "originalPrice": 399000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dcxrs-uk-tongue-ringer-tee",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_10-09d8ba1f-b3fe-49cd-a2b9-00ba48605a60_12007496fd424a62989a2b5ac0207dca.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls1236-compressed_3b6c86cd4ad24e768e7958d7c3d392d1.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls1226-compressed_20c572995b134cfead10e2d0c595ef74.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:25.648Z"
+    },
+    {
+      "id": "dirtycoins-1073602743",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DCxRS UK Logo",
+      "price": 435000,
+      "originalPrice": 435000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dcxrs-uk-logo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/ao_thun_den_dcxrs_uk_logo_2_7a35149ecb3c48778aa83f08144343ee.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls0544-compressed_17a68b4305f64c3b87a7845a4fc82840.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls0562-compressed_a701cb9e45884282a8baa0af7dd6a66a.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.648Z"
+    },
+    {
+      "id": "dirtycoins-1073602719",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DCxRS Stones Mate",
+      "price": 455000,
+      "originalPrice": 455000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dcxrs-stones-mate",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/back__13__2fa4489209bc4c638333fb17a8efd1e1.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls9761-compressed_b19d48d04d9d4636806b55f9b35546ce.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls9753-compressed_918f9efa9d434b8894a721507940926b.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.648Z"
+    },
+    {
+      "id": "dirtycoins-1073602696",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DCxRS Rhine Stones",
+      "price": 520000,
+      "originalPrice": 520000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dcxrs-rhine-stones",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__21__46c7b735a8fa4b399354160da0d24af7.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls8751-compressed_b8af032ddde648248582d3d680564177.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls8707-compressed_f118e7febbb440b192dbefb1530fcedd.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.648Z"
+    },
+    {
+      "id": "dirtycoins-1073602691",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DCxRS Logo",
+      "price": 395000,
+      "originalPrice": 395000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dcxrs-logo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/dcxrs_logo_1_f3e56c19128d4202aa8b32f4f0ef8397.jpg",
+        "https://cdn.hstatic.net/products/200001142340/_5_dico-x-rls1782-copy-compressed-86454901-dd42-41f7-8c6b-82952c81cef2_16c572dda28d45b480dbfa045ec2d922.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-1611-compressed_9d355446f7e14f7e85488caa2eea47ee.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:25.648Z"
+    },
+    {
+      "id": "dirtycoins-1073602682",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DCxRS International",
+      "price": 490000,
+      "originalPrice": 490000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dcxrs-international",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/back__19__586393ed120041bd84f0f0e3ca17cb40.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_8_img-8255-compressed-a478492d-1778-4207-81d1-c7c600a152e6_6b4463f85525461fbb95b1ff54c0f12a.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_img-8258-compressed_f7176b6a902f40a2a2329eec36b32728.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.648Z"
+    },
+    {
+      "id": "dirtycoins-1073602632",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DCxRS Eagle Jet 2 American Wash",
+      "price": 545000,
+      "originalPrice": 545000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dcxrs-eagle-jet-2-american-wash",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_1-d4cc6a83-6da5-482e-a72a-2a069839ed6d_3a3f91d0529e45139936a5d9c0e4312e.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls8652-compressed-2_d28c713f55a64c0ca4aa5f5930a103c2.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls8668-copy-compressed-compressed_4361002abd1b406b968bd968c22134a8.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:25.648Z"
+    },
+    {
+      "id": "dirtycoins-1073602608",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DCxRS Desert Sky",
+      "price": 420000,
+      "originalPrice": 420000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dcxrs-desert-sky",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_11-ec0e474e-b93c-4141-9462-8e2ba2ff6cfe_27d5e726d074407cba8c68879f8338c3.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_8_img-0547-1-compressed_2ccbfe6001224717aaf893af93aece51.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dsc04011-compressed-6_b9e3d09565e0448c98c99c73ba3e47bf.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:25.648Z"
+    },
+    {
+      "id": "dirtycoins-1073602594",
+      "brand": "Dirty Coins",
+      "name": "Áo Thun DCxRS Breaking Printed",
+      "price": 449000,
+      "originalPrice": 449000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-dcxrs-breaking-printed",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/ao_thun_dcxrs_breaking_printed_1_a58f47696fb545589f2403e7fe8baffa.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls1192-compressed-3_f303f93318394d67b582ad66c9ac4bcf.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls1190-copy-compressed-5_8208da936fde4dbdbe4d45fd6a46c23e.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "beige"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.648Z"
+    },
+    {
+      "id": "dirtycoins-1073602531",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Casual T-shirt",
+      "price": 320000,
+      "originalPrice": 320000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-casual-t-shirt",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__3__ee2e4f77d0ba43108f1e81396e4ed543.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_9_dirtycoins9395-copy_ed7d4e2beb924462a8aca782dff8557d.jpg",
+        "https://cdn.hstatic.net/products/200001142340/back__3__f639419bbd404d6ca1f29848f6d43753.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Cotton",
+      "tags": [
+        "casual",
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.649Z"
+    },
+    {
+      "id": "dirtycoins-1073602367",
+      "brand": "Dirty Coins",
+      "name": "Áo Tank Top Women DCxRS Variations",
+      "price": 399000,
+      "originalPrice": 399000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-tank-top-women-dcxrs-variations",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_fa68c9254c9c47abb46139cf6ad334d2.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_8_img-2398-compressed_e8dcf0c74a7c4029ba004b39b37e0e70.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_img-2395-compressed_fad2614a7ff5400989516ce2fa8d7127.jpg"
+      ],
+      "category": "top",
+      "subcategory": "top",
+      "gender": "female",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.649Z"
+    },
+    {
+      "id": "dirtycoins-1073602352",
+      "brand": "Dirty Coins",
+      "name": "Áo Tank Top Women DCxRS Tongue Lace",
+      "price": 399000,
+      "originalPrice": 399000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-tank-top-women-dcxrs-tongue-lace",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_c156f17c08f34a79b8320d3afdcc51c5.jpg",
+        "https://cdn.hstatic.net/products/200001142340/b_n_sao_c_a_img_4763__2__4c9096219c79431ba2c849d80bcb1272.jpg",
+        "https://cdn.hstatic.net/products/200001142340/img_1935_399e2eb8f24a4d1b8ab935eeb1df3a9a.jpg"
+      ],
+      "category": "top",
+      "subcategory": "top",
+      "gender": "female",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.649Z"
+    },
+    {
+      "id": "dirtycoins-1073602330",
+      "brand": "Dirty Coins",
+      "name": "Áo Sweatshirt DCxRS Big Logo Printed",
+      "price": 620000,
+      "originalPrice": 620000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-sweatshirt-dcxrs-big-logo-printed",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/dcxrl_1.1_058b024465d94bcfbed5c93df3c7ed38.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls9846-compressed_1bb16fb325bd4ff28701358fa1848f57.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls9854-compressed_ffa60e70b5d54007bc34a569d005bddb.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "pink",
+        "orange"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "NỈ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.649Z"
+    },
+    {
+      "id": "dirtycoins-1073602310",
+      "brand": "Dirty Coins",
+      "name": "Áo Sweater DirtyCoins Horse Power Knit",
+      "price": 950000,
+      "originalPrice": 950000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-sweater-dirtycoins-horse-power-knit",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__50__ebf8da3f1c1f46688e239491461e76e1.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_z7462795317509-38a18ad70ca8067ff947db9cd4a9f41f-compressed_3cc37abfca564e85950f1fbc58fa2d79.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_quality-restoration-20260115190554869-compressed_b7ab17405d7242eda3d73370e30aa368.jpg"
+      ],
+      "category": "top",
+      "subcategory": "top",
+      "gender": "unisex",
+      "colors": [
+        "red"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.649Z"
+    },
+    {
+      "id": "dirtycoins-1073602174",
+      "brand": "Dirty Coins",
+      "name": "Áo Sơ Mi Letters Monogram Denim Jersey Shirt",
+      "price": 379000,
+      "originalPrice": 379000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-so-mi-letters-monogram-denim-jersey-shirt",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-8-1704509799046_b5c2ff1e3ae745de87c66f78fc76f8ad.jpg",
+        "https://cdn.hstatic.net/products/200001142340/-ba-a3nsaoc-e1-bb-a7aimg-2207-min-6ad04d71-e003-4448-8462-de3e802dc6d0_c9e7791ad8ca410182e8e11323b7d73b.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_99-1_15625398f98c4492a42b985f13be9b8a.jpg"
+      ],
+      "category": "top",
+      "subcategory": "shirt",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Denim",
+      "tags": [
+        "cotton",
+        "denim"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:25.649Z"
+    },
+    {
+      "id": "dirtycoins-1073602077",
+      "brand": "Dirty Coins",
+      "name": "Áo Sơ Mi DirtyCoins Bluestar Check Shirt",
+      "price": 630000,
+      "originalPrice": 630000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-so-mi-dirtycoins-bluestar-check-shirt",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_truoc-2_6950ce78d9fa4f1e992fba45cb7c39d3.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dc-te-t3807-compressed-3_5b62a9ee0963411faf222241762b4a21.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-0790-1_a3e5567af81b46b8aaa65837772e58d0.jpg"
+      ],
+      "category": "top",
+      "subcategory": "shirt",
+      "gender": "unisex",
+      "colors": [
+        "red"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.649Z"
+    },
+    {
+      "id": "dirtycoins-1073602044",
+      "brand": "Dirty Coins",
+      "name": "Áo Sơ Mi Baseball White Striped",
+      "price": 590000,
+      "originalPrice": 590000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-so-mi-baseball-white-striped",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_18-d88ebfe8-43d3-4d63-9ef5-cae528fd4c74_fc41fa63004540cabf606e6961dfa09b.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_ban-sao-cua-img-9208-1-compressed_1908ea0587684a1cbc7fbe8be50fc3a9.jpg",
+        "https://cdn.hstatic.net/products/200001142340/2-19-1717473315351_92df5f2d565c453db8f4872146c16ad8.jpg"
+      ],
+      "category": "top",
+      "subcategory": "shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "red"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.649Z"
+    },
+    {
+      "id": "dirtycoins-1073602021",
+      "brand": "Dirty Coins",
+      "name": "Áo Sơ Mi Baseball Black Striped",
+      "price": 679000,
+      "originalPrice": 679000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-so-mi-baseball-black-striped",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_8_22_f40ec0c265ee45589eaf7fb21fab11a9.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_449751879-460517953367650-1340179086361217998-n_2188be09ddc74474b23dbbf63de8c3d5.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_449721449-460517980034314-2286847481439652784-n_90a63c8a892b4f449014f5d0f30048c9.jpg"
+      ],
+      "category": "top",
+      "subcategory": "shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.649Z"
+    },
+    {
+      "id": "dirtycoins-1073601941",
+      "brand": "Dirty Coins",
+      "name": "Áo Sơ Mi \"Y\" Embroidered Khaki Shirt",
+      "price": 599000,
+      "originalPrice": 599000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-so-mi-y-embroidered-khaki-shirt",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_1-a642d2e3-92bf-4a0e-9233-306da7157187_b9c7b61229fa4ed1918793da80ef6fbe.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_517233177-18046279766560409-9169230109058924538-n_2bfae22c8ffe4835be4ce240c91f90d8.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-3149-compressed_5d866670c84f43d789479efe0968cfd3.jpg"
+      ],
+      "category": "top",
+      "subcategory": "shirt",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "khaki"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "chino"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.650Z"
+    },
+    {
+      "id": "dirtycoins-1073601844",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Sweatshirt Academy Script",
+      "price": 489000,
+      "originalPrice": 489000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-sweatshirt-academy-script",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_224_1-09693d34-ebe7-4f48-9ec0-be6598f0b56b_5e670dd6a7f340f39fd13967072463b9.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-6907-compressed_b45d063ea910435e96f34f430a1e3290.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-6908-compressed_47d3d75ca3e94603849ca2e0e3056312.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "pink"
+      ],
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "material": "NỈ",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.650Z"
+    },
+    {
+      "id": "dirtycoins-1073601794",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác More Money More Problems Hoodie",
+      "price": 469000,
+      "originalPrice": 469000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-more-money-more-problems-hoodie",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_97_c9c27290ab2749bf9cca149262a635cc.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dsc06479-min-compressed_0aa0e03081c8476fb85b7eb5ed61a3c9.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_97-1_9527e922c72b4b7eb88f1c6a410791c5.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "NỈ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.650Z"
+    },
+    {
+      "id": "dirtycoins-1073601708",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Hoodie DirtyCoins Double Trouble",
+      "price": 499000,
+      "originalPrice": 499000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-hoodie-dirtycoins-double-trouble",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-19-1736760280960_e068ee3facf24fed9c845ba29d7953bc.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dsc04420-compressed-2_09192aa7411a4a6786e60dacb3617330.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dsc04440-compressed_ab67f2f6cef14a3aa9f00b98d397aeb5.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "brown"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "NỈ",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.650Z"
+    },
+    {
+      "id": "dirtycoins-1073601707",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Hoodie Dico Mate",
+      "price": 720000,
+      "originalPrice": 720000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-hoodie-dico-mate",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_1-0af1c9b8-d3fb-4b00-ba2b-c1741b2b9652_29df109580a744eab713127f3a0894bc.jpg",
+        "https://cdn.hstatic.net/products/200001142340/2-20-1732163419743_c6f93246f2d144419301f0e7066d251b.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-1355-compressed_b23506573f48475680efb5ccd488e5b8.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "NỈ",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.650Z"
+    },
+    {
+      "id": "dirtycoins-1073601706",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Hoodie DCxRS Sheriff",
+      "price": 899000,
+      "originalPrice": 899000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-hoodie-dcxrs-sheriff",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-52-1764387301463_1755a7dd7d54440089ecd93807c968aa.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls8589-compressed_43fa1934c95745eeab1c7c9df8746816.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls8599-compressed_86a540c96ef44c4a9429f95cf2b24fe1.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "NỈ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.650Z"
+    },
+    {
+      "id": "dirtycoins-1073601705",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Hoodie \"Y\" Patches Relaxed",
+      "price": 699000,
+      "originalPrice": 699000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-hoodie-y-patches-relaxed",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_4ea0649511d444d4b22b9ce3a84efa53.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_6-compressed_c12bdfd749b6466e875ad457ead76d36.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_6b-compressed_a40dc622c5414c70a41929910cb44760.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "gray"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "NỈ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.650Z"
+    },
+    {
+      "id": "dirtycoins-1073601704",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Hooded Denim DCxRS Patch",
+      "price": 1490000,
+      "originalPrice": 1490000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-hooded-denim-dcxrs-patch",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_truoc-compressed_0912166a84b9411ca8d51856a73c1d2a.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_dico-x-rls8820-compressed-2_e8d747f74863498288d4c45d8dd4b99d.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls8867-copy-compressed_94944d1193d14cf3abe8e912bbee8999.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "material": "Denim",
+      "tags": [
+        "denim"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:25.650Z"
+    },
+    {
+      "id": "dirtycoins-1073601703",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Flannel Rope Script Embroidery",
+      "price": 669000,
+      "originalPrice": 669000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-flannel-rope-script-embroidery",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-25-1736998917908_e83e82648b59414bbddc488647d106a6.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dsc06255-5a0d712e-a1fd-4885-b041-4f6770e81e86_f94b36bdfd5c4a07a8005005689cd41e.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dsc06278_d5d16f45d8ab46db8220c63da2705d5c.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.650Z"
+    },
+    {
+      "id": "dirtycoins-1073601702",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Flannel Raw Hem Embroidery",
+      "price": 650000,
+      "originalPrice": 650000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-flannel-raw-hem-embroidery",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-46-1763709161880_1f5e760a92b54e05bd954e2db96d58d2.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_ban-sao-cua-2b26d50f-d6bf-46b3-873c-57c07de40908_16d5721e733c499cab518b354842d19a.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_ban-sao-cua-625b2779-52b2-4404-a0ce-13c573119adc_e34932a05e794851ad54329c7be73795.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "blue"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.650Z"
+    },
+    {
+      "id": "dirtycoins-1073601701",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Flannel DCxRS Western Rivet",
+      "price": 695000,
+      "originalPrice": 695000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-flannel-dcxrs-western-rivet",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/ao_khoac_flannel_dcxrs_western_rivet_1_423751f6d72d42dab40e93282694480e.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls0226-copy-compressed_1168ceb6a59f4324977f6cb32f410001.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls0209-compressed_fe18a0fb4bc140a485922597df7fd207.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "brown"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.651Z"
+    },
+    {
+      "id": "dirtycoins-1073601699",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác DirtyCoins Checkerboard Knit Cardigan",
+      "price": 490000,
+      "originalPrice": 490000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-dirtycoins-checkerboard-knit-cardigan",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_191-6_65917beeb4e444cfb39bf9054de61eb4.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_191-7_47d84cdf0a4f4889bc8f20fa2fd16012.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "cardigan",
+      "gender": "unisex",
+      "colors": [
+        "orange"
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "material": "LEN",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.651Z"
+    },
+    {
+      "id": "dirtycoins-1073601698",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Denim Zip Up DCxRS Sheriff",
+      "price": 1450000,
+      "originalPrice": 1450000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-denim-zip-up-dcxrs-sheriff",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_sau-e41a1f46-1744-4a7f-a1b8-6311bfbafd3d_aab2c07aa2044057a71ed76a749abedb.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dsc04388-compressed-1_bafd90f03b7a445686117fcd03608681.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dsc04380-compressed-3-33c01207-b529-4ed0-919d-29556f178c47_d3e31be311284c4693f919fd67f54524.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "green"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Denim",
+      "tags": [
+        "denim"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:25.651Z"
+    },
+    {
+      "id": "dirtycoins-1073601697",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Denim Jacket Frayed Logo",
+      "price": 890000,
+      "originalPrice": 890000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-denim-jacket-frayed-logo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-1744429818524_668f2af8366b4f1ab42a3106ecfaa8ea.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-0096-compressed_9071f576fcfb47d09c88570897314750.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-9551-compressed_5f06754ce3be4030b4572adac5acd82d.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Denim",
+      "tags": [
+        "cotton",
+        "denim"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:25.651Z"
+    },
+    {
+      "id": "dirtycoins-1073601696",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Denim DCxRS Western Rivet Snake",
+      "price": 1350000,
+      "originalPrice": 1350000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-denim-dcxrs-western-rivet-snake",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/45.1-1764572439219_50394eecdc7c48afa593fee49b624d7d.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls9575-compressed-2_6f7e901be71241f5be27feeb1cfb104e.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls9561-copy-compressed-1-compressed_fe9bf3344db14b8c86c6e1445d263f03.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Denim",
+      "tags": [
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.651Z"
+    },
+    {
+      "id": "dirtycoins-1073601695",
+      "brand": "Dirty Coins",
+      "name": "Áo Khoác Denim DCxRS Star Racing Inspired",
+      "price": 995000,
+      "originalPrice": 995000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-denim-dcxrs-star-racing-inspired",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_truoc_10793543fd52428ea7e36e64386d877a.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls1893-compressed-compressed_2f8b855d24fc494e928715b28427f395.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls1930-compressed-2_e6b558e92be14216abfce050afd1c2aa.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "M",
+        "S",
+        "L"
+      ],
+      "material": "Denim",
+      "tags": [
+        "denim"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:25.651Z"
+    },
+    {
+      "id": "dirtycoins-1073601694",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Denim Boxy DCxRS Voodoo",
+      "price": 1290000,
+      "originalPrice": 1290000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-denim-boxy-dcxrs-voodoo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/truoc-6-1766990931526_b73c6dff8b814b5587ecd085e52e2d91.jpg",
+        "https://cdn.hstatic.net/products/200001142340/mgi_5_dico-x-rls0512-compressed-4-cfb51c84-ed1b-414c-a067-1cb2861dfb8e_596073a5e9794070abc7f2bab2b04586.jpg",
+        "https://cdn.hstatic.net/products/200001142340/mgi_6_dico-x-rls0497-compressed-2-27bf1e06-d0d9-45ae-9b2c-fc8f9a7e4f5f_ca76fa08476441a8a36e3eb0a63e0b4e.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Denim",
+      "tags": [
+        "denim"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:25.651Z"
+    },
+    {
+      "id": "dirtycoins-1073601693",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác DCxRS Sheriff",
+      "price": 990000,
+      "originalPrice": 990000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-dcxrs-sheriff",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-50-1764387071247_55cdc95dfef14d049b9fcb69a133cacd.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls9252-compressed-1_207ac76c61fb409c988993f22835ff1a.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls9284-copy-compressed-1_49d69bee272b47cfbc76aee30c9b6f0a.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "gray"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "NỈ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:26.599Z"
+    },
+    {
+      "id": "dirtycoins-1073601692",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Bomber Hooded DCxRS Patch",
+      "price": 1045000,
+      "originalPrice": 1045000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-bomber-hooded-dcxrs-patch",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-49-1764386993046_89a6f9fad6f246158f03435e21009753.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls1413-compressed_8113896f4ec743ae95b933fd0926f496.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls1340-compressed_6fad4f2abae947c8bea4a25653f46be1.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "gray"
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:26.599Z"
+    },
+    {
+      "id": "dirtycoins-1073601691",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Bomber DCxRS Camo Fur Hooded",
+      "price": 1190000,
+      "originalPrice": 1190000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-bomber-dcxrs-camo-fur-hooded",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-48-1764386955250_352cc56cec9c4599b0c46a42fbfc9012.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls1782-copy-compressed_512caaaee4bf4e46993e96f54f96ea88.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls1789-compressed-2_d27e8679c1d9411cbbc1a2ae18f86ee4.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "gray"
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:26.599Z"
+    },
+    {
+      "id": "dirtycoins-1073601690",
+      "brand": "Dirty Coins",
+      "name": "Áo Jersey Soccer DCxRS Logo Glossy",
+      "price": 450000,
+      "originalPrice": 450000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-jersey-soccer-dcxrs-logo-glossy",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__20__93ea21d768ef40feae3ef7897ea0fd81.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls9086-compressed-1_f210212355584187b049738fa4d7d1e3.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-3885-compressed_b37c154ab1bb4b138788fc82156c6907.jpg"
+      ],
+      "category": "top",
+      "subcategory": "top",
+      "gender": "unisex",
+      "colors": [
+        "gray"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "POLYESTER",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:26.600Z"
+    },
+    {
+      "id": "dirtycoins-1073601689",
+      "brand": "Dirty Coins",
+      "name": "Áo Jersey LS DCxRS Star 07 One Shoulder",
+      "price": 560000,
+      "originalPrice": 560000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-jersey-ls-dcxrs-star-07-one-shoulder",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/mat-truoc-1-1764389487580_5f418ce29b3c4a3ea4cc3ed7e9014253.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_img-9137-1_058d0b49a7fd43e5a099db3805feed5d.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls9900-compressed-3__1__8bd08618795a47bd925c30ad00312bf0.jpg"
+      ],
+      "category": "top",
+      "subcategory": "top",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:26.600Z"
+    },
+    {
+      "id": "dirtycoins-1073601688",
+      "brand": "Dirty Coins",
+      "name": "Áo dài tay Wreath Leaf Sweatshirt",
+      "price": 299000,
+      "originalPrice": 299000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-dai-tay-wreath-leaf-sweatshirt",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_118_b658d424916f40d0809b7df419953c31.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_5-ec3292cd-bf98-4aa1-a22f-77fc057bd3df_eec9b477951b4f94981132604a3f450e.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_117_4d756631b59e40fdb9fd682111fbd4d5.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "green"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "NỈ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:26.600Z"
+    },
+    {
+      "id": "dirtycoins-1073601651",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Hoodie Zip Up DCxRS Vint Tongue",
+      "price": 915000,
+      "originalPrice": 915000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-hoodie-zip-up-dcxrs-vint-tongue",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_5b6bad867bf04e308baf624b6a7b9ead.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dsc00015-compressed_e93c901f89714fff96fa71995a806b91.jpg",
+        "https://cdn.hstatic.net/products/200001142340/back_7fa9a8d39b0047b19865036e7a1598bf.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "gray"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "NỈ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:26.600Z"
+    },
+    {
+      "id": "dirtycoins-1073601614",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Hoodie Zip Up DCxRS US Tongue",
+      "price": 940000,
+      "originalPrice": 940000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-hoodie-zip-up-dcxrs-us-tongue",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front_e67a5e2c0b06466ba69f53ff46049483.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_10_img-5870-compressed_f98271cb3b6f49ebbe8c545204c90bbc.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls0407-done-compressed-4-compressed_51fc0333c933436dbba1758d2db91d81.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "navy"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:26.600Z"
+    },
+    {
+      "id": "dirtycoins-1073601525",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Hoodie Oversize Play To Win",
+      "price": 499000,
+      "originalPrice": 499000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-hoodie-oversize-play-to-win",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-18-1732093038654_395b0431183e4c31bfc2c4339ae36fcd.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_472372785-583778894374888-247227346984257369-n_980edf9e1aa947248b8da6b9f068e511.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_4_2-fec94dfd-f8de-48d2-b83f-74afcd9d8df0_438797dfc26a44369ae4bb8c08ae18a9.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "NỈ",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:26.601Z"
+    },
+    {
+      "id": "dirtycoins-1073601491",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Hoodie Oversize Nothing Changes",
+      "price": 499000,
+      "originalPrice": 499000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-hoodie-oversize-nothing-changes",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-19-1732093000380_9bd0b6d170b141ebafb090e8631f4fd9.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_img-6621-compressed-2_5c8d179ec67c4172adb1ca5e4b16e318.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_z6296037168189-7684ac9a084f87b44411d85db4de775e_a2d7dc6b1e2c45dfb924879885326c41.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "white"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "NỈ",
+      "tags": [
+        "oversize"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:26.601Z"
+    },
+    {
+      "id": "dirtycoins-1073601450",
+      "brand": "Dirty Coins",
+      "name": "Áo khoác Hoodie DirtyCoins Star",
+      "price": 479000,
+      "originalPrice": 479000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-hoodie-dirtycoins-star",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-8-1735801411393_7aeb81958a2c4d26b829ab9ab0e491bf.jpg",
+        "https://cdn.hstatic.net/products/200001142340/45568648220-7625106675963312136-n-dab7a271-db43-487d-ab57-a4c163f489e8_f1f1bcee9d0a4cd5917a0a8d1bd86cc6.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_img-9954-compressed_1a88b8c085bc49a69a0fb91cf7dfe63c.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "blue"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "NỈ",
+      "tags": [
+        "casual"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:26.601Z"
+    },
+    {
+      "id": "dirtycoins-1073600763",
+      "brand": "Dirty Coins",
+      "name": "Áo Khoác Denim Boxy DCxRS Flame Raw",
+      "price": 1090000,
+      "originalPrice": 1090000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-khoac-denim-boxy-dcxrs-flame-raw",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/imgi_3_truoc-7d356111-e29d-41f1-99c7-7ce17596aa04_461e4bc6b75f44c08326da733b9a0017.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_dico-x-rls0606-copy-compressed-1_fb7431e44426414c91405c9def78ea47.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_dico-x-rls0579-copy-compressed-1-compressed-1_1de8bdbc68a048fbac69776eef6847e0.jpg"
+      ],
+      "category": "outerwear",
+      "subcategory": "jacket",
+      "gender": "unisex",
+      "colors": [
+        "unknown"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "Denim",
+      "tags": [
+        "denim"
+      ],
+      "inStock": false,
+      "scrapedAt": "2026-09-23T17:59:26.601Z"
+    },
+    {
+      "id": "dirtycoins-1073598403",
+      "brand": "Dirty Coins",
+      "name": "Áo dài tay Letters Monogram Knit Sweater",
+      "price": 900000,
+      "originalPrice": 900000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-dai-tay-letters-monogram-knit-sweate",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/1-29-1732528316409_520e7fcaa264456fb6b0d2c4fec5242b.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_472983437-588485713904206-3040494731559426329-n_22664253968641f685d5d22f9b5fefe4.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_5_472932079-588485747237536-7771615089654561533-n_7574ece42f1f4d3ea06d1da5c2a94a04.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "black",
+        "blue",
+        "pink"
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:26.602Z"
+    },
+    {
+      "id": "dirtycoins-1073591089",
+      "brand": "Dirty Coins",
+      "name": "Áo thun Regular Boxy DC Wavy Logo",
+      "price": 390000,
+      "originalPrice": 390000,
+      "currency": "VND",
+      "url": "https://dirtycoins.vn/products/ao-thun-regular-boxy-dc-wavy-logo",
+      "images": [
+        "https://cdn.hstatic.net/products/200001142340/front__32__d58ec441270a4c2492523f7da7522f35.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_6_ban-sao-cua-img-6601-compressed_cb69ca8fe14241e9b0503a30ad025ec9.jpg",
+        "https://cdn.hstatic.net/products/200001142340/imgi_7_ban-sao-cua-img-6613-compressed_66b37e89e5cf41d8b2fb63c963669780.jpg"
+      ],
+      "category": "top",
+      "subcategory": "t-shirt",
+      "gender": "unisex",
+      "colors": [
+        "white",
+        "black",
+        "green"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "material": "COTTON",
+      "tags": [
+        "cotton"
+      ],
+      "inStock": true,
+      "scrapedAt": "2026-09-23T17:59:26.602Z"
+    }
+  ]
+}

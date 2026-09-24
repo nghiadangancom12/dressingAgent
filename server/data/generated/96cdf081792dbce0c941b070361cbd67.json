@@ -1,0 +1,6 @@
+{
+  "prompt": "Ảnh 1 là ảnh gương mặt của người dùng. Tạo một ảnh lookbook thời trang chụp toàn thân của CHÍNH người này: giữ nguyên gương mặt, kiểu tóc và màu da của người trong Ảnh 1, dựng phần thân phù hợp với vóc dáng được mô tả. Vóc dáng người mặc: cao 185 cm, nặng 70 kg — dáng người cao, vóc dáng cân đối. Cho người này mặc ĐÚNG và ĐỦ các món quần áo sau, chỉ lấy quần áo và bỏ qua hoàn toàn người mẫu xuất hiện trong các ảnh đó: Ảnh 2: Áo thun nam dài tay cotton gắn tag form regular (Routine); Ảnh 3: Quần Jogger Giả Lông Cừu (Uniqlo). Giữ nguyên chính xác màu sắc, họa tiết, logo, kiểu dáng, form và chất liệu của từng món. Phong cách: smart-casual. Ánh sáng studio chuyên nghiệp, phông nền studio tối giản, tạo dáng tự nhiên, thấy rõ toàn bộ trang phục từ đầu đến chân, chất lượng chuẩn tạp chí thời trang.",
+  "imageUrl": "https://dashscope-463f.oss-accelerate.aliyuncs.com/1d/1b/20260923/10739b93/1790178137_cfc365a9.png?Expires=1790264537&OSSAccessKeyId=LTAI5tRcsWJEymQaTsKbKqGf&Signature=fHFWS6FtGvQBY2UVMcT2x4QoujM%3D",
+  "usedReferences": 3,
+  "createdAt": "2026-09-23T15:42:20.596Z"
+}

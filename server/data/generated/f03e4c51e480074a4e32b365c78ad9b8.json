@@ -1,0 +1,6 @@
+{
+  "prompt": "Ảnh 1 là ảnh toàn thân của người dùng. Tạo một ảnh lookbook thời trang chụp toàn thân của CHÍNH người này: chỉ lấy con người từ Ảnh 1 (gương mặt, kiểu tóc, màu da, vóc dáng và tỉ lệ cơ thể), BỎ HOÀN TOÀN quần áo người đó đang mặc, không giữ lại màu hay kiểu của trang phục cũ. Cho người này mặc ĐÚNG và ĐỦ các món quần áo sau, chỉ lấy quần áo và bỏ qua hoàn toàn người mẫu xuất hiện trong các ảnh đó: Ảnh 2: Áo sơ mi tay ngắn nữ vải texture form Regular (Routine); Ảnh 3: Đầm Thun Nữ Ngắn Tay Form Regular (Routine); Ảnh 4: Giày Búp Bê Nữ Biti's Glowy Màu Trắng BBW004600TRG (Biti's); Ảnh 5: Túi Xách Nữ Bit's Heartlink Màu Xanh Dương BBTW00800XDG (Biti's). Giữ nguyên chính xác màu sắc, họa tiết, logo, kiểu dáng, form và chất liệu của từng món. Phong cách: nữ tính, dễ thương, daily. Ánh sáng studio chuyên nghiệp, phông nền studio tối giản, tạo dáng tự nhiên, thấy rõ toàn bộ trang phục từ đầu đến chân, chất lượng chuẩn tạp chí thời trang.",
+  "imageUrl": "https://dashscope-463f.oss-accelerate.aliyuncs.com/1d/99/20260924/10739b93/1790218927_4faff26a.png?Expires=1790305328&OSSAccessKeyId=LTAI5tRcsWJEymQaTsKbKqGf&Signature=oDsHTinGJWsp3XbAhB%2Fg5Q3DtKY%3D",
+  "usedReferences": 5,
+  "createdAt": "2026-09-24T03:02:12.992Z"
+}

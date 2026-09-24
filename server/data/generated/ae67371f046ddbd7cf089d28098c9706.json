@@ -1,0 +1,6 @@
+{
+  "prompt": "Ảnh 1 là ảnh toàn thân của người dùng. Tạo một ảnh lookbook thời trang chụp toàn thân của CHÍNH người này: chỉ lấy con người từ Ảnh 1 (gương mặt, kiểu tóc, màu da, vóc dáng và tỉ lệ cơ thể), BỎ HOÀN TOÀN quần áo người đó đang mặc, không giữ lại màu hay kiểu của trang phục cũ. Vóc dáng người mặc: cao 170 cm, nặng 50 kg — chiều cao trung bình, vóc dáng gầy, mảnh khảnh. Cho người này mặc ĐÚNG và ĐỦ các món quần áo sau, chỉ lấy quần áo và bỏ qua hoàn toàn người mẫu xuất hiện trong các ảnh đó: Ảnh 2: AIRism Cotton Áo Thun Dáng Rộng | Tay Lỡ (Uniqlo); Ảnh 3: Quần Short linen Nam Aristino Business Linen 1SOU02AZ (Aristino); Ảnh 4: Giày Sandal Nữ Biti's SANDY Collection Màu Trắng BPW007100TRG (Biti's); Ảnh 5: HEATTECH Mũ Len Vặn Thừng (Uniqlo). Giữ nguyên chính xác màu sắc, họa tiết, logo, kiểu dáng, form và chất liệu của từng món. Phong cách: linen, summer-casual, light-color. Ánh sáng studio chuyên nghiệp, phông nền studio tối giản, tạo dáng tự nhiên, thấy rõ toàn bộ trang phục từ đầu đến chân, chất lượng chuẩn tạp chí thời trang.",
+  "imageUrl": "https://dashscope-463f.oss-accelerate.aliyuncs.com/1d/eb/20260924/10739b93/1790219402_fca44ab8.png?Expires=1790305802&OSSAccessKeyId=LTAI5tRcsWJEymQaTsKbKqGf&Signature=SJ7IHBTtLtBqJbC1CSfhXy87Zhg%3D",
+  "usedReferences": 5,
+  "createdAt": "2026-09-24T03:10:07.379Z"
+}

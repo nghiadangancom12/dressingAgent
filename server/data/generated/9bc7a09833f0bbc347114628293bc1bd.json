@@ -1,0 +1,6 @@
+{
+  "prompt": "Ảnh 1 là ảnh toàn thân của người dùng. Tạo một ảnh lookbook thời trang chụp toàn thân của CHÍNH người này: chỉ lấy con người từ Ảnh 1 (gương mặt, kiểu tóc, màu da, vóc dáng và tỉ lệ cơ thể), BỎ HOÀN TOÀN quần áo người đó đang mặc, không giữ lại màu hay kiểu của trang phục cũ. Cho người này mặc ĐÚNG và ĐỦ các món quần áo sau, chỉ lấy quần áo và bỏ qua hoàn toàn người mẫu xuất hiện trong các ảnh đó: Ảnh 2: Áo Thun Biti's Hunter Unisex Màu Đen BOU001800DEN (Biti's); Ảnh 3: Quần Dài Biti’s Hunter Unisex Màu Đen ACMH01000DEN (Biti's); Ảnh 4: Dép Eva Biti's Nữ Màu Xám DEW003101XAM (Biti's). Giữ nguyên chính xác màu sắc, họa tiết, logo, kiểu dáng, form và chất liệu của từng món. Phong cách: casual, beach, summer. Ánh sáng studio chuyên nghiệp, phông nền studio tối giản, tạo dáng tự nhiên, thấy rõ toàn bộ trang phục từ đầu đến chân, chất lượng chuẩn tạp chí thời trang.",
+  "imageUrl": "https://dashscope-463f.oss-accelerate.aliyuncs.com/1d/44/20260924/10739b93/1790218660_6a20c6b5.png?Expires=1790305060&OSSAccessKeyId=LTAI5tRcsWJEymQaTsKbKqGf&Signature=OZhzRzuFb%2F5ZgXr7uSvi%2BO%2F5aKk%3D",
+  "usedReferences": 4,
+  "createdAt": "2026-09-24T02:57:46.025Z"
+}

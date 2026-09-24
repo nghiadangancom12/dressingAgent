@@ -1,0 +1,6 @@
+{
+  "prompt": "Ảnh 1 là ảnh gương mặt của người dùng. Tạo một ảnh lookbook thời trang chụp toàn thân của CHÍNH người này: giữ nguyên gương mặt, kiểu tóc và màu da của người trong Ảnh 1, dựng phần thân phù hợp với vóc dáng được mô tả. Vóc dáng người mặc: cao 175 cm, nặng 65 kg — chiều cao trung bình, vóc dáng cân đối. Cho người này mặc ĐÚNG và ĐỦ các món quần áo sau, chỉ lấy quần áo và bỏ qua hoàn toàn người mẫu xuất hiện trong các ảnh đó: Ảnh 2: Áo Sơ Mi Vải Oxford Dáng Boxy (Uniqlo); Ảnh 3: Quần Dài Biti’s Hunter Unisex Màu Đen ACMH01000DEN (Biti's); Ảnh 4: Giày Loafer Nam Da Lộn Aristino Business 1SH0350S2 (Aristino). Giữ nguyên chính xác màu sắc, họa tiết, logo, kiểu dáng, form và chất liệu của từng món. Phong cách: smart-casual, elegant, versatile. Ánh sáng studio chuyên nghiệp, phông nền studio tối giản, tạo dáng tự nhiên, thấy rõ toàn bộ trang phục từ đầu đến chân, chất lượng chuẩn tạp chí thời trang.",
+  "imageUrl": "https://dashscope-463f.oss-accelerate.aliyuncs.com/1d/bb/20260924/10739b93/1790221028_53241b2a.png?Expires=1790307428&OSSAccessKeyId=LTAI5tRcsWJEymQaTsKbKqGf&Signature=vIQYSiLY5FlP13aCg2BNP41o8O4%3D",
+  "usedReferences": 4,
+  "createdAt": "2026-09-24T03:37:13.624Z"
+}
