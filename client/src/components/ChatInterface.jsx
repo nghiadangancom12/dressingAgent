@@ -125,76 +125,76 @@ export default function ChatInterface({ messages, isLoading, onSendMessage, favo
             />
           ) : (
             messages.map((msg, i) => (
-            <div key={i} className={`message ${msg.role}`}>
-              <div className="message-avatar">
-                {msg.role === 'assistant' ? '👗' : '👤'}
-              </div>
-              <div className="message-content">
-                <div className="message-bubble">
-                  {/* Show attached image in user messages */}
-                  {msg.imagePreview && (
-                    <img
-                      src={msg.imagePreview}
-                      alt="Ảnh đã gửi"
-                      className="message-image"
-                    />
-                  )}
-                  {renderMessageContent(msg.content)}
+              <div key={i} className={`message ${msg.role}`}>
+                <div className="message-avatar">
+                  {msg.role === 'assistant' ? '👗' : '👤'}
                 </div>
-
-                {/* Outfit Cards */}
-                {msg.outfits && msg.outfits.length > 0 && (
-                  <div className="outfit-cards">
-                    {/* Size Suggestion */}
-                    {msg.size_suggestion && (
-                      <div className="size-badge">
-                        <span style={{ fontSize: '0.82rem', color: 'var(--text-tertiary)' }}>
-                          📏 Size gợi ý:
-                        </span>
-                        {msg.size_suggestion.top && (
-                          <div className="size-badge-item">
-                            <span className="size-badge-label">Áo</span>
-                            <span className="size-badge-value">{msg.size_suggestion.top}</span>
-                          </div>
-                        )}
-                        {msg.size_suggestion.bottom && (
-                          <div className="size-badge-item">
-                            <span className="size-badge-label">Quần</span>
-                            <span className="size-badge-value">{msg.size_suggestion.bottom}</span>
-                          </div>
-                        )}
-                        {msg.size_suggestion.shoe && (
-                          <div className="size-badge-item">
-                            <span className="size-badge-label">Giày</span>
-                            <span className="size-badge-value">{msg.size_suggestion.shoe}</span>
-                          </div>
-                        )}
-                      </div>
+                <div className="message-content">
+                  <div className="message-bubble">
+                    {/* Show attached image in user messages */}
+                    {msg.imagePreview && (
+                      <img
+                        src={msg.imagePreview}
+                        alt="Ảnh đã gửi"
+                        className="message-image"
+                      />
                     )}
-
-                    {msg.outfits.map((outfit, j) => {
-                      const favId = outfit.savedId || `${i}-${j}`;
-                      const isFavorited = favorites?.some(f => f.savedId === favId);
-                      return (
-                        <OutfitCard
-                          key={j}
-                          outfit={outfit}
-                          index={j}
-                          isFavorited={isFavorited}
-                          onToggleFavorite={(o) => {
-                            const withId = { ...o, savedId: favId };
-                            onToggleFavorite?.(withId);
-                          }}
-                        />
-                      );
-                    })}
+                    {renderMessageContent(msg.content)}
                   </div>
-                )}
 
-                <div className="message-time">{formatTime(msg.timestamp)}</div>
+                  {/* Outfit Cards */}
+                  {msg.outfits && msg.outfits.length > 0 && (
+                    <div className="outfit-cards">
+                      {/* Size Suggestion */}
+                      {msg.size_suggestion && (
+                        <div className="size-badge">
+                          <span style={{ fontSize: '0.82rem', color: 'var(--text-tertiary)' }}>
+                            📏 Size gợi ý:
+                          </span>
+                          {msg.size_suggestion.top && (
+                            <div className="size-badge-item">
+                              <span className="size-badge-label">Áo</span>
+                              <span className="size-badge-value">{msg.size_suggestion.top}</span>
+                            </div>
+                          )}
+                          {msg.size_suggestion.bottom && (
+                            <div className="size-badge-item">
+                              <span className="size-badge-label">Quần</span>
+                              <span className="size-badge-value">{msg.size_suggestion.bottom}</span>
+                            </div>
+                          )}
+                          {msg.size_suggestion.shoe && (
+                            <div className="size-badge-item">
+                              <span className="size-badge-label">Giày</span>
+                              <span className="size-badge-value">{msg.size_suggestion.shoe}</span>
+                            </div>
+                          )}
+                        </div>
+                      )}
+
+                      {msg.outfits.map((outfit, j) => {
+                        const favId = outfit.savedId || `${i}-${j}`;
+                        const isFavorited = favorites?.some(f => f.savedId === favId);
+                        return (
+                          <OutfitCard
+                            key={j}
+                            outfit={outfit}
+                            index={j}
+                            isFavorited={isFavorited}
+                            onToggleFavorite={(o) => {
+                              const withId = { ...o, savedId: favId };
+                              onToggleFavorite?.(withId);
+                            }}
+                          />
+                        );
+                      })}
+                    </div>
+                  )}
+
+                  <div className="message-time">{formatTime(msg.timestamp)}</div>
+                </div>
               </div>
-            </div>
-          )))}
+            )))}
 
           {/* Loading Indicator */}
           {isLoading && (

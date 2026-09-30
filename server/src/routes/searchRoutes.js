@@ -216,5 +216,146 @@ router.post('/outfit/generate-image', async (req, res) => {
   }
 });
 
+// ──────────────────────────────────────────────
+// Marketplace Broker Route (Setup Client Protocol)
+// ──────────────────────────────────────────────
+
+// Session initialization endpoint (/api/marketplace/phien)
+router.post('/marketplace/phien', (req, res) => {
+  const token = req.body?.token || 'session-token';
+  console.log(`[Marketplace] Client connected with token: ${token.slice(0, 15)}...`);
+
+  res.json({
+    maChuThe: "3f9a2c0011223344556677889900aabb",
+    agentId: "sphinx/fashion-search-agent",
+    version: "1.0.0",
+    hetHan: Math.floor(Date.now() / 1000) + 86400 * 30, // 30 days
+    ten: "Fashion AI - Trợ Lý Phối Đồ Thông Minh",
+    avatarUrl: "",
+    gioiThieu: "Chào bạn! Mình là Fashion AI, trợ lý tư vấn phong cách thời trang và phối đồ thông minh.",
+    hasAppLayout: false,
+    appLayout: null
+  });
+});
+
+// Chat message endpoint (/api/marketplace/tin)
+router.post('/marketplace/tin', async (req, res) => {
+  try {
+    const { loi, message: msgFromBody } = req.body;
+    const userMessage = (loi || msgFromBody || '').trim();
+
+    if (!userMessage) {
+      return res.status(400).json({ error: 'Nội dung tin nhắn không được để trống' });
+    }
+
+    console.log(`[Marketplace] User message: ${userMessage}`);
+    const result = await handleChat(userMessage, [], null);
+    const replyText = result?.message || result?.reply || 'Fashion AI đã xử lý xong yêu cầu của bạn.';
+
+    const khoi = [
+      {
+        loai: 'markdown',
+        noi_dung: replyText
+      }
+    ];
+
+    // Trích xuất hình ảnh lookbook sinh bởi AI và sản phẩm thật kèm link mua
+    if (Array.isArray(result?.outfits)) {
+      for (const [idx, outfit] of result.outfits.entries()) {
+        const outfitTitle = outfit.title || outfit.name || `Set đồ gợi ý #${idx + 1}`;
+
+        // 1. Khối ảnh minh họa lookbook toàn bộ trang phục
+        if (outfit.generatedImage) {
+          khoi.push({
+            loai: 'image',
+            url: outfit.generatedImage,
+            mo_ta: `📸 Minh họa Lookbook AI: ${outfitTitle}`
+          });
+        }
+
+        // 2. Chi tiết từng món đồ kèm link và bảng mua sắm trực tiếp
+        if (Array.isArray(outfit.items) && outfit.items.length > 0) {
+          let itemDetails = `### 👗 Danh sách sản phẩm & Link đặt mua — ${outfitTitle}\n\n`;
+          itemDetails += `| Món đồ | Tên sản phẩm đề xuất | Giá | Mua hàng |\n`;
+          itemDetails += `| :--- | :--- | :--- | :--- |\n`;
+
+          const productLinkBlocks = [];
+          const secondaryImages = [];
+
+          for (const it of outfit.items) {
+            const productList = it.products || it.matched_products || [];
+            const prod = productList[0] || null;
+            const itemName = it.name || it.type || 'Món đồ';
+            const price = prod?.price || (it.budget_range ? `~${it.budget_range} ₫` : 'Đang cập nhật');
+            const brand = prod?.brand ? ` (${prod.brand})` : '';
+            const prodName = prod?.name ? `${prod.name}${brand}` : itemName;
+            const targetUrl = prod?.url || `https://shopee.vn/search?keyword=${encodeURIComponent(itemName)}`;
+            const actionText = prod?.url ? `🛒 **MUA NGAY**` : `🔍 **Tìm mua**`;
+
+            // Thêm vào bảng Markdown
+            itemDetails += `| **${itemName}** | [${prodName}](${targetUrl}) | **${price}** | [${actionText}](${targetUrl}) |\n`;
+
+            // Thêm nút Link chuẩn cho Player Client
+            productLinkBlocks.push({
+              loai: 'link',
+              url: targetUrl,
+              nhan: `🛒 [${prod?.brand || 'Mua ngay'}] ${itemName}: ${prod?.name || itemName} (${price})`
+            });
+
+            // Gom ảnh sản phẩm thật
+            if (prod?.image && !prod.image.includes('placeholder')) {
+              secondaryImages.push({
+                loai: 'image',
+                url: prod.image,
+                mo_ta: `🛍️ ${itemName}: ${prod.name || ''} (${price})`
+              });
+            }
+          }
+
+          // Đưa Bảng sản phẩm & link lên NGAY DƯỚI ảnh Lookbook
+          khoi.push({
+            loai: 'markdown',
+            noi_dung: itemDetails
+          });
+
+          // Đưa các nút Link bấm nhanh trực tiếp
+          for (const linkBlock of productLinkBlocks) {
+            khoi.push(linkBlock);
+          }
+
+          // Cuối cùng đưa ảnh sản phẩm thật (nếu có)
+          for (const imgBlock of secondaryImages) {
+            khoi.push(imgBlock);
+          }
+        }
+      }
+    }
+
+    // 3. Khối gợi ý kích cỡ nếu có
+    if (result?.size_suggestion) {
+      const sz = result.size_suggestion;
+      const sizeText = typeof sz === 'object'
+        ? `Áo: **${sz.top || 'M'}** | Quần: **${sz.bottom || 'L'}** | Giày: **${sz.shoe || '40'}**`
+        : sz;
+      khoi.push({
+        loai: 'markdown',
+        noi_dung: `> 📏 **Gợi ý chọn size phù hợp:** ${sizeText}`
+      });
+    }
+
+    res.json({ khoi });
+  } catch (error) {
+    console.error('[Marketplace] Error processing turn:', error);
+    res.status(500).json({
+      khoi: [
+        {
+          loai: 'markdown',
+          noi_dung: `Đã xảy ra lỗi khi xử lý: ${error.message}`
+        }
+      ]
+    });
+  }
+});
+
 export { loadProducts, reloadProducts, getStats };
 export default router;

@@ -1,0 +1,10 @@
+{
+  "name": "clothes-search-agent",
+  "version": "1.0.0",
+  "description": "Fashion AI Agent - Tìm kiếm và phối đồ thông minh",
+  "scripts": {
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "package": "python build_marketplace_package.py"
+  }
+}

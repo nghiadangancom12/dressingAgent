@@ -1,0 +1,58 @@
+apiVersion: agent.platform/v1alpha3
+kind: Agent
+metadata:
+  id: sphinx/fashion-search-agent
+  version: 1.0.0
+  name: Fashion AI - Trợ Lý Phối Đồ Thông Minh
+  description: Trợ lý AI chuyên tìm kiếm thời trang, tư vấn kích cỡ và phối đồ thông
+    minh theo vóc dáng người dùng.
+  license: proprietary
+permissions:
+- id: write.external
+  reason: Truy vấn API tìm kiếm sản phẩm thời trang và tạo hình ảnh phối đồ thực tế
+- id: write.memory
+  reason: Ghi nhớ số đo cá nhân, phong cách thời trang và sở thích phối đồ
+- id: read.buyer_docs
+  reason: Đọc hình ảnh sản phẩm hoặc tài liệu người mua cung cấp để phối đồ phù hợp
+data:
+  humanReview: none
+  training: 'no'
+  retentionDays: 90
+  userCanExport: true
+  userCanDelete: true
+  storedIn: VN
+metering:
+  pricing:
+    model: free
+listing:
+  category: lifestyle
+  tags:
+  - sphinx
+  - thoi-trang
+  - phoi-do
+  - fashion
+  - tu-van-trang-phuc
+  - tieng-viet
+  icon: ./assets/icon.png
+  screenshots: []
+  overview: ./LISTING.md
+  guide: ./GUIDE.md
+  support: mailto:support@sphinxjsc.vn
+  localized:
+    vi-VN:
+      name: Fashion AI - Trợ Lý Phối Đồ Thông Minh
+      summary: Trợ lý AI chuyên tìm kiếm thời trang, tư vấn kích cỡ và phối đồ thông
+        minh theo vóc dáng người dùng.
+      greeting: Chào bạn! Mình là Fashion AI, trợ lý tư vấn phong cách thời trang
+        và phối đồ thông minh.
+      starters: []
+tools:
+  builtin:
+  - get_time
+installer:
+  entry: ./installer/setup.exe
+platform:
+  baseUrl: http://localhost:8000
+  hasAppLayout: false
+domain: business
+files: []

@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "dev": "node --watch src/index.js",
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "package": "python ../build_marketplace_package.py"
   },
   "dependencies": {
     "cors": "^2.8.5",

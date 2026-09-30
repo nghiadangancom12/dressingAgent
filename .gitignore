@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+*.env
+server/.env
+
+# Build outputs
+dist/
+build/
+client/dist/
+
+# Large installer binary and packages
+marketplace_package/installer/*.exe
+marketplace_package/installer/*.msi
+*.agent
+
+# Generated images & cache
+server/data/generated/
+data/generated/
+
+# Logs & temp
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db

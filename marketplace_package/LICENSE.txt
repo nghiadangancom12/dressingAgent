@@ -1,0 +1,21 @@
+GIẤY PHÉP SỬ DỤNG PHẦN MỀM THỜI TRANG FASHION AI (PROPRIETARY)
+
+Bản quyền thuộc về Sphinx JSC & Đội ngũ Phát triển Fashion AI.
+Tất cả các quyền được bảo lưu.
+
+1. CẤP PHÉP:
+Phần mềm này được cấp quyền sử dụng độc quyền (proprietary) cho người mua hợp pháp
+thông qua Allard Agent Management Platform theo đúng phạm vi gói đã đăng ký.
+
+2. CÁC HÀNH VI BỊ CẤM:
+- Nghiêm cấm phân phối lại, bán lại, cho thuê hoặc chuyển nhượng gói phần mềm khi
+  chưa có văn bản đồng ý chính thức.
+- Nghiêm cấm dịch ngược (reverse-engineer), can thiệp mã nhị phân của các tệp thực thi.
+
+3. DỮ LIỆU & BẢO HÀNH:
+Phần mềm tuân thủ nghiêm ngặt các cam kết tại khối `data` của agent.yaml:
+- Lưu trữ dữ liệu tại Việt Nam (VN).
+- Hỗ trợ người dùng xuất dữ liệu và xóa dữ liệu hoàn toàn.
+- Không huấn luyện dữ liệu từ cuộc hội thoại khi chưa được sự cho phép.
+
+Liên hệ hỗ trợ bản quyền: support@sphinxjsc.vn

@@ -63,16 +63,21 @@ function getCachedImage(cacheKey) {
 }
 
 function saveCachedImage(cacheKey, prompt, imageUrl, usedReferences) {
-  ensureCacheDir();
-  const cacheFile = path.join(CACHE_DIR, `${cacheKey}.json`);
-  const data = {
-    prompt,
-    imageUrl,
-    usedReferences,
-    createdAt: new Date().toISOString(),
-  };
-  fs.writeFileSync(cacheFile, JSON.stringify(data, null, 2), 'utf-8');
-  return data;
+  try {
+    ensureCacheDir();
+    const cacheFile = path.join(CACHE_DIR, `${cacheKey}.json`);
+    const data = {
+      prompt,
+      imageUrl,
+      usedReferences,
+      createdAt: new Date().toISOString(),
+    };
+    fs.writeFileSync(cacheFile, JSON.stringify(data, null, 2), 'utf-8');
+    return data;
+  } catch (err) {
+    console.warn('⚠️ Could not save cached image (disk space):', err.message);
+    return null;
+  }
 }
 
 // ──────────────────────────────────────────────
